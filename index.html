@@ -3,47 +3,281 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ComplianceGuard.ai | Protect Your Business from ADA Lawsuits</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <title>US Compliance Guard - Official Audit</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        bureaucratic: '#F3F4F6',
+                        navy: '#0F172A',
+                        alert: '#DC2626',
+                        warning: '#B45309',
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        .glowing-border {
-            position: relative;
-            z-index: 0;
-        }
-        .glowing-border::before {
-            content: '';
+        body { font-family: 'Inter', sans-serif; }
+        .scan-line {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to right, transparent, rgba(255,255,255,0.5), transparent);
             position: absolute;
-            top: -2px;
-            left: -2px;
-            right: -2px;
-            bottom: -2px;
-            background: linear-gradient(45deg, #2563EB, #3B82F6, #2563EB);
-            border-radius: 1rem;
-            z-index: -1;
-            animation: rotate 3s linear infinite;
+            top: 0;
+            left: -100%;
+            animation: scan 1.5s infinite;
         }
-        @keyframes rotate {
-            0% { opacity: 0.5; }
-            50% { opacity: 1; }
-            100% { opacity: 0.5; }
+        @keyframes scan {
+            0% { left: -100%; }
+            100% { left: 100%; }
         }
     </style>
-    <!-- Error Trap -->
-    <script>
-      window.addEventListener('error', function(e) {
-        var errorDiv = document.createElement('div');
-        errorDiv.style.cssText = 'position:fixed;top:0;left:0;width:100%;background:red;color:white;padding:20px;z-index:9999;font-family:monospace;white-space:pre-wrap;';
-        errorDiv.textContent = 'App Error: ' + e.message + '\nFile: ' + e.filename + ':' + e.lineno;
-        document.body.appendChild(errorDiv);
-      });
-    </script>
-    <!-- Gumroad Overlay Integration -->
-    <script src="https://gumroad.com/js/gumroad.js" defer></script>
 </head>
-<body class="bg-white text-slate-900 overflow-x-hidden">
-    <div id="root"></div>
-    <script type="module" src="/index.tsx"></script>
+<body class="bg-bureaucratic text-navy antialiased min-h-screen flex flex-col">
+
+    <!-- 1. Sticky Top Alert Bar -->
+    <div class="bg-alert text-white text-xs md:text-sm font-bold py-2 px-4 text-center sticky top-0 z-50 shadow-md">
+        <i class="fas fa-exclamation-triangle mr-2"></i>
+        OFFICIAL NOTICE: <span class="current-year">2026</span> Labor Law Updates are EFFECTIVE IMMEDIATELY. Failure to post may result in fines.
+    </div>
+
+    <!-- 2. Header -->
+    <header class="bg-navy text-white py-4 px-4 md:px-8 border-b-4 border-warning">
+        <div class="max-w-4xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="flex items-center gap-3">
+                <i class="fas fa-shield-alt text-3xl text-gray-200"></i>
+                <div>
+                    <h1 class="text-xl md:text-2xl font-black tracking-tight uppercase">US Compliance Guard</h1>
+                    <p class="text-[10px] text-gray-400 uppercase tracking-widest">Bureau of Workplace Safety Standards</p>
+                </div>
+            </div>
+            <div class="border-2 border-red-500 bg-red-900/20 px-4 py-2 rounded text-center w-full md:w-auto">
+                <p class="text-[10px] text-red-400 font-bold uppercase tracking-wider">System Reference</p>
+                <p class="text-sm md:text-base font-mono font-bold text-white" id="ref-id">GENERATING...</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="pb-24 flex-grow">
+        <!-- 3. Hero Section (The Trap) -->
+        <section class="max-w-2xl mx-auto mt-8 px-4">
+            <div class="text-center mb-8">
+                <h2 class="text-2xl md:text-4xl font-black text-navy mb-2 uppercase tracking-tight">Mandatory Compliance Audit</h2>
+                <p class="text-slate-600 font-medium text-sm md:text-base">Verify your business status against the <span class="current-year">2026</span> Federal & State posting requirements.</p>
+            </div>
+
+            <!-- The Widget -->
+            <div class="bg-white rounded-sm border-2 border-slate-300 shadow-xl overflow-hidden relative">
+                <div class="bg-slate-100 border-b border-slate-300 px-4 py-2 flex justify-between items-center">
+                    <span class="text-[10px] md:text-xs font-bold text-slate-500 uppercase flex items-center"><i class="fas fa-server mr-2 text-green-600"></i> Federal Database Connection: SECURE</span>
+                    <i class="fas fa-lock text-slate-400 text-xs"></i>
+                </div>
+
+                <div class="p-6 md:p-8">
+                    <!-- State 1: Idle -->
+                    <div id="state-idle" class="text-center">
+                        <label class="block text-left text-sm font-bold text-slate-700 mb-2 uppercase">Enter Business Zip Code</label>
+                        <div class="flex flex-col md:flex-row gap-2">
+                            <input type="text" id="zip-input" placeholder="e.g. 10001" class="flex-1 bg-gray-50 border-2 border-slate-300 text-navy text-lg font-mono p-3 focus:outline-none focus:border-slate-500 focus:ring-0 rounded-none uppercase" maxlength="5">
+                            <button onclick="runAudit()" class="bg-navy hover:bg-slate-800 text-white font-bold py-3 px-6 uppercase tracking-wide transition-colors shadow-lg active:transform active:scale-95">
+                                Check Status
+                            </button>
+                        </div>
+                        <p class="text-[10px] text-slate-400 mt-3 text-left italic">*Checking against current DoL/OSHA databases.</p>
+                    </div>
+
+                    <!-- State 2: Scanning -->
+                    <div id="state-scanning" class="hidden py-4">
+                        <div class="mb-4">
+                            <div class="h-6 bg-gray-200 rounded-sm overflow-hidden relative border border-gray-300">
+                                <div id="progress-bar" class="h-full bg-blue-600 w-0 transition-all duration-300 ease-out relative">
+                                    <div class="scan-line"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <p id="scan-text" class="text-center font-mono text-sm font-bold text-slate-600 animate-pulse uppercase">Initializing Scan...</p>
+                    </div>
+
+                    <!-- State 3: Result (The Scare) -->
+                    <div id="state-result" class="hidden">
+                        <div class="bg-red-50 border-l-4 border-alert p-4 md:p-6 mb-6">
+                            <div class="flex items-start">
+                                <div class="flex-shrink-0 pt-1">
+                                    <i class="fas fa-times-circle text-3xl md:text-4xl text-alert"></i>
+                                </div>
+                                <div class="ml-4">
+                                    <h3 class="text-lg md:text-xl font-black text-red-900 uppercase leading-none mb-2">Non-Compliant Status Detected</h3>
+                                    <p class="text-red-800 font-medium text-sm md:text-base">Your location (<span id="result-zip" class="font-mono font-bold"></span>) requires 3 mandatory <span class="current-year">2026</span> updates.</p>
+                                    <p class="text-red-900 font-black mt-2 text-sm md:text-base bg-red-100 inline-block px-2 py-1">RISK OF FINES: $42,530</p>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="w-full bg-alert hover:bg-red-700 text-white text-lg md:text-xl font-black py-4 px-6 shadow-xl transform active:scale-[0.98] transition-all uppercase flex flex-col md:flex-row justify-between items-center group border-b-4 border-red-800">
+                            <span class="flex items-center gap-2"><i class="fas fa-download"></i> Retrieve Compliance Kit</span>
+                            <span class="bg-white/20 px-3 py-1 rounded text-base mt-2 md:mt-0 group-hover:bg-white/30">$99.00</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 4. The Fine Matrix -->
+        <section class="max-w-2xl mx-auto mt-12 px-4">
+            <h3 class="text-lg font-bold text-navy uppercase mb-4 border-b-2 border-slate-300 pb-2">Potential Liability Assessment</h3>
+            <div class="bg-white border border-slate-300 shadow-sm">
+                <table class="w-full text-left text-sm">
+                    <thead class="bg-slate-100 text-slate-600 uppercase text-xs">
+                        <tr>
+                            <th class="p-3 border-b border-slate-200">Violation Type</th>
+                            <th class="p-3 border-b border-slate-200 text-right">Max Penalty</th>
+                        </tr>
+                    </thead>
+                    <tbody class="font-mono">
+                        <tr>
+                            <td class="p-3 border-b border-slate-100 text-slate-700">OSHA Violation (Per Instance)</td>
+                            <td class="p-3 border-b border-slate-100 text-right text-red-700 font-bold">$16,131</td>
+                        </tr>
+                        <tr>
+                            <td class="p-3 border-b border-slate-100 text-slate-700">EEOC / Discrimination</td>
+                            <td class="p-3 border-b border-slate-100 text-right text-red-700 font-bold">$2,451</td>
+                        </tr>
+                        <tr>
+                            <td class="p-3 border-b border-slate-100 text-slate-700">FLSA / Wage & Hour</td>
+                            <td class="p-3 border-b border-slate-100 text-right text-red-700 font-bold">$23,948</td>
+                        </tr>
+                        <tr class="bg-red-50">
+                            <td class="p-3 font-bold text-navy uppercase">Total Potential Liability</td>
+                            <td class="p-3 text-right text-alert font-black text-lg">$42,530+</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="mt-4 bg-green-50 border border-green-200 p-4 flex justify-between items-center shadow-sm">
+                <span class="font-bold text-green-900 uppercase text-sm">Compliance Kit Cost</span>
+                <span class="font-black text-green-700 text-xl">$99.00</span>
+            </div>
+        </section>
+
+        <!-- 5. What's Included -->
+        <section class="max-w-2xl mx-auto mt-12 px-4 mb-12">
+            <h3 class="text-lg font-bold text-navy uppercase mb-4">Coverage Includes:</h3>
+            <div class="grid md:grid-cols-2 gap-4">
+                <div class="flex items-start gap-3 p-4 bg-white border border-slate-200 shadow-sm">
+                    <i class="fas fa-check-circle text-green-600 mt-1"></i>
+                    <div>
+                        <h4 class="font-bold text-navy text-sm">All-in-One Poster</h4>
+                        <p class="text-xs text-slate-500">Includes all <span class="current-year">2026</span> Federal & State mandatory postings.</p>
+                    </div>
+                </div>
+                <div class="flex items-start gap-3 p-4 bg-white border border-slate-200 shadow-sm">
+                    <i class="fas fa-shield-alt text-green-600 mt-1"></i>
+                    <div>
+                        <h4 class="font-bold text-navy text-sm">Audit Defense Guarantee</h4>
+                        <p class="text-xs text-slate-500">We pay the fine if our posters are found non-compliant.</p>
+                    </div>
+                </div>
+                <div class="flex items-start gap-3 p-4 bg-white border border-slate-200 shadow-sm">
+                    <i class="fas fa-certificate text-green-600 mt-1"></i>
+                    <div>
+                        <h4 class="font-bold text-navy text-sm">Certificate of Compliance</h4>
+                        <p class="text-xs text-slate-500">Official documentation for your records.</p>
+                    </div>
+                </div>
+                <div class="flex items-start gap-3 p-4 bg-white border border-slate-200 shadow-sm">
+                    <i class="fas fa-sync text-green-600 mt-1"></i>
+                    <div>
+                        <h4 class="font-bold text-navy text-sm">12-Month Update Service</h4>
+                        <p class="text-xs text-slate-500">Automatic notifications of new mandatory changes.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 7. Footer -->
+    <footer class="bg-slate-200 py-8 px-4 text-center border-t border-slate-300 mt-auto">
+        <div class="max-w-4xl mx-auto">
+            <p class="text-[10px] text-slate-500 leading-relaxed uppercase font-medium">
+                <strong>Disclaimer:</strong> US Compliance Guard is a private non-governmental service. We are not affiliated with the Department of Labor, OSHA, or any government agency. This is a solicitation for the purchase of labor law compliance materials. You may obtain some government forms for free directly from the respective agencies. The Ref ID generated is for internal tracking purposes only.
+            </p>
+            <p class="text-[10px] text-slate-400 mt-4">
+                &copy; <span class="current-year">2026</span> US Compliance Guard. All Rights Reserved.
+            </p>
+        </div>
+    </footer>
+
+    <!-- 6. Sticky Mobile Footer -->
+    <div id="mobile-footer" class="fixed bottom-0 left-0 w-full bg-white border-t-4 border-alert p-4 shadow-2xl flex justify-between items-center transform translate-y-full transition-transform duration-300 z-50 md:hidden">
+        <div class="flex items-center gap-2">
+            <div class="animate-pulse w-3 h-3 bg-alert rounded-full"></div>
+            <span class="font-bold text-navy text-sm">Status: 🔴 Risk Detected</span>
+        </div>
+        <button class="bg-alert text-white font-bold py-2 px-6 rounded uppercase text-sm shadow-lg hover:bg-red-700">Fix Now</button>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Date Injection - Uses system year
+            const year = new Date().getFullYear();
+            document.querySelectorAll('.current-year').forEach(el => el.textContent = year);
+
+            // Random REF ID
+            const randomId = Math.floor(100000 + Math.random() * 900000);
+            document.getElementById('ref-id').textContent = `REF ID: ${randomId}-PENDING`;
+        });
+
+        function runAudit() {
+            const zipInput = document.getElementById('zip-input');
+            const zip = zipInput.value;
+            
+            // Simple validation
+            if (!zip || zip.length < 5 || isNaN(zip)) {
+                alert("Please enter a valid 5-digit Zip Code.");
+                zipInput.focus();
+                return;
+            }
+
+            // State Transitions
+            document.getElementById('state-idle').classList.add('hidden');
+            document.getElementById('state-scanning').classList.remove('hidden');
+
+            const progressBar = document.getElementById('progress-bar');
+            const scanText = document.getElementById('scan-text');
+            const resultZip = document.getElementById('result-zip');
+            const mobileFooter = document.getElementById('mobile-footer');
+
+            // Timeline simulation
+            let progress = 0;
+            const interval = setInterval(() => {
+                progress += 1;
+                if (progress > 100) progress = 100;
+                progressBar.style.width = `${progress}%`;
+            }, 30); // 3 seconds total
+
+            // Text Updates
+            setTimeout(() => { scanText.textContent = "Scanning State Database..."; }, 500);
+            setTimeout(() => { scanText.textContent = "Checking OSHA Records..."; }, 1500);
+            setTimeout(() => { scanText.textContent = "Verifying FLSA Status..."; }, 2500);
+
+            // Completion
+            setTimeout(() => {
+                clearInterval(interval);
+                document.getElementById('state-scanning').classList.add('hidden');
+                document.getElementById('state-result').classList.remove('hidden');
+                resultZip.textContent = zip;
+                
+                // Show Mobile Footer
+                mobileFooter.classList.remove('translate-y-full');
+            }, 3000);
+        }
+    </script>
 </body>
 </html>
