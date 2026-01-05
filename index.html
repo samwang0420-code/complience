@@ -30,8 +30,17 @@
             100% { opacity: 0.5; }
         }
     </style>
+    <!-- Error Trap -->
+    <script>
+      window.addEventListener('error', function(e) {
+        var errorDiv = document.createElement('div');
+        errorDiv.style.cssText = 'position:fixed;top:0;left:0;width:100%;background:red;color:white;padding:20px;z-index:9999;font-family:monospace;white-space:pre-wrap;';
+        errorDiv.textContent = 'App Error: ' + e.message + '\nFile: ' + e.filename + ':' + e.lineno;
+        document.body.appendChild(errorDiv);
+      });
+    </script>
     <!-- Gumroad Overlay Integration -->
-    <script src="https://gumroad.com/js/gumroad.js"></script>
+    <script src="https://gumroad.com/js/gumroad.js" defer></script>
 </head>
 <body class="bg-white text-slate-900 overflow-x-hidden">
     <div id="root"></div>
