@@ -18,7 +18,7 @@ import {
 } from 'lucide-react';
 
 // --- Constants ---
-const GUMROAD_LINK = "https://gumroad.com/l/complianceguard_lifetime";
+const GUMROAD_LINK = import.meta.env.VITE_GUMROAD_PRODUCT_URL || "https://gumroad.com/l/complianceguard_lifetime";
 
 // --- Components ---
 
