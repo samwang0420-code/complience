@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import FreeCheck from './pages/FreeCheck';
 import QuestionPage from './pages/QuestionPage';
 import IndustryPage from './pages/IndustryPage';
+import AdaLandingPage from './pages/AdaLandingPage';
 import ThankYou from './pages/ThankYou';
 
 export default function App() {
@@ -16,6 +17,11 @@ export default function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="check" element={<FreeCheck />} />
+            
+            {/* Programmatic SEO Routes */}
+            <Route path="ada-compliance/:industry" element={<AdaLandingPage />} />
+            <Route path="ada-compliance/:industry/:location" element={<AdaLandingPage />} />
+
             {/* Generic Category Route for Questions */}
             <Route path=":category/:slug" element={<QuestionPage />} />
             <Route path="industry/:slug" element={<IndustryPage />} />
