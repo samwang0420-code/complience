@@ -43,12 +43,17 @@ const LeadForm: React.FC<LeadFormProps> = ({ initialUrl = '', source = 'generic'
     const webhookUrl = import.meta.env.VITE_LEAD_WEBHOOK_URL;
     if (webhookUrl) {
       try {
-        await fetch(webhookUrl, {
+        // We use standard fetch without no-cors to ensure headers are sent correctly.
+        // If you see CORS errors in console, ensure your n8n server allows CORS from this domain.
+        const response = await fetch(webhookUrl, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(payload),
-          mode: 'no-cors' // Often needed for simple webhooks to avoid CORS errors, though response is opaque
+          body: JSON.stringify(payload)
         });
+
+        if (!response.ok) {
+          console.error(`Webhook returned error: ${response.status}`);
+        }
       } catch (error) {
         console.error('Webhook failed:', error);
         // Continue anyway to show success to user
