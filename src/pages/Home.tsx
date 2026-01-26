@@ -1,94 +1,15 @@
-
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import { 
-  Shield, 
+  ShieldCheck, 
   Gavel, 
   AlertCircle, 
   Search, 
   CheckCircle2, 
   ChevronDown, 
-  ExternalLink,
-  Code,
-  ShieldCheck,
-  ShoppingBag,
-  Menu,
-  X,
-  ArrowRight
+  ArrowRight,
 } from 'lucide-react';
-
-// --- Constants ---
-const GUMROAD_LINK = import.meta.env.VITE_GUMROAD_PRODUCT_URL || "https://gumroad.com/l/complianceguard_lifetime";
-
-// --- Components ---
-
-const Navbar: React.FC = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const [scrolled, setScrolled] = useState(false);
-
-  useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 20);
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
-
-  return (
-    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? 'bg-white/80 backdrop-blur-md shadow-sm border-b' : 'bg-transparent'}`}>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-20">
-          <div className="flex items-center gap-2">
-            <Shield className="w-8 h-8 text-blue-600" />
-            <span className="text-xl font-bold tracking-tight">ComplianceGuard<span className="text-blue-600">.ai</span></span>
-          </div>
-
-          {/* Desktop Nav */}
-          <div className="hidden md:flex items-center gap-8">
-            <a href="#problem" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">The Risk</a>
-            <a href="#installation" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">Installation Guide</a>
-            <a href="#pricing" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">Pricing</a>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
-              className="px-6 py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-all shadow-md shadow-blue-500/20 active:scale-95"
-            >
-              Get Protected
-            </a>
-          </div>
-
-          {/* Mobile Toggle */}
-          <div className="md:hidden">
-            <button onClick={() => setIsOpen(!isOpen)} className="p-2 text-slate-600">
-              {isOpen ? <X /> : <Menu />}
-            </button>
-          </div>
-        </div>
-      </div>
-
-      {/* Mobile Menu */}
-      <AnimatePresence>
-        {isOpen && (
-          <motion.div 
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
-            className="md:hidden bg-white border-b px-4 pb-6 space-y-4 shadow-xl"
-          >
-            <a href="#problem" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">The Risk</a>
-            <a href="#installation" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">Installation</a>
-            <a href="#pricing" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">Pricing</a>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
-              className="block w-full text-center py-3 bg-blue-600 text-white rounded-lg font-semibold"
-            >
-              Get Protected Now
-            </a>
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </nav>
-  );
-};
 
 const Hero: React.FC = () => {
   const logos = [
@@ -122,14 +43,11 @@ const Hero: React.FC = () => {
               Predatory ADA lawsuits against small businesses rose by 300% in 2025. Protect your business with one line of code. No complexity, just compliance.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 mb-16">
-              <motion.a 
-                href={GUMROAD_LINK}
-                data-gumroad-overlay-checkout="true"
-                initial="initial"
-                whileHover="hover"
+              <Link 
+                to="/check"
                 className="flex items-center justify-center gap-2 px-8 py-4 bg-blue-600 text-white rounded-xl text-lg font-bold hover:bg-blue-700 transition-all shadow-xl shadow-blue-600/30 group active:scale-[0.98]"
               >
-                Secure My Website Now
+                Check My Website Risk
                 <motion.div
                   variants={{
                     initial: { x: 0, scale: 1, rotate: 0 },
@@ -139,11 +57,7 @@ const Hero: React.FC = () => {
                 >
                   <ShieldCheck className="w-6 h-6" />
                 </motion.div>
-              </motion.a>
-              <a href="#installation" className="flex items-center justify-center gap-2 px-8 py-4 bg-white border border-slate-200 text-slate-900 rounded-xl text-lg font-bold hover:bg-slate-50 transition-all active:scale-[0.98] group">
-                View Installation
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </a>
+              </Link>
             </div>
             
             <div className="space-y-6">
@@ -299,18 +213,18 @@ const ProblemSection: React.FC = () => {
 const SolutionSection: React.FC = () => {
   const steps = [
     {
-      title: "Purchase License",
-      desc: "Secure your lifetime license with a one-time payment. No hidden monthly fees.",
-      icon: <ShoppingBag className="w-6 h-6 text-white" />
+      title: "Free Scan",
+      desc: "Instant automated analysis of your website's accessibility compliance status.",
+      icon: <Search className="w-6 h-6 text-white" />
     },
     {
-      title: "Copy 'Smart-Snippet'",
-      desc: "Access your dashboard to generate your custom AI accessibility snippet.",
-      icon: <Code className="w-6 h-6 text-white" />
+      title: "Get Report",
+      desc: "Receive a detailed breakdown of risks and specific violation points.",
+      icon: <AlertCircle className="w-6 h-6 text-white" />
     },
     {
-      title: "Instant Protection",
-      desc: "Paste the snippet into your website's header. You're now fully compliant.",
+      title: "Fix Issues",
+      desc: "Use our automated tools or developer guide to remediate violations.",
       icon: <CheckCircle2 className="w-6 h-6 text-white" />
     }
   ];
@@ -322,7 +236,7 @@ const SolutionSection: React.FC = () => {
           <div className="lg:w-1/2">
             <h2 className="text-sm font-bold text-blue-600 uppercase tracking-widest mb-4">The Solution</h2>
             <h3 className="text-4xl lg:text-5xl font-extrabold text-slate-900 mb-8 leading-tight">
-              One line of code. <br />Infinite Peace of Mind.
+              Identify Risks Before <br />Lawyers Do.
             </h3>
             <div className="space-y-10">
               {steps.map((step, idx) => (
@@ -375,108 +289,6 @@ const SolutionSection: React.FC = () => {
     </section>
   );
 };
-
-const Pricing: React.FC = () => (
-  <section id="pricing" className="py-24 bg-slate-50 overflow-hidden">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="text-center max-w-2xl mx-auto mb-16">
-        <h2 className="text-4xl font-extrabold text-slate-900 mb-4">Investment, Not Expense.</h2>
-        <p className="text-lg text-slate-600">Secure lifetime protection for less than the cost of a single hour with a corporate lawyer.</p>
-      </div>
-
-      <div className="grid lg:grid-cols-3 gap-8 items-stretch">
-        {/* Competitor 1 */}
-        <div className="bg-white p-10 rounded-2xl border border-slate-200 flex flex-col opacity-75">
-          <div className="mb-8">
-            <h3 className="text-xl font-bold text-slate-900 mb-2">Law Firm Audit</h3>
-            <p className="text-slate-500 text-sm">Full manual certification</p>
-          </div>
-          <div className="mb-8">
-            <span className="text-4xl font-bold text-slate-300 line-through">$5,000+</span>
-            <p className="text-slate-400 text-xs mt-2 uppercase tracking-widest font-bold">One-time audit</p>
-          </div>
-          <ul className="space-y-4 mb-10 flex-grow">
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Slow turnaround (2 weeks)
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Outdated in 3 months
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> No live support
-            </li>
-          </ul>
-        </div>
-
-        {/* Hero Card */}
-        <div className="glowing-border flex flex-col">
-          <div className="bg-white p-10 rounded-2xl flex flex-col h-full relative z-10 border shadow-2xl">
-            <div className="absolute top-0 right-10 -translate-y-1/2 px-4 py-1 bg-blue-600 text-white text-xs font-bold rounded-full uppercase tracking-widest">
-              Best Value
-            </div>
-            <div className="mb-8">
-              <h3 className="text-2xl font-bold text-slate-900 mb-2">Lifetime Protection</h3>
-              <p className="text-blue-600 font-semibold text-sm">Our 2025 Flagship Offer</p>
-            </div>
-            <div className="mb-8">
-              <div className="flex items-baseline gap-2">
-                <span className="text-5xl font-extrabold text-slate-900">$199</span>
-                <span className="text-slate-500 font-medium">One-time</span>
-              </div>
-              <p className="text-green-600 text-xs mt-2 font-bold uppercase tracking-wider">Save 80% vs Enterprise competitors</p>
-            </div>
-            <ul className="space-y-4 mb-10 flex-grow">
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Unlimited Pageviews
-              </li>
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Accessibility Statement Incl.
-              </li>
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Automatic AI Updates
-              </li>
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Priority Compliance Concierge
-              </li>
-            </ul>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
-              className="w-full py-5 bg-blue-600 text-white rounded-xl text-lg font-bold hover:bg-blue-700 transition-all shadow-xl shadow-blue-500/40 text-center active:scale-[0.98]"
-            >
-              Get Lifetime Access
-            </a>
-            <p className="text-center text-[10px] text-slate-400 mt-4 uppercase font-bold tracking-widest">Limited to next 100 licenses</p>
-          </div>
-        </div>
-
-        {/* Competitor 2 */}
-        <div className="bg-white p-10 rounded-2xl border border-slate-200 flex flex-col opacity-75">
-          <div className="mb-8">
-            <h3 className="text-xl font-bold text-slate-900 mb-2">Enterprise SaaS</h3>
-            <p className="text-slate-500 text-sm">Standard monthly subscription</p>
-          </div>
-          <div className="mb-8">
-            <span className="text-4xl font-bold text-slate-300 line-through">$490</span>
-            <span className="text-slate-300 font-medium">/yr</span>
-            <p className="text-slate-400 text-xs mt-2 uppercase tracking-widest font-bold">Recurring Subscription</p>
-          </div>
-          <ul className="space-y-4 mb-10 flex-grow">
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Cancel = Protection Lost
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Price increases over time
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Basic Support Tier
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-);
 
 const FAQ: React.FC = () => {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
@@ -536,81 +348,15 @@ const FAQ: React.FC = () => {
   );
 };
 
-const Footer: React.FC = () => (
-  <footer className="bg-slate-900 text-white py-16">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="grid md:grid-cols-4 gap-12 mb-12">
-        <div className="col-span-2">
-          <div className="flex items-center gap-2 mb-6">
-            <Shield className="w-8 h-8 text-blue-400" />
-            <span className="text-2xl font-bold tracking-tight">ComplianceGuard<span className="text-blue-400">.ai</span></span>
-          </div>
-          <p className="text-slate-400 max-w-sm mb-6">
-            Protecting digital entrepreneurs from predatory litigation since 2023. Our mission is to make the web accessible for everyone without bankrupting small businesses.
-          </p>
-          <div className="flex gap-4">
-            <div className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-blue-600 transition-colors cursor-pointer">
-              <ExternalLink className="w-5 h-5" />
-            </div>
-          </div>
-        </div>
-        <div>
-          <h4 className="font-bold mb-6 uppercase text-xs tracking-widest text-slate-500">Legal</h4>
-          <ul className="space-y-4 text-slate-400">
-            <li><a href="#" className="hover:text-white transition-colors">Privacy Policy</a></li>
-            <li><a href="#" className="hover:text-white transition-colors">Terms of Service</a></li>
-            <li><a href="#" className="hover:text-white transition-colors">Cookie Policy</a></li>
-            <li><a href="#" className="hover:text-white transition-colors">GDPR Compliance</a></li>
-          </ul>
-        </div>
-        <div>
-          <h4 className="font-bold mb-6 uppercase text-xs tracking-widest text-slate-500">Contact</h4>
-          <ul className="space-y-4 text-slate-400">
-            <li>support@complianceguard.ai</li>
-            <li>+1 (555) 902-1203</li>
-            <li>San Francisco, CA</li>
-          </ul>
-        </div>
-      </div>
-      <div className="pt-12 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-6">
-        <p className="text-slate-500 text-sm">&copy; 2025 ComplianceGuard.ai. All rights reserved.</p>
-        <div className="flex items-center gap-2 text-xs text-slate-600 bg-slate-800 px-4 py-2 rounded-full border border-slate-700">
-          <ShieldCheck className="w-4 h-4" />
-          SSL SECURED PAYMENT VIA STRIPE & GUMROAD
-        </div>
-      </div>
-    </div>
-  </footer>
-);
-
-export default function App() {
+const Home: React.FC = () => {
   return (
-    <div className="min-h-screen selection:bg-blue-100 selection:text-blue-900">
-      <Navbar />
+    <>
       <Hero />
       <ProblemSection />
       <SolutionSection />
-      <Pricing />
       <FAQ />
-      
-      {/* Final CTA Bar */}
-      <section className="bg-blue-600 py-12 sticky bottom-0 z-40">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-6">
-          <div className="text-white">
-            <p className="text-2xl font-bold">Ready to stop worrying about lawsuits?</p>
-            <p className="opacity-80">Join 2,000+ protected businesses today.</p>
-          </div>
-          <a 
-            href={GUMROAD_LINK}
-            data-gumroad-overlay-checkout="true"
-            className="px-10 py-4 bg-white text-blue-600 rounded-xl font-bold text-lg hover:bg-slate-50 shadow-2xl transition-all active:scale-95"
-          >
-            Get Lifetime Access $199
-          </a>
-        </div>
-      </section>
-
-      <Footer />
-    </div>
+    </>
   );
-}
+};
+
+export default Home;
