@@ -20,11 +20,36 @@ const LeadForm: React.FC<LeadFormProps> = ({ initialUrl = '', source = 'generic'
     e.preventDefault();
     setIsSubmitting(true);
 
-    // Simulate API call
-    await new Promise(resolve => setTimeout(resolve, 1500));
+    const payload = {
+      email,
+      url,
+      businessType,
+      source,
+      timestamp: new Date().toISOString(),
+      userAgent: navigator.userAgent
+    };
 
-    // In a real app, you would send this data to your backend
-    console.log('Lead submitted:', { email, url, businessType, source, timestamp: new Date().toISOString() });
+    // Log for debugging
+    console.log('Lead submitted:', payload);
+
+    // Attempt to send to Webhook if configured
+    const webhookUrl = import.meta.env.VITE_LEAD_WEBHOOK_URL;
+    if (webhookUrl) {
+      try {
+        await fetch(webhookUrl, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+          mode: 'no-cors' // Often needed for simple webhooks to avoid CORS errors, though response is opaque
+        });
+      } catch (error) {
+        console.error('Webhook failed:', error);
+        // Continue anyway to show success to user
+      }
+    } else {
+      // Simulate delay if no webhook
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
 
     setIsSubmitting(false);
     

@@ -9,7 +9,8 @@ const BASE_URL = 'https://uscomplianceguard.com';
 
 function extractKeys(filePath) {
   const content = fs.readFileSync(filePath, 'utf-8');
-  const regex = /^\s*['"]([\w-]+)['"]:/gm;
+  // Regex to capture keys like 'ada/slug': { or 'slug': {
+  const regex = /^\s*['"]([\w\-\/]+)['"]:/gm;
   const keys = [];
   let match;
   while ((match = regex.exec(content)) !== null) {
@@ -44,10 +45,13 @@ staticPages.forEach(page => {
 `;
 });
 
-// Question Pages
-questions.forEach(slug => {
+// Question Pages (Now includes category in key, e.g., 'ada/slug')
+questions.forEach(key => {
+  // If key already contains slash, use it directly. If not, assume old format (should be migrated)
+  const path = key.includes('/') ? key : `ada/${key}`;
+  
   sitemap += `  <url>
-    <loc>${BASE_URL}/ada/${slug}</loc>
+    <loc>${BASE_URL}/${path}</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -68,7 +72,7 @@ sitemap += `</urlset>`;
 
 const publicDir = path.join(__dirname, '../public');
 if (!fs.existsSync(publicDir)) {
-  fs.mkdirSync(publicDir);
+  fs.mkdirSync(publicDir, { recursive: true });
 }
 
 fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), sitemap);

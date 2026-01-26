@@ -6,15 +6,19 @@ import LeadForm from '../components/LeadForm';
 import { QUESTION_DATA } from '../data/questions';
 
 const QuestionPage: React.FC = () => {
-  const { slug } = useParams<{ slug: string }>();
-  const data = slug ? QUESTION_DATA[slug] : null;
+  const { category, slug } = useParams<{ category: string; slug: string }>();
+  
+  // Construct the lookup key
+  const lookupKey = category && slug ? `${category}/${slug}` : '';
+  const data = QUESTION_DATA[lookupKey];
 
   // Fallback for unknown slugs (in a real app, 404)
   if (!data) {
     return (
       <div className="min-h-screen pt-32 text-center">
         <h1 className="text-2xl font-bold">Topic not found</h1>
-        <Link to="/" className="text-blue-600 hover:underline">Return Home</Link>
+        <p className="text-slate-500 mt-2">We couldn't find an answer for {lookupKey}</p>
+        <Link to="/" className="text-blue-600 hover:underline mt-4 inline-block">Return Home</Link>
       </div>
     );
   }
@@ -104,7 +108,7 @@ const QuestionPage: React.FC = () => {
             {/* Sidebar: Lead Form */}
             <div className="md:col-span-1">
               <div className="sticky top-24">
-                <LeadForm source={`question-${slug}`} />
+                <LeadForm source={`question-${category}-${slug}`} />
                 <div className="mt-6 p-4 bg-slate-100 rounded-xl text-xs text-slate-500 text-center">
                   <p>Not legal advice. Informational purpose only.</p>
                 </div>
