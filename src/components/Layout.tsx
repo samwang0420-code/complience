@@ -4,8 +4,6 @@ import { Shield, Menu, X, ShieldCheck, ExternalLink } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import UrgencyBanner from './UrgencyBanner';
 
-const GUMROAD_LINK = import.meta.env.VITE_GUMROAD_PRODUCT_URL || "https://gumroad.com/l/complianceguard_lifetime";
-
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -29,14 +27,12 @@ const Navbar: React.FC = () => {
           <div className="hidden md:flex items-center gap-8">
             <Link to="/check" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">Free Check</Link>
             <Link to="/#problem" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">The Risk</Link>
-            <Link to="/#pricing" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">Pricing</Link>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
+            <Link 
+              to="/check"
               className="px-6 py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-all shadow-md shadow-blue-500/20 active:scale-95"
             >
-              Get Protected
-            </a>
+              Free Compliance Check
+            </Link>
           </div>
 
           {/* Mobile Toggle */}
@@ -59,14 +55,13 @@ const Navbar: React.FC = () => {
           >
             <Link to="/check" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">Free Check</Link>
             <Link to="/#problem" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">The Risk</Link>
-            <Link to="/#pricing" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">Pricing</Link>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
+            <Link 
+              to="/check"
+              onClick={() => setIsOpen(false)}
               className="block w-full text-center py-3 bg-blue-600 text-white rounded-lg font-semibold"
             >
-              Get Protected Now
-            </a>
+              Free Compliance Check
+            </Link>
           </motion.div>
         )}
       </AnimatePresence>
@@ -114,7 +109,7 @@ const Footer: React.FC = () => (
         <p className="text-slate-500 text-sm">&copy; 2025 ComplianceGuard.ai. All rights reserved.</p>
         <div className="flex items-center gap-2 text-xs text-slate-600 bg-slate-800 px-4 py-2 rounded-full border border-slate-700">
           <ShieldCheck className="w-4 h-4" />
-          SSL SECURED PAYMENT VIA STRIPE & GUMROAD
+          SECURE & COMPLIANT
         </div>
       </div>
     </div>

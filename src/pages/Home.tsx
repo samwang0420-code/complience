@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import { 
   ShieldCheck, 
   Gavel, 
@@ -7,13 +8,8 @@ import {
   Search, 
   CheckCircle2, 
   ChevronDown, 
-  Code,
-  ShoppingBag,
   ArrowRight,
-  X
 } from 'lucide-react';
-
-const GUMROAD_LINK = import.meta.env.VITE_GUMROAD_PRODUCT_URL || "https://gumroad.com/l/complianceguard_lifetime";
 
 const Hero: React.FC = () => {
   const logos = [
@@ -47,14 +43,11 @@ const Hero: React.FC = () => {
               Predatory ADA lawsuits against small businesses rose by 300% in 2025. Protect your business with one line of code. No complexity, just compliance.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 mb-16">
-              <motion.a 
-                href={GUMROAD_LINK}
-                data-gumroad-overlay-checkout="true"
-                initial="initial"
-                whileHover="hover"
+              <Link 
+                to="/check"
                 className="flex items-center justify-center gap-2 px-8 py-4 bg-blue-600 text-white rounded-xl text-lg font-bold hover:bg-blue-700 transition-all shadow-xl shadow-blue-600/30 group active:scale-[0.98]"
               >
-                Secure My Website Now
+                Check My Website Risk
                 <motion.div
                   variants={{
                     initial: { x: 0, scale: 1, rotate: 0 },
@@ -64,11 +57,7 @@ const Hero: React.FC = () => {
                 >
                   <ShieldCheck className="w-6 h-6" />
                 </motion.div>
-              </motion.a>
-              <a href="#installation" className="flex items-center justify-center gap-2 px-8 py-4 bg-white border border-slate-200 text-slate-900 rounded-xl text-lg font-bold hover:bg-slate-50 transition-all active:scale-[0.98] group">
-                View Installation
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </a>
+              </Link>
             </div>
             
             <div className="space-y-6">
@@ -224,18 +213,18 @@ const ProblemSection: React.FC = () => {
 const SolutionSection: React.FC = () => {
   const steps = [
     {
-      title: "Purchase License",
-      desc: "Secure your lifetime license with a one-time payment. No hidden monthly fees.",
-      icon: <ShoppingBag className="w-6 h-6 text-white" />
+      title: "Free Scan",
+      desc: "Instant automated analysis of your website's accessibility compliance status.",
+      icon: <Search className="w-6 h-6 text-white" />
     },
     {
-      title: "Copy 'Smart-Snippet'",
-      desc: "Access your dashboard to generate your custom AI accessibility snippet.",
-      icon: <Code className="w-6 h-6 text-white" />
+      title: "Get Report",
+      desc: "Receive a detailed breakdown of risks and specific violation points.",
+      icon: <AlertCircle className="w-6 h-6 text-white" />
     },
     {
-      title: "Instant Protection",
-      desc: "Paste the snippet into your website's header. You're now fully compliant.",
+      title: "Fix Issues",
+      desc: "Use our automated tools or developer guide to remediate violations.",
       icon: <CheckCircle2 className="w-6 h-6 text-white" />
     }
   ];
@@ -247,7 +236,7 @@ const SolutionSection: React.FC = () => {
           <div className="lg:w-1/2">
             <h2 className="text-sm font-bold text-blue-600 uppercase tracking-widest mb-4">The Solution</h2>
             <h3 className="text-4xl lg:text-5xl font-extrabold text-slate-900 mb-8 leading-tight">
-              One line of code. <br />Infinite Peace of Mind.
+              Identify Risks Before <br />Lawyers Do.
             </h3>
             <div className="space-y-10">
               {steps.map((step, idx) => (
@@ -300,108 +289,6 @@ const SolutionSection: React.FC = () => {
     </section>
   );
 };
-
-const Pricing: React.FC = () => (
-  <section id="pricing" className="py-24 bg-slate-50 overflow-hidden">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="text-center max-w-2xl mx-auto mb-16">
-        <h2 className="text-4xl font-extrabold text-slate-900 mb-4">Investment, Not Expense.</h2>
-        <p className="text-lg text-slate-600">Secure lifetime protection for less than the cost of a single hour with a corporate lawyer.</p>
-      </div>
-
-      <div className="grid lg:grid-cols-3 gap-8 items-stretch">
-        {/* Competitor 1 */}
-        <div className="bg-white p-10 rounded-2xl border border-slate-200 flex flex-col opacity-75">
-          <div className="mb-8">
-            <h3 className="text-xl font-bold text-slate-900 mb-2">Law Firm Audit</h3>
-            <p className="text-slate-500 text-sm">Full manual certification</p>
-          </div>
-          <div className="mb-8">
-            <span className="text-4xl font-bold text-slate-300 line-through">$5,000+</span>
-            <p className="text-slate-400 text-xs mt-2 uppercase tracking-widest font-bold">One-time audit</p>
-          </div>
-          <ul className="space-y-4 mb-10 flex-grow">
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Slow turnaround (2 weeks)
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Outdated in 3 months
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> No live support
-            </li>
-          </ul>
-        </div>
-
-        {/* Hero Card */}
-        <div className="glowing-border flex flex-col">
-          <div className="bg-white p-10 rounded-2xl flex flex-col h-full relative z-10 border shadow-2xl">
-            <div className="absolute top-0 right-10 -translate-y-1/2 px-4 py-1 bg-blue-600 text-white text-xs font-bold rounded-full uppercase tracking-widest">
-              Best Value
-            </div>
-            <div className="mb-8">
-              <h3 className="text-2xl font-bold text-slate-900 mb-2">Lifetime Protection</h3>
-              <p className="text-blue-600 font-semibold text-sm">Our 2025 Flagship Offer</p>
-            </div>
-            <div className="mb-8">
-              <div className="flex items-baseline gap-2">
-                <span className="text-5xl font-extrabold text-slate-900">$199</span>
-                <span className="text-slate-500 font-medium">One-time</span>
-              </div>
-              <p className="text-green-600 text-xs mt-2 font-bold uppercase tracking-wider">Save 80% vs Enterprise competitors</p>
-            </div>
-            <ul className="space-y-4 mb-10 flex-grow">
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Unlimited Pageviews
-              </li>
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Accessibility Statement Incl.
-              </li>
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Automatic AI Updates
-              </li>
-              <li className="flex items-center gap-3 text-slate-700 font-medium">
-                <CheckCircle2 className="w-5 h-5 text-blue-600" /> Priority Compliance Concierge
-              </li>
-            </ul>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
-              className="w-full py-5 bg-blue-600 text-white rounded-xl text-lg font-bold hover:bg-blue-700 transition-all shadow-xl shadow-blue-500/40 text-center active:scale-[0.98]"
-            >
-              Get Lifetime Access
-            </a>
-            <p className="text-center text-[10px] text-slate-400 mt-4 uppercase font-bold tracking-widest">Limited to next 100 licenses</p>
-          </div>
-        </div>
-
-        {/* Competitor 2 */}
-        <div className="bg-white p-10 rounded-2xl border border-slate-200 flex flex-col opacity-75">
-          <div className="mb-8">
-            <h3 className="text-xl font-bold text-slate-900 mb-2">Enterprise SaaS</h3>
-            <p className="text-slate-500 text-sm">Standard monthly subscription</p>
-          </div>
-          <div className="mb-8">
-            <span className="text-4xl font-bold text-slate-300 line-through">$490</span>
-            <span className="text-slate-300 font-medium">/yr</span>
-            <p className="text-slate-400 text-xs mt-2 uppercase tracking-widest font-bold">Recurring Subscription</p>
-          </div>
-          <ul className="space-y-4 mb-10 flex-grow">
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Cancel = Protection Lost
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Price increases over time
-            </li>
-            <li className="flex items-center gap-3 text-slate-400">
-              <X className="w-4 h-4" /> Basic Support Tier
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-);
 
 const FAQ: React.FC = () => {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
@@ -467,25 +354,7 @@ const Home: React.FC = () => {
       <Hero />
       <ProblemSection />
       <SolutionSection />
-      <Pricing />
       <FAQ />
-      
-      {/* Final CTA Bar */}
-      <section className="bg-blue-600 py-12 sticky bottom-0 z-40">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-6">
-          <div className="text-white">
-            <p className="text-2xl font-bold">Ready to stop worrying about lawsuits?</p>
-            <p className="opacity-80">Join 2,000+ protected businesses today.</p>
-          </div>
-          <a 
-            href={GUMROAD_LINK}
-            data-gumroad-overlay-checkout="true"
-            className="px-10 py-4 bg-white text-blue-600 rounded-xl font-bold text-lg hover:bg-slate-50 shadow-2xl transition-all active:scale-95"
-          >
-            Get Lifetime Access $199
-          </a>
-        </div>
-      </section>
     </>
   );
 };
