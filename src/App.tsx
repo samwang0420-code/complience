@@ -16,7 +16,8 @@ export default function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="check" element={<FreeCheck />} />
-            <Route path="ada/:slug" element={<QuestionPage />} />
+            {/* Generic Category Route for Questions */}
+            <Route path=":category/:slug" element={<QuestionPage />} />
             <Route path="industry/:slug" element={<IndustryPage />} />
             <Route path="thank-you" element={<ThankYou />} />
           </Route>
