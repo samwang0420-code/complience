@@ -136,18 +136,243 @@ export const NICHES: NicheData[] = [
 
 export const LOCATIONS: LocationData[] = [
   {
-    city: "Los Angeles",
-    state: "CA",
-    slug: "los-angeles-ca"
-  },
-  {
     city: "New York",
     state: "NY",
     slug: "new-york-ny"
   },
   {
+    city: "Los Angeles",
+    state: "CA",
+    slug: "los-angeles-ca"
+  },
+  {
+    city: "Chicago",
+    state: "IL",
+    slug: "chicago-il"
+  },
+  {
+    city: "Houston",
+    state: "TX",
+    slug: "houston-tx"
+  },
+  {
+    city: "Phoenix",
+    state: "AZ",
+    slug: "phoenix-az"
+  },
+  {
+    city: "Philadelphia",
+    state: "PA",
+    slug: "philadelphia-pa"
+  },
+  {
+    city: "San Antonio",
+    state: "TX",
+    slug: "san-antonio-tx"
+  },
+  {
+    city: "San Diego",
+    state: "CA",
+    slug: "san-diego-ca"
+  },
+  {
+    city: "Dallas",
+    state: "TX",
+    slug: "dallas-tx"
+  },
+  {
+    city: "San Jose",
+    state: "CA",
+    slug: "san-jose-ca"
+  },
+  {
+    city: "Austin",
+    state: "TX",
+    slug: "austin-tx"
+  },
+  {
+    city: "Seattle",
+    state: "WA",
+    slug: "seattle-wa"
+  },
+  {
+    city: "San Francisco",
+    state: "CA",
+    slug: "san-francisco-ca"
+  },
+  {
+    city: "Denver",
+    state: "CO",
+    slug: "denver-co"
+  },
+  {
+    city: "Boston",
+    state: "MA",
+    slug: "boston-ma"
+  },
+  {
     city: "Miami",
     state: "FL",
     slug: "miami-fl"
+  },
+  {
+    city: "Orlando",
+    state: "FL",
+    slug: "orlando-fl"
+  },
+  {
+    city: "Tampa",
+    state: "FL",
+    slug: "tampa-fl"
+  },
+  {
+    city: "Atlanta",
+    state: "GA",
+    slug: "atlanta-ga"
+  },
+  {
+    city: "Charlotte",
+    state: "NC",
+    slug: "charlotte-nc"
+  },
+  {
+    city: "Raleigh",
+    state: "NC",
+    slug: "raleigh-nc"
+  },
+  {
+    city: "Durham",
+    state: "NC",
+    slug: "durham-nc"
+  },
+  {
+    city: "Nashville",
+    state: "TN",
+    slug: "nashville-tn"
+  },
+  {
+    city: "Memphis",
+    state: "TN",
+    slug: "memphis-tn"
+  },
+  {
+    city: "Las Vegas",
+    state: "NV",
+    slug: "las-vegas-nv"
+  },
+  {
+    city: "Reno",
+    state: "NV",
+    slug: "reno-nv"
+  },
+  {
+    city: "Portland",
+    state: "OR",
+    slug: "portland-or"
+  },
+  {
+    city: "Eugene",
+    state: "OR",
+    slug: "eugene-or"
+  },
+  {
+    city: "Salem",
+    state: "OR",
+    slug: "salem-or"
+  },
+  {
+    city: "Boise",
+    state: "ID",
+    slug: "boise-id"
+  },
+  {
+    city: "Salt Lake City",
+    state: "UT",
+    slug: "salt-lake-city-ut"
+  },
+  {
+    city: "Provo",
+    state: "UT",
+    slug: "provo-ut"
+  },
+  {
+    city: "Orem",
+    state: "UT",
+    slug: "orem-ut"
+  },
+  {
+    city: "Scottsdale",
+    state: "AZ",
+    slug: "scottsdale-az"
+  },
+  {
+    city: "Tempe",
+    state: "AZ",
+    slug: "tempe-az"
+  },
+  {
+    city: "Mesa",
+    state: "AZ",
+    slug: "mesa-az"
+  },
+  {
+    city: "Irvine",
+    state: "CA",
+    slug: "irvine-ca"
+  },
+  {
+    city: "Anaheim",
+    state: "CA",
+    slug: "anaheim-ca"
+  },
+  {
+    city: "Santa Ana",
+    state: "CA",
+    slug: "santa-ana-ca"
+  },
+  {
+    city: "Pasadena",
+    state: "CA",
+    slug: "pasadena-ca"
+  },
+  {
+    city: "Glendale",
+    state: "CA",
+    slug: "glendale-ca"
+  },
+  {
+    city: "Burbank",
+    state: "CA",
+    slug: "burbank-ca"
+  },
+  {
+    city: "Berkeley",
+    state: "CA",
+    slug: "berkeley-ca"
+  },
+  {
+    city: "Oakland",
+    state: "CA",
+    slug: "oakland-ca"
+  },
+  {
+    city: "Palo Alto",
+    state: "CA",
+    slug: "palo-alto-ca"
+  },
+  {
+    city: "Mountain View",
+    state: "CA",
+    slug: "mountain-view-ca"
+  },
+  {
+    city: "Sunnyvale",
+    state: "CA",
+    slug: "sunnyvale-ca"
+  },
+  {
+    city: "Cupertino",
+    state: "CA",
+    slug: "cupertino-ca"
   }
 ];
