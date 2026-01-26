@@ -4,6 +4,8 @@ import { Shield, Menu, X, ShieldCheck, ExternalLink } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import UrgencyBanner from './UrgencyBanner';
 
+const GUMROAD_LINK = import.meta.env.VITE_GUMROAD_PRODUCT_URL || "https://gumroad.com/l/complianceguard_lifetime";
+
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
@@ -15,7 +17,7 @@ const Navbar: React.FC = () => {
   }, []);
 
   return (
-    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? 'bg-white/80 backdrop-blur-md shadow-sm border-b' : 'bg-transparent'}`}>
+    <nav className={`sticky top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? 'bg-white/80 backdrop-blur-md shadow-sm border-b' : 'bg-transparent'}`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center gap-2">
@@ -119,13 +121,9 @@ const Footer: React.FC = () => (
 const Layout: React.FC = () => {
   return (
     <div className="min-h-screen selection:bg-blue-100 selection:text-blue-900 flex flex-col">
-      <div className="fixed top-0 left-0 right-0 z-[60]">
-        <UrgencyBanner />
-      </div>
-      <div className="mt-8"> {/* Spacer for UrgencyBanner */}
-        <Navbar />
-      </div>
-      <main className="flex-grow">
+      <UrgencyBanner />
+      <Navbar />
+      <main className="flex-grow -mt-20">
         <Outlet />
       </main>
       <Footer />
