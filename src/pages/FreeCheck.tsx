@@ -13,7 +13,14 @@ const FreeCheck: React.FC = () => {
 
   const handleCheck = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!url) return;
+    let checkUrl = url.trim();
+    if (!checkUrl) return;
+
+    // Auto-prepend https:// if missing
+    if (!/^https?:\/\//i.test(checkUrl)) {
+      checkUrl = `https://${checkUrl}`;
+      setUrl(checkUrl);
+    }
 
     setStep('analyzing');
     setIsAnalyzing(true);
@@ -78,10 +85,10 @@ const FreeCheck: React.FC = () => {
                     <label htmlFor="url" className="block text-sm font-bold text-slate-700 mb-2 uppercase tracking-wide">Website URL</label>
                     <div className="relative">
                       <input
-                        type="url"
+                        type="text"
                         id="url"
                         required
-                        placeholder="https://yourbusiness.com"
+                        placeholder="yourbusiness.com"
                         value={url}
                         onChange={(e) => setUrl(e.target.value)}
                         className="w-full pl-4 pr-4 py-4 text-lg rounded-xl border-2 border-slate-200 focus:border-blue-600 focus:ring-0 outline-none transition-all"
