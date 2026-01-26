@@ -1,94 +1,19 @@
-
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
-  Shield, 
+  ShieldCheck, 
   Gavel, 
   AlertCircle, 
   Search, 
   CheckCircle2, 
   ChevronDown, 
-  ExternalLink,
   Code,
-  ShieldCheck,
   ShoppingBag,
-  Menu,
-  X,
-  ArrowRight
+  ArrowRight,
+  X
 } from 'lucide-react';
 
-// --- Constants ---
 const GUMROAD_LINK = import.meta.env.VITE_GUMROAD_PRODUCT_URL || "https://gumroad.com/l/complianceguard_lifetime";
-
-// --- Components ---
-
-const Navbar: React.FC = () => {
-  const [isOpen, setIsOpen] = useState(false);
-  const [scrolled, setScrolled] = useState(false);
-
-  useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 20);
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
-
-  return (
-    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? 'bg-white/80 backdrop-blur-md shadow-sm border-b' : 'bg-transparent'}`}>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-20">
-          <div className="flex items-center gap-2">
-            <Shield className="w-8 h-8 text-blue-600" />
-            <span className="text-xl font-bold tracking-tight">ComplianceGuard<span className="text-blue-600">.ai</span></span>
-          </div>
-
-          {/* Desktop Nav */}
-          <div className="hidden md:flex items-center gap-8">
-            <a href="#problem" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">The Risk</a>
-            <a href="#installation" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">Installation Guide</a>
-            <a href="#pricing" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">Pricing</a>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
-              className="px-6 py-2.5 bg-blue-600 text-white rounded-lg text-sm font-semibold hover:bg-blue-700 transition-all shadow-md shadow-blue-500/20 active:scale-95"
-            >
-              Get Protected
-            </a>
-          </div>
-
-          {/* Mobile Toggle */}
-          <div className="md:hidden">
-            <button onClick={() => setIsOpen(!isOpen)} className="p-2 text-slate-600">
-              {isOpen ? <X /> : <Menu />}
-            </button>
-          </div>
-        </div>
-      </div>
-
-      {/* Mobile Menu */}
-      <AnimatePresence>
-        {isOpen && (
-          <motion.div 
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
-            className="md:hidden bg-white border-b px-4 pb-6 space-y-4 shadow-xl"
-          >
-            <a href="#problem" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">The Risk</a>
-            <a href="#installation" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">Installation</a>
-            <a href="#pricing" onClick={() => setIsOpen(false)} className="block py-2 text-slate-600 font-medium">Pricing</a>
-            <a 
-              href={GUMROAD_LINK}
-              data-gumroad-overlay-checkout="true"
-              className="block w-full text-center py-3 bg-blue-600 text-white rounded-lg font-semibold"
-            >
-              Get Protected Now
-            </a>
-          </motion.div>
-        )}
-      </AnimatePresence>
-    </nav>
-  );
-};
 
 const Hero: React.FC = () => {
   const logos = [
@@ -536,57 +461,9 @@ const FAQ: React.FC = () => {
   );
 };
 
-const Footer: React.FC = () => (
-  <footer className="bg-slate-900 text-white py-16">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="grid md:grid-cols-4 gap-12 mb-12">
-        <div className="col-span-2">
-          <div className="flex items-center gap-2 mb-6">
-            <Shield className="w-8 h-8 text-blue-400" />
-            <span className="text-2xl font-bold tracking-tight">ComplianceGuard<span className="text-blue-400">.ai</span></span>
-          </div>
-          <p className="text-slate-400 max-w-sm mb-6">
-            Protecting digital entrepreneurs from predatory litigation since 2023. Our mission is to make the web accessible for everyone without bankrupting small businesses.
-          </p>
-          <div className="flex gap-4">
-            <div className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-blue-600 transition-colors cursor-pointer">
-              <ExternalLink className="w-5 h-5" />
-            </div>
-          </div>
-        </div>
-        <div>
-          <h4 className="font-bold mb-6 uppercase text-xs tracking-widest text-slate-500">Legal</h4>
-          <ul className="space-y-4 text-slate-400">
-            <li><a href="#" className="hover:text-white transition-colors">Privacy Policy</a></li>
-            <li><a href="#" className="hover:text-white transition-colors">Terms of Service</a></li>
-            <li><a href="#" className="hover:text-white transition-colors">Cookie Policy</a></li>
-            <li><a href="#" className="hover:text-white transition-colors">GDPR Compliance</a></li>
-          </ul>
-        </div>
-        <div>
-          <h4 className="font-bold mb-6 uppercase text-xs tracking-widest text-slate-500">Contact</h4>
-          <ul className="space-y-4 text-slate-400">
-            <li>support@complianceguard.ai</li>
-            <li>+1 (555) 902-1203</li>
-            <li>San Francisco, CA</li>
-          </ul>
-        </div>
-      </div>
-      <div className="pt-12 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-6">
-        <p className="text-slate-500 text-sm">&copy; 2025 ComplianceGuard.ai. All rights reserved.</p>
-        <div className="flex items-center gap-2 text-xs text-slate-600 bg-slate-800 px-4 py-2 rounded-full border border-slate-700">
-          <ShieldCheck className="w-4 h-4" />
-          SSL SECURED PAYMENT VIA STRIPE & GUMROAD
-        </div>
-      </div>
-    </div>
-  </footer>
-);
-
-export default function App() {
+const Home: React.FC = () => {
   return (
-    <div className="min-h-screen selection:bg-blue-100 selection:text-blue-900">
-      <Navbar />
+    <>
       <Hero />
       <ProblemSection />
       <SolutionSection />
@@ -609,8 +486,8 @@ export default function App() {
           </a>
         </div>
       </section>
-
-      <Footer />
-    </div>
+    </>
   );
-}
+};
+
+export default Home;
