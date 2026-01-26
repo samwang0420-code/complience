@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 import { Shield, Menu, X, ShieldCheck, ExternalLink } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import UrgencyBanner from './UrgencyBanner';
 
 const GUMROAD_LINK = import.meta.env.VITE_GUMROAD_PRODUCT_URL || "https://gumroad.com/l/complianceguard_lifetime";
 
@@ -123,7 +124,12 @@ const Footer: React.FC = () => (
 const Layout: React.FC = () => {
   return (
     <div className="min-h-screen selection:bg-blue-100 selection:text-blue-900 flex flex-col">
-      <Navbar />
+      <div className="fixed top-0 left-0 right-0 z-[60]">
+        <UrgencyBanner />
+      </div>
+      <div className="mt-8"> {/* Spacer for UrgencyBanner */}
+        <Navbar />
+      </div>
       <main className="flex-grow">
         <Outlet />
       </main>

@@ -23,11 +23,28 @@ const QuestionPage: React.FC = () => {
     );
   }
 
+  // JSON-LD Schema for FAQPage
+  const schemaData = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": data.faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.q,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.a
+      }
+    }))
+  };
+
   return (
     <>
       <Helmet>
         <title>{data.question} | USComplianceGuard</title>
         <meta name="description" content={`${data.answer} ${data.risk} ${data.cost}`} />
+        <script type="application/ld+json">
+          {JSON.stringify(schemaData)}
+        </script>
       </Helmet>
 
       <div className="min-h-screen bg-slate-50 pt-32 pb-20">

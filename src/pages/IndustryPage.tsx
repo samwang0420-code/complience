@@ -21,11 +21,28 @@ const IndustryPage: React.FC = () => {
     );
   }
 
+  // JSON-LD Schema for Article/Service
+  const schemaData = {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": data.title,
+    "description": data.description,
+    "provider": {
+      "@type": "Organization",
+      "name": "USComplianceGuard"
+    },
+    "areaServed": "US",
+    "serviceType": "ADA Compliance Audit"
+  };
+
   return (
     <>
       <Helmet>
         <title>{data.title} | USComplianceGuard</title>
         <meta name="description" content={`Protect your ${industryKey} business from ADA lawsuits. ${data.description}`} />
+        <script type="application/ld+json">
+          {JSON.stringify(schemaData)}
+        </script>
       </Helmet>
 
       <div className="min-h-screen bg-slate-50 pt-32 pb-20">
