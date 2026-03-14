@@ -1,18 +1,16 @@
-import Footer from '@/components/Footer'
-import Navbar from '@/components/Navbar'
+export const metadata = {
+  title: 'Contact Us - US Compliance Guard',
+  description: 'Get in touch with our team'
+}
 
 export default function Contact() {
   return (
-    <div className="min-h-screen bg-gray-50">
-      <Navbar />
-      <div className="max-w-4xl mx-auto py-16 px-4">
-        <h1 className="text-4xl font-bold mb-8">Contact Us</h1>
-        <div className="bg-white p-8 rounded-lg shadow">
-          <p className="text-lg mb-4">Get in touch with our team.</p>
-          <p className="text-gray-600">Email: support@uscomplianceguard.com</p>
-        </div>
+    <div style={{ minHeight: '100vh', padding: '40px', background: '#f9fafb' }}>
+      <h1 style={{ fontSize: '2rem', fontWeight: 'bold', marginBottom: '1rem' }}>Contact Us</h1>
+      <div style={{ background: 'white', padding: '2rem', borderRadius: '0.5rem' }}>
+        <p style={{ marginBottom: '1rem' }}>Get in touch with our team.</p>
+        <p style={{ color: '#666' }}>Email: support@uscomplianceguard.com</p>
       </div>
-      <Footer />
     </div>
   )
 }
