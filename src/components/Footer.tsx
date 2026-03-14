@@ -18,7 +18,7 @@ export function Footer() {
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <Shield className="w-5 h-5 text-navy" />
               </div>
-              <span className="font-bold text-xl text-white">Stackmatrices</span>
+              <span className="font-bold text-xl text-white">US Compliance Guard</span>
             </div>
             <p className="text-gray-400 text-sm max-w-sm mb-4">
               Specialized GEO Agency for High-Value Medical Practices. 
@@ -48,7 +48,7 @@ export function Footer() {
 
         {/* Bottom */}
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-gray-500 text-sm">© 2026 Stackmatrices Intelligence. All rights reserved.</p>
+          <p className="text-gray-500 text-sm">© 2026 US Compliance Guard Intelligence. All rights reserved.</p>
           <p className="text-gray-600 text-xs">
             We may earn a commission from referrals to third-party services, at no additional cost to your practice.
           </p>
