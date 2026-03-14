@@ -1,0 +1,32 @@
+[
+  {
+    "id": "review-analyzer",
+    "slug": "review-analyzer",
+    "actionTitle": "AI-Powered Review Analysis & Insights",
+    "outcome": "Exploit competitor weaknesses",
+    "description": "AI analyzes competitor reviews to find weaknesses you can exploit. Categorizes complaints, identifies product gaps, and generates actionable insights for your marketing strategy.",
+    "shortDescription": "AI analyzes competitor reviews to find weaknesses you can exploit.",
+    "category": "AI Analysis",
+    "pricing": {
+      "model": "credits_package",
+      "basePrice": "$49",
+      "includesCredits": 1000,
+      "period": "month"
+    },
+    "price": "$49",
+    "period": "mo",
+    "deployments": "1.2k",
+    "featured": true,
+    "inputIcon": "logos:amazon",
+    "outputIcon": "sparkles",
+    "outputType": "ai",
+    "aiPowered": true,
+    "version": "1.0.0",
+    "author": "StackMatrices",
+    "updatedAt": "2026-02-25",
+    "estimatedTime": "30-60 seconds",
+    "rateLimit": "50 analyses/hour",
+    "tags": ["AI Analysis", "Review Mining", "Competitor Intelligence", "NLP"],
+    "type": "local"
+  }
+]
