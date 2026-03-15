@@ -38,6 +38,8 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
     )
   }
 
+  const productInfo = item.productInfo || {}
+
   return (
     <div style={{ minHeight: '100vh', background: '#0f172a', padding: '40px 20px' }}>
       <header style={{ maxWidth: '800px', margin: '0 auto 40px' }}>
@@ -83,9 +85,123 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
 
         {/* Description */}
         <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
-          <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '12px' }}>Description</h2>
+          <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '12px' }}>📝 Description</h2>
           <p style={{ color: '#94a3b8', lineHeight: '1.6' }}>{item.description}</p>
         </div>
+
+        {/* Product Info - Only show if available */}
+        {productInfo.manufacturer && (
+          <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
+            <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '16px' }}>🏭 Product Information</h2>
+            
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '12px' }}>
+              {productInfo.manufacturer && (
+                <div>
+                  <p style={{ color: '#64748b', fontSize: '0.8rem' }}>Manufacturer</p>
+                  <p style={{ color: 'white', fontSize: '0.95rem' }}>{productInfo.manufacturer}</p>
+                </div>
+              )}
+              {productInfo.yearIntroduced && (
+                <div>
+                  <p style={{ color: '#64748b', fontSize: '0.8rem' }}>Year Introduced</p>
+                  <p style={{ color: 'white', fontSize: '0.95rem' }}>{productInfo.yearIntroduced}</p>
+                </div>
+              )}
+              {productInfo.warranty && (
+                <div>
+                  <p style={{ color: '#64748b', fontSize: '0.8rem' }}>Warranty</p>
+                  <p style={{ color: 'white', fontSize: '0.95rem' }}>{productInfo.warranty}</p>
+                </div>
+              )}
+              {productInfo.capacity && (
+                <div>
+                  <p style={{ color: '#64748b', fontSize: '0.8rem' }}>Capacity</p>
+                  <p style={{ color: 'white', fontSize: '0.95rem' }}>{productInfo.capacity}</p>
+                </div>
+              )}
+              {productInfo.dimensions && (
+                <div>
+                  <p style={{ color: '#64748b', fontSize: '0.8rem' }}>Dimensions</p>
+                  <p style={{ color: 'white', fontSize: '0.95rem' }}>{productInfo.dimensions}</p>
+                </div>
+              )}
+              {productInfo.voltage && (
+                <div>
+                  <p style={{ color: '#64748b', fontSize: '0.8rem' }}>Voltage</p>
+                  <p style={{ color: 'white', fontSize: '0.95rem' }}>{productInfo.voltage}</p>
+                </div>
+              )}
+            </div>
+
+            {/* Compatible Models */}
+            {item.models && (
+              <div style={{ marginTop: '16px' }}>
+                <p style={{ color: '#64748b', fontSize: '0.8rem', marginBottom: '8px' }}>Compatible Models</p>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+                  {item.models.map((model: string, idx: number) => (
+                    <span key={idx} style={{ 
+                      background: '#334155', 
+                      color: '#e2e8f0', 
+                      padding: '4px 10px', 
+                      borderRadius: '4px',
+                      fontSize: '0.8rem'
+                    }}>
+                      {model}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Features */}
+            {productInfo.features && (
+              <div style={{ marginTop: '16px' }}>
+                <p style={{ color: '#64748b', fontSize: '0.8rem', marginBottom: '8px' }}>Key Features</p>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+                  {productInfo.features.map((feature: string, idx: number) => (
+                    <span key={idx} style={{ 
+                      background: '#22c55e20', 
+                      color: '#22c55e', 
+                      padding: '4px 10px', 
+                      borderRadius: '4px',
+                      fontSize: '0.8rem',
+                      border: '1px solid #22c55e30'
+                    }}>
+                      {feature}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Common Issues */}
+        {productInfo.commonIssues && (
+          <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
+            <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '12px' }}>⚠️ Common Issues</h2>
+            <ul style={{ color: '#94a3b8', lineHeight: '1.8', paddingLeft: '20px' }}>
+              {productInfo.commonIssues.map((issue: string, idx: number) => (
+                <li key={idx}>{issue}</li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {/* Spare Parts */}
+        {productInfo.partNumbers && (
+          <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
+            <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '12px' }}>🔧 Spare Parts</h2>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '12px' }}>
+              {Object.entries(productInfo.partNumbers).map(([part, number]: [string, any], idx: number) => (
+                <div key={idx} style={{ background: '#0f172a', padding: '12px', borderRadius: '8px' }}>
+                  <p style={{ color: '#64748b', fontSize: '0.75rem', textTransform: 'capitalize' }}>{part.replace(/([A-Z])/g, ' $1')}</p>
+                  <p style={{ color: '#fbbf24', fontSize: '0.9rem', fontFamily: 'monospace' }}>{number}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Causes */}
         <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
