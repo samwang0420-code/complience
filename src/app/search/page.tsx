@@ -1,23 +1,29 @@
+'use client'
+
+import { useSearchParams, useRouter } from 'next/navigation'
 import Link from 'next/link'
+import { useEffect, useState } from 'react'
 import errorCodes from '@/data/error-codes/database.json'
 
-export const dynamic = 'force-dynamic'
-
-export const metadata = {
-  title: 'Search Error Codes - ErrorCodeHub',
-  description: 'Search our database of appliance and industrial error codes.'
-}
-
-export default function SearchPage({ searchParams }: { searchParams: { q?: string } }) {
-  const query = searchParams.q?.toLowerCase() || ''
+export default function SearchPage() {
+  const searchParams = useSearchParams()
+  const router = useRouter()
+  const query = searchParams.get('q')?.toLowerCase() || ''
   
-  const results = query 
-    ? errorCodes.errorCodes.filter((item: any) => 
+  const [results, setResults] = useState<any[]>([])
+  
+  useEffect(() => {
+    if (query) {
+      const filtered = errorCodes.errorCodes.filter((item: any) => 
         item.code.toLowerCase().includes(query) ||
         item.name.toLowerCase().includes(query) ||
         item.brand.toLowerCase().includes(query)
       )
-    : []
+      setResults(filtered)
+    } else {
+      setResults([])
+    }
+  }, [query])
 
   return (
     <div style={{ minHeight: '100vh', background: '#0f172a', padding: '40px 20px' }}>
@@ -30,7 +36,7 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
         </h1>
         {query && (
           <p style={{ color: '#94a3b8', marginTop: '10px' }}>
-            Found {results.length} results for "{searchParams.q}"
+            Found {results.length} results for "{query}"
           </p>
         )}
       </header>
@@ -41,7 +47,7 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
           <input 
             type="text" 
             name="q"
-            defaultValue={searchParams.q || ''}
+            defaultValue={query}
             placeholder="Search error codes..."
             style={{
               width: '100%',
