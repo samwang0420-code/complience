@@ -1,16 +1,16 @@
-# *
+# Robots.txt for ErrorCodeHub
 User-agent: *
 Allow: /
-Disallow: /api
-Disallow: /_next
 
-# Googlebot
-User-agent: Googlebot
-Allow: /
-Disallow: /api
+# Sitemap
+Sitemap: https://uscomplianceguard.com/sitemap.xml
+
+# Crawl-delay (optional, be nice)
+Crawl-delay: 1
+
+# Block unnecessary paths
+Disallow: /api/
+Disallow: /_next/
 
 # Host
 Host: https://uscomplianceguard.com
-
-# Sitemaps
-Sitemap: https://uscomplianceguard.com/sitemap.xml

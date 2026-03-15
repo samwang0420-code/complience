@@ -1,20 +1,44 @@
 import Link from 'next/link'
+import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export async function generateStaticParams() {
-  return errorCodes.errorCodes.map((item: any) => ({
+  return errorCodes.errorCodes.slice(0, 100).map((item: any) => ({
     slug: `${item.brand.toLowerCase()}-${item.category.toLowerCase()}-${item.code.toLowerCase()}`
   }))
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const item = findErrorCode(params.slug)
   if (!item) {
     return { title: 'Error Code Not Found - ErrorCodeHub' }
   }
+  
   return {
-    title: `${item.brand} ${item.code} - ${item.name} - ErrorCodeHub`,
-    description: item.description
+    title: `${item.brand} ${item.code} Error Code - ${item.name} | ErrorCodeHub`,
+    description: `${item.brand} ${item.category} error code ${item.code}: ${item.description}. Causes: ${item.causes?.slice(0, 2).join(', ')}. Solutions: ${item.solutions?.slice(0, 2).join(', ')}. ${item.productInfo?.warranty ? `Warranty: ${item.productInfo.warranty}.` : ''}`,
+    keywords: [
+      `${item.brand} error code ${item.code}`,
+      `${item.brand} ${item.category.toLowerCase()} error`,
+      `${item.name}`,
+      `${item.category} error codes`,
+      `${item.brand} troubleshooting`,
+      `${item.code} error`,
+      `${item.brand} ${item.category} problems`,
+      'error code lookup',
+      'appliance repair',
+      'troubleshooting guide'
+    ].join(', '),
+    openGraph: {
+      title: `${item.brand} ${item.code} Error Code - ${item.name}`,
+      description: `${item.description}. Causes and solutions for ${item.brand} ${item.category}.`,
+      type: 'article',
+      publishedTime: '2026-03-15',
+      modifiedTime: '2026-03-15',
+      authors: ['ErrorCodeHub'],
+      section: item.category,
+      tags: [item.brand, item.category, item.code, 'error code']
+    }
   }
 }
 
@@ -39,9 +63,94 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
   }
 
   const productInfo = item.productInfo || {}
+  
+  // FAQ Schema for GEO
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: `What does ${item.brand} error code ${item.code} mean?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: item.description
+        }
+      },
+      ...(item.causes || []).slice(0, 3).map((cause: string, idx: number) => ({
+        '@type': 'Question',
+        name: `What causes ${item.brand} error code ${item.code}?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: cause
+        }
+      })),
+      ...(item.solutions || []).slice(0, 3).map((solution: string, idx: number) => ({
+        '@type': 'Question',
+        name: `How to fix ${item.brand} error code ${item.code}?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: solution
+        }
+      }))
+    ]
+  }
+
+  // HowTo Schema
+  const howToSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: `How to fix ${item.brand} ${item.code} error`,
+    description: `Step by step guide to fix ${item.brand} ${item.category} error code ${item.code}`,
+    step: (item.solutions || []).map((solution: string, idx: number) => ({
+      '@type': 'HowToStep',
+      position: idx + 1,
+      name: `Step ${idx + 1}`,
+      text: solution
+    })),
+    totalTime: item.estimatedTime || 'PT30M',
+    tool: item.productInfo?.features ? item.productInfo.features.slice(0, 3) : []
+  }
+
+  // Product Schema
+  const productSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: `${item.brand} ${item.category}`,
+    brand: {
+      '@type': 'Brand',
+      name: item.brand
+    },
+    manufacturer: productInfo.manufacturer || item.brand,
+    model: item.model,
+    category: item.category,
+    description: `${item.brand} ${item.category} - ${item.description}`,
+    warranty: productInfo.warranty ? {
+      '@type': 'WarrantyPromise',
+      warrantyDuration: productInfo.warranty
+    } : undefined,
+    additionalProperty: [
+      { '@type': 'PropertyValue', name: 'Error Code', value: item.code },
+      { '@type': 'PropertyValue', name: 'Category', value: item.category },
+      { '@type': 'PropertyValue', name: 'Difficulty', value: item.difficulty }
+    ].concat(productInfo.capacity ? [{ '@type': 'PropertyValue', name: 'Capacity', value: productInfo.capacity }] : [])
+  }
 
   return (
-    <div style={{ minHeight: '100vh', background: '#0f172a', padding: '40px 20px' }}>
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
+      />
+      <div style={{ minHeight: '100vh', background: '#0f172a', padding: '40px 20px' }}>
       <header style={{ maxWidth: '800px', margin: '0 auto 40px' }}>
         <Link href="/" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>
           ← Back to Home
@@ -89,7 +198,7 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
           <p style={{ color: '#94a3b8', lineHeight: '1.6' }}>{item.description}</p>
         </div>
 
-        {/* Product Info - Only show if available */}
+        {/* Product Info */}
         {productInfo.manufacturer && (
           <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
             <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '16px' }}>🏭 Product Information</h2>
@@ -133,12 +242,11 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
               )}
             </div>
 
-            {/* Compatible Models */}
             {item.models && (
               <div style={{ marginTop: '16px' }}>
                 <p style={{ color: '#64748b', fontSize: '0.8rem', marginBottom: '8px' }}>Compatible Models</p>
                 <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-                  {item.models.map((model: string, idx: number) => (
+                  {item.models.slice(0, 10).map((model: string, idx: number) => (
                     <span key={idx} style={{ 
                       background: '#334155', 
                       color: '#e2e8f0', 
@@ -153,7 +261,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
               </div>
             )}
 
-            {/* Features */}
             {productInfo.features && (
               <div style={{ marginTop: '16px' }}>
                 <p style={{ color: '#64748b', fontSize: '0.8rem', marginBottom: '8px' }}>Key Features</p>
@@ -231,5 +338,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
         </div>
       </main>
     </div>
+    </>
   )
 }
