@@ -150,6 +150,10 @@ export default function Home() {
       {/* Footer */}
       <footer style={{ textAlign: 'center', padding: '40px 20px', borderTop: '1px solid #1e293b', color: '#64748b' }}>
         <p>© 2026 ErrorCodeHub. Free error code database.</p>
+        <div style={{ marginTop: '15px', display: 'flex', justifyContent: 'center', gap: '20px' }}>
+          <Link href="/privacy" style={{ color: '#6366f1', textDecoration: 'none' }}>Privacy Policy</Link>
+          <Link href="/contact" style={{ color: '#6366f1', textDecoration: 'none' }}>Contact</Link>
+        </div>
       </footer>
     </>
   )
