@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import errorCodes from '@/data/error-codes/database.json'
 
+export const dynamic = 'force-dynamic'
+
 export const metadata = {
   title: 'Search Error Codes - ErrorCodeHub',
   description: 'Search our database of appliance and industrial error codes.'
