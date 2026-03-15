@@ -43759,6 +43759,1222 @@
         ],
         "voltage": "24V DC"
       }
+    },
+    {
+      "id": 1042,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-7102",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Roper Motor Failure - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1043,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-9928",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Roper Control Board Error - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1044,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-9135",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Roper Compressor Fault - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1045,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-9070",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Roper Brake Fault - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1046,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-9912",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Roper Temperature Low - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1047,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-9518",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": "Roper Open Circuit - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1048,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-9857",
+      "code": "F04",
+      "name": "Overload",
+      "description": " Payne Overload - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1049,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-5799",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": " Payne Power Supply Fault - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1050,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-6165",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": " Payne Pressure Fault - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1051,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-6546",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": " Payne Pump Fault - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1052,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-9043",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": " Payne Temperature Low - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1053,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-4882",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": "Hitachi Operation Error - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1054,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-1076",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Hitachi Pressure Fault - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1055,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-4386",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "Hitachi Thermal Fault - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1056,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-3268",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": "Hitachi Speed Error - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1057,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-2890",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Hitachi Motor Failure - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1058,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-7003",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Hitachi Overheat - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1059,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-4648",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Hitachi Temperature Low - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1060,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-2935",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": " Haas Configuration Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1061,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-9527",
+      "code": "F05",
+      "name": "Overheat",
+      "description": " Haas Overheat - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1062,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-4325",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": " Haas Open Circuit - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1063,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-3833",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": " Haas Motor Failure - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1064,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-3859",
+      "code": "P04",
+      "name": "Fan Fault",
+      "description": " Haas Fan Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1065,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-7183",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": " Haas Level Sensor Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1066,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-5685",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": " Epson Level Sensor Fault - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1067,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-6770",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": " Epson Setup Error - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1068,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-8654",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": " Epson Communication Error - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1069,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-8522",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": " Epson Short Circuit - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1070,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-7120",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": " Epson Checksum Error - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1071,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-5793",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": " Epson Grounding Fault - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1072,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-2074",
+      "code": "L03",
+      "name": "Door Open",
+      "description": " Epson Door Open - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1073,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-5950",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": " Epson Pressure Fault - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -43786,7 +45002,12 @@
     "Kenmore",
     "KitchenAid",
     "Lennox",
-    "Rheem"
+    "Rheem",
+    "Roper",
+    " Payne",
+    "Hitachi",
+    " Haas",
+    " Epson"
   ],
   "categories": [
     "Washer",
@@ -43799,8 +45020,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 1041,
+    "totalCodes": 1073,
     "lastUpdated": "2026-03-15",
-    "version": "3.0"
+    "version": "4.0",
+    "dailyGenerated": 32
   }
 }

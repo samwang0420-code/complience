@@ -83,14 +83,14 @@ function generateSiteUrls(baseUrl = 'https://uscomplianceguard.com') {
   // 分类页（需要从数据库读取）
   try {
     const db = require('../src/data/error-codes/database.json')
-    const categories = [...new Set(db.errorCodes.map((item: any) => item.category))]
+    const categories = [...new Set(db.errorCodes.map((item) => item.category))]
     
     categories.forEach(cat => {
       urls.push(`${baseUrl}/category/${cat.toLowerCase()}`)
     })
     
     // 生成部分错误代码页（太多会导致超时）
-    db.errorCodes.slice(0, 500).forEach((item: any) => {
+    db.errorCodes.slice(0, 500).forEach((item) => {
       const slug = `${item.brand.toLowerCase()}-${item.category.toLowerCase()}-${item.code.toLowerCase()}`
       urls.push(`${baseUrl}/blog/${slug}`)
     })
