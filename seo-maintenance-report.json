@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-15T12:51:26.783Z",
+  "totalCodes": 1073,
+  "categories": {
+    "Washer": 587,
+    "Refrigerator": 2,
+    "Dishwasher": 1,
+    "Dryer": 1,
+    "HVAC": 307,
+    "PLC": 157,
+    "CNC": 8,
+    "Robotics": 10
+  },
+  "brands": {
+    "Whirlpool": 58,
+    "LG": 58,
+    "Samsung": 59,
+    "GE": 59,
+    "Maytag": 59,
+    "Carrier": 60,
+    "Siemens": 30,
+    "Fanuc": 1,
+    "ABB": 1,
+    "Mitsubishi": 31,
+    "Schneider": 30,
+    "Allen-Bradley": 30,
+    "Daikin": 60,
+    "Trane": 60,
+    "Kuka": 1,
+    "Bosch": 59,
+    "Electrolux": 59,
+    "Honeywell": 1,
+    "Omron": 30,
+    "Frigidaire": 1,
+    "Amana": 58,
+    "Kenmore": 58,
+    "KitchenAid": 58,
+    "Lennox": 60,
+    "Rheem": 60,
+    "Roper": 6,
+    " Payne": 5,
+    "Hitachi": 7,
+    " Haas": 6,
+    " Epson": 8
+  },
+  "issuesFound": 0,
+  "nextTasks": [
+    "补充稀疏分类内容",
+    "添加更多长尾关键词",
+    "检查死链"
+  ]
+}
