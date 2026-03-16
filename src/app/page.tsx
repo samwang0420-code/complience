@@ -105,9 +105,10 @@ export default function Home() {
             )
           })}
         </div>
+      </main>
 
       {/* 分类 */}
-      <main style={{ maxWidth: '1200px', margin: '0 auto', padding: '40px 20px' }}>
+      <section style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 20px 40px' }}>
         <h2 style={{ fontSize: '1.3rem', fontWeight: '600', marginBottom: '20px', color: 'white' }}>
           📂 Browse by Category
         </h2>
