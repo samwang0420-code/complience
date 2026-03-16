@@ -14,8 +14,8 @@ export async function generateMetadata({ params }: { params: { brand: string } }
   const count = errorCodes.errorCodes.filter((item: any) => item.brand.toLowerCase() === brand.toLowerCase()).length
   
   return {
-    title: `${brand} Error Codes - Complete List | ErrorCodeHub`,
-    description: `Browse all ${count} ${brand} error codes for appliances and equipment. Find causes, solutions, and troubleshooting guides for ${brand} products.`,
+    title: `${brand} Error Codes - Complete List (${count} Codes) | ErrorCodeHub`,
+    description: `Browse all ${count} ${brand} error codes for appliances and equipment. Find causes, solutions, and troubleshooting guides.`,
   }
 }
 
@@ -30,8 +30,19 @@ export default function BrandPage({ params }: { params: { brand: string } }) {
     byCategory[item.category].push(item)
   })
 
+  // 获取相关品牌
+  const allBrands = [...new Set(errorCodes.errorCodes.map((item: any) => item.brand))]
+  const relatedBrands = allBrands.filter((b: any) => b.toLowerCase() !== brand.toLowerCase()).slice(0, 5)
+
   return (
     <div style={{ minHeight: '100vh', background: '#0f172a', padding: '40px 20px' }}>
+      {/* Breadcrumb */}
+      <nav style={{ maxWidth: '1000px', margin: '0 auto 20px', fontSize: '0.85rem' }}>
+        <Link href="/" style={{ color: '#6366f1', textDecoration: 'none' }}>Home</Link>
+        <span style={{ color: '#64748b', margin: '0 8px' }}>›</span>
+        <span style={{ color: '#e2e8f0' }}>{brand}</span>
+      </nav>
+
       <header style={{ maxWidth: '1000px', margin: '0 auto 40px' }}>
         <Link href="/" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>
           ← Back to Home
@@ -50,8 +61,8 @@ export default function BrandPage({ params }: { params: { brand: string } }) {
             <h2 style={{ fontSize: '1.5rem', fontWeight: '600', color: 'white', marginBottom: '20px' }}>
               {category} ({codes.length})
             </h2>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '12px' }}>
-              {(codes as any[]).slice(0, 50).map((item: any) => (
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))', gap: '12px' }}>
+              {(codes as any[]).slice(0, 30).map((item: any) => (
                 <Link 
                   key={item.id}
                   href={`/blog/${item.brand.toLowerCase()}-${item.category.toLowerCase()}-${item.code.toLowerCase()}`}
@@ -75,13 +86,36 @@ export default function BrandPage({ params }: { params: { brand: string } }) {
                 </Link>
               ))}
             </div>
-            {(codes as any[]).length > 50 && (
-              <p style={{ color: '#64748b', marginTop: '12px' }}>
-                + {(codes as any[]).length - 50} more...
-              </p>
+            {(codes as any[]).length > 30 && (
+              <p style={{ color: '#64748b', marginTop: '12px' }}>+ {(codes as any[]).length - 30} more...</p>
             )}
           </div>
         ))}
+
+        {/* Related Brands */}
+        <div style={{ background: '#1e293b', padding: '30px', borderRadius: '12px', marginTop: '40px' }}>
+          <h2 style={{ color: 'white', fontSize: '1.3rem', marginBottom: '15px' }}>
+            Other Brands
+          </h2>
+          <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
+            {relatedBrands.map((b: any) => (
+              <Link 
+                key={b}
+                href={`/brand/${b.toLowerCase().replace(/ /g, '-')}`}
+                style={{ 
+                  padding: '8px 16px', 
+                  background: '#0f172a', 
+                  borderRadius: '6px',
+                  color: '#e2e8f0', 
+                  textDecoration: 'none',
+                  fontSize: '0.9rem'
+                }}
+              >
+                {b}
+              </Link>
+            ))}
+          </div>
+        </div>
 
         {/* SEO Content */}
         <div style={{ background: '#1e293b', padding: '30px', borderRadius: '12px', marginTop: '40px' }}>
@@ -89,15 +123,14 @@ export default function BrandPage({ params }: { params: { brand: string } }) {
             About {brand} Error Codes
           </h2>
           <p style={{ color: '#94a3b8', lineHeight: '1.8' }}>
-            {brand} is a well-known manufacturer of appliances and industrial equipment. 
-            When your {brand} appliance displays an error code, it indicates a specific fault or malfunction. 
-            Our comprehensive database includes error codes for all {brand} product lines including washers, 
-            dryers, refrigerators, dishwashers, HVAC systems, and more.
+            {brand} is a leading manufacturer of appliances and industrial equipment. 
+            When your {brand} appliance shows an error code, it indicates a specific issue that needs attention.
+            Our comprehensive database includes error codes for all {brand} product categories including washers, dryers, 
+            refrigerators, dishwashers, HVAC systems, and more.
           </p>
           <p style={{ color: '#94a3b8', lineHeight: '1.8', marginTop: '15px' }}>
-            Each error code page includes detailed troubleshooting steps, common causes, 
-            and recommended solutions. Whether you're a DIY enthusiast or a professional technician, 
-            our {brand} error code database helps you quickly identify and fix issues.
+            Each error code page provides detailed troubleshooting steps, common causes, and recommended solutions 
+            to help you fix the issue quickly.
           </p>
         </div>
       </main>
