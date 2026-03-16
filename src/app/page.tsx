@@ -77,6 +77,35 @@ export default function Home() {
         </p>
       </header>
 
+      {/* 品牌导航 */}
+      <main style={{ maxWidth: '1200px', margin: '0 auto', padding: '40px 20px' }}>
+        <h2 style={{ fontSize: '1.3rem', fontWeight: '600', marginBottom: '20px', color: 'white' }}>
+          🏭 Browse by Brand
+        </h2>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))', gap: '12px', marginBottom: '50px' }}>
+          {[...new Set(errorCodes.errorCodes.map((item: any) => item.brand))].slice(0, 20).map((brand: any) => {
+            const count = errorCodes.errorCodes.filter((item: any) => item.brand === brand).length
+            return (
+              <Link 
+                key={brand}
+                href={`/brand/${brand.toLowerCase().replace(/ /g, '-')}`}
+                style={{ 
+                  padding: '16px', 
+                  background: '#1e293b', 
+                  borderRadius: '8px',
+                  border: '1px solid #334155',
+                  color: '#e2e8f0',
+                  textDecoration: 'none',
+                  textAlign: 'center'
+                }}
+              >
+                <div style={{ fontWeight: '600' }}>{brand}</div>
+                <div style={{ fontSize: '0.8rem', color: '#64748b', marginTop: '4px' }}>{count} codes</div>
+              </Link>
+            )
+          })}
+        </div>
+
       {/* 分类 */}
       <main style={{ maxWidth: '1200px', margin: '0 auto', padding: '40px 20px' }}>
         <h2 style={{ fontSize: '1.3rem', fontWeight: '600', marginBottom: '20px', color: 'white' }}>
