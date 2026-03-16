@@ -64679,10 +64679,10 @@
       }
     },
     {
-      "id": 1300,
+      "id": 1332,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-7483",
+      "model": "Norge WASHER-6884",
       "code": "E06",
       "name": "Thermal Fault",
       "description": "Norge Thermal Fault - Technical issue in Norge washer systems",
@@ -64698,11 +64698,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -65787,6 +65787,1417 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 1327,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-3558",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": "Norge Open Circuit - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1328,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-5149",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": "Norge Pump Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1329,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-3400",
+      "code": "U01",
+      "name": "User Error",
+      "description": "Norge User Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1330,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-8152",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Norge Control Board Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1331,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-4717",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Norge Calibration Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1333,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-2857",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": "Norge Speed Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1334,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-6780",
+      "code": "U01",
+      "name": "User Error",
+      "description": "Goodman User Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1335,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-1278",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "Goodman Setup Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1336,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-3546",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "Goodman Parameter Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1337,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-6608",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Goodman Calibration Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1338,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-9832",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Goodman Overheat - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1339,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-3377",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Goodman Motor Failure - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      },
+      "detailedSolution": {
+        "title": "高压保护故障排查",
+        "steps": [
+          "1. 关闭 HVAC 系统电源",
+          "2. 等待 5 分钟，让系统压力平衡",
+          "3. 找到室外机（冷凝器）",
+          "4. 检查室外机周围是否有植物、杂物",
+          "5. 清理室外机周围至少 1 米的空间",
+          "6. 使用软刷清理冷凝器线圈",
+          "7. 从上往下、从内往外刷",
+          "8. 用花园水管冲洗线圈",
+          "9. 水压不要太高，避免损坏翅片",
+          "10. 检查冷凝器风扇叶片",
+          "11. 叶片应该无变形、无裂痕",
+          "12. 手动转动风扇，应该顺畅",
+          "13. 如果有噪音或转动困难，更换风扇电机",
+          "14. 检查风扇电机供电",
+          "15. 测量风扇电机电流",
+          "16. 检查空气过滤网（室内机）",
+          "17. 如果很脏，更换新过滤网",
+          "18. 检查蒸发器回风是否通畅",
+          "19. 移除出风口遮挡物",
+          "20. 检查制冷剂压力（需要专业工具）",
+          "21. 正常高压：200-250 PSI",
+          "22. 如果压力过高，可能是制冷剂过多",
+          "23. 检查膨胀阀是否堵塞",
+          "24. 如果频繁报高压，检查冷凝器是否损坏",
+          "25. 如问题持续，联系 HVAC 技师"
+        ],
+        "tools": [
+          "软刷",
+          "水管",
+          "压力表",
+          "万用表"
+        ],
+        "time": "60-90 分钟",
+        "difficulty": "困难",
+        "warning": "制冷剂系统需要专业技师操作"
+      }
+    },
+    {
+      "id": 1340,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-3964",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Goodman Brake Fault - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1341,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-4336",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Goodman Flow Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1342,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-6677",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "Keyence Level Sensor Fault - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1343,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-5365",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Keyence Calibration Error - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1344,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-6224",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Keyence Overheat - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1345,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-6214",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "Keyence Communication Error - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1346,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-1961",
+      "code": "F08",
+      "name": "Encoder Fault",
+      "description": "Keyence Encoder Fault - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1347,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-6007",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Hurco Flow Error - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1348,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-5049",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": "Hurco Sensor Malfunction - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1349,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-1627",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Hurco Calibration Error - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1350,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-3208",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "Hurco Level Sensor Fault - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1351,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-1239",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Hurco Valve Fault - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1352,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-3845",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "Hurco Short Circuit - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1353,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-8152",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Hurco Temperature Low - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1354,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-4175",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Hurco Brake Fault - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1355,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-4733",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "Yaskawa Thermal Fault - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1356,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-5140",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Yaskawa Motor Failure - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      },
+      "detailedSolution": {
+        "title": "CPU 故障排查",
+        "steps": [
+          "1. 备份 PLC 程序（如有可能）",
+          "2. 记录当前 CPU 状态",
+          "3. 关闭 PLC 电源",
+          "4. 检查 CPU 模块指示灯",
+          "5. RUN 灯：绿色=运行，熄灭=停止",
+          "6. ERR/FAULT 灯：红色=故障",
+          "7. MRC/MTN 灯：闪烁=运行中",
+          "8. 记录错误代码或闪烁次数",
+          "9. 找到电池仓（CPU 模块侧面）",
+          "10. 测量电池电压",
+          "11. 正常 3.0-3.6V（锂电池）",
+          "12. 电压低于 2.8V 必须更换",
+          "13. 购买相同型号电池",
+          "14. 在通电状态下更换电池",
+          "15. 或者在 30 秒内完成更换",
+          "16. 检查 CPU 模块是否松动",
+          "17. 重新插紧 CPU 模块",
+          "18. 检查电源模块指示灯",
+          "19. 测量电源输出电压",
+          "20. 24V DC 系列：21.6-26.4V 正常",
+          "21. 如果电源异常，更换电源模块",
+          "22. 检查内存是否损坏",
+          "23. 按照手册清除内存",
+          "24. 通常需要复位针或软件操作",
+          "25. 如果有备用 CPU，尝试交换测试",
+          "26. 如果仍不工作，更换 CPU 模块",
+          "27. 重新下载程序",
+          "28. 全面测试所有功能"
+        ],
+        "tools": [
+          "万用表",
+          "螺丝刀",
+          "PLC 编程电缆",
+          "新电池"
+        ],
+        "time": "60-90 分钟",
+        "difficulty": "困难",
+        "backup": "更换 CPU 前务必备份程序！"
+      }
+    },
+    {
+      "id": 1357,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-8531",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Yaskawa Overheat - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1358,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-9690",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": "Yaskawa Operation Error - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1359,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-2533",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Yaskawa Pressure Fault - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1360,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-8483",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": "Yaskawa Checksum Error - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1361,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-7118",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "Yaskawa Setup Error - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1362,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-5442",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Yaskawa Overload - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -65825,7 +67236,10 @@
     "Yaskawa",
     "Universal Robots",
     "Norge",
-    "Cognex"
+    "Cognex",
+    "Goodman",
+    "Keyence",
+    "Hurco"
   ],
   "categories": [
     "Washer",
@@ -65838,9 +67252,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 1326,
+    "totalCodes": 1361,
     "lastUpdated": "2026-03-16",
     "version": "4.0",
-    "dailyGenerated": 32
+    "dailyGenerated": 36
   }
 }
