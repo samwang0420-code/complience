@@ -5,12 +5,15 @@ Allow: /
 # Sitemap
 Sitemap: https://uscomplianceguard.com/sitemap.xml
 
-# Crawl-delay (optional, be nice)
+# Crawl-delay
 Crawl-delay: 1
 
-# Block unnecessary paths
+# Disallow unnecessary paths
 Disallow: /api/
 Disallow: /_next/
 
 # Host
 Host: https://uscomplianceguard.com
+
+# Sitemaps for sections
+Sitemap: https://uscomplianceguard.com/sitemap.xml

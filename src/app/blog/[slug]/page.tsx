@@ -15,19 +15,35 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
   
   return {
-    title: `${item.brand} ${item.code} Error Code - ${item.name} | ErrorCodeHub`,
-    description: `How to fix ${item.brand} ${item.code} error. ${item.description} Step-by-step troubleshooting guide with causes and solutions.`,
+    title: `How to Fix ${item.brand} ${item.code} Error - ${item.name} | ErrorCodeHub`,
+    description: `Step-by-step guide to fix ${item.brand} ${item.category} error code ${item.code}. ${item.description} Includes causes, symptoms, and detailed solutions.`,
     keywords: [
+      `how to fix ${item.brand} ${item.code}`,
       `${item.brand} error code ${item.code}`,
-      `${item.brand} ${item.category.toLowerCase()} ${item.code} fix`,
-      `${item.code} error how to fix`,
-      `${item.brand} troubleshooting`,
-      `${item.category} error codes`,
+      `${item.code} error fix`,
+      `${item.brand} ${item.category.toLowerCase()} troubleshooting`,
       `${item.code} meaning`,
-      'how to fix',
-      'step by step',
-      'troubleshooting guide'
+      `${item.brand} ${item.category.toLowerCase()} error`,
+      'how to fix appliance error',
+      'error code troubleshooting',
+      'appliance repair guide'
     ].join(', '),
+    openGraph: {
+      title: `How to Fix ${item.brand} ${item.code} Error`,
+      description: `Complete troubleshooting guide for ${item.brand} ${item.code}. ${item.description}`,
+      type: 'article',
+      article: {
+        publishedTime: '2026-03-16',
+        modifiedTime: new Date().toISOString(),
+        section: item.category,
+        tag: [item.brand, item.code, item.category, 'error code', 'troubleshooting']
+      }
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `How to Fix ${item.brand} ${item.code}`,
+      description: item.description
+    }
   }
 }
 
@@ -46,29 +62,10 @@ function getRelatedCodes(item: any, limit = 6) {
   return related.slice(0, limit)
 }
 
-// 扩展详细步骤（针对薄内容问题）
 function getDetailedSteps(item: any) {
   const baseSteps = item.solutions || []
   const detailedSteps = []
   
-  // 为每个解决方案添加详细说明
-  baseSteps.forEach((step: string, idx: number) => {
-    const detailed = getDetailedExplanation(step, item, idx + 1)
-    detailedSteps.push(detailed)
-  })
-  
-  // 添加安全提示
-  detailedSteps.push({
-    step: baseSteps.length + 1,
-    title: 'Safety First',
-    content: 'Always disconnect power before working on any appliance. If you\'re unsure, consult a professional technician.',
-    warning: true
-  })
-  
-  return detailedSteps
-}
-
-function getDetailedExplanation(step: string, item: any, stepNum: number) {
   const explanations: Record<string, { title: string; content: string }> = {
     'Check component connections': {
       title: 'Inspect All Electrical Connections',
@@ -96,17 +93,23 @@ function getDetailedExplanation(step: string, item: any, stepNum: number) {
     }
   }
   
-  // 返回详细解释或通用版本
-  const key = Object.keys(explanations).find(k => step.toLowerCase().includes(k.toLowerCase()))
-  const explanation = key ? explanations[key] : {
-    title: `Step ${stepNum}: ${step}`,
-    content: `${step}. For ${item.brand} ${item.category}, this is a common troubleshooting step. Follow manufacturer guidelines and ensure proper safety precautions.`
-  }
+  baseSteps.forEach((step: string, idx: number) => {
+    const key = Object.keys(explanations).find(k => step.toLowerCase().includes(k.toLowerCase()))
+    const exp = key ? explanations[key] : {
+      title: `Step ${idx + 1}: ${step}`,
+      content: `${step}. For ${item.brand} ${item.category}, this is a common troubleshooting step. Follow manufacturer guidelines and ensure proper safety precautions.`
+    }
+    detailedSteps.push({ step: idx + 1, ...exp })
+  })
   
-  return {
-    step: stepNum,
-    ...explanation
-  }
+  detailedSteps.push({
+    step: baseSteps.length + 1,
+    title: 'Safety First',
+    content: 'Always disconnect power before working on any appliance. If you\'re unsure, consult a professional technician.',
+    warning: true
+  })
+  
+  return detailedSteps
 }
 
 export default function BlogPage({ params }: { params: { slug: string } }) {
@@ -126,42 +129,72 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
   const detailedSteps = getDetailedSteps(item)
   const baseUrl = 'https://uscomplianceguard.com'
 
-  // GEO 增强结构化数据
+  // 增强的 GEO Schema
   const jsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'TechArticle',
-    headline: `How to Fix ${item.brand} ${item.code} Error - Step by Step Guide`,
-    description: `Complete troubleshooting guide for ${item.brand} ${item.code} error code. ${item.description}`,
+    '@type': 'Article',
+    headline: `How to Fix ${item.brand} ${item.code} Error - Complete Step by Step Guide`,
+    description: `Learn how to fix ${item.brand} ${item.category} error code ${item.code}. ${item.description}`,
+    image: '/og-image.png',
+    datePublished: '2026-03-16',
+    dateModified: new Date().toISOString(),
+    author: {
+      '@type': 'Organization',
+      name: 'ErrorCodeHub',
+      url: baseUrl
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'ErrorCodeHub',
+      logo: {
+        '@type': 'ImageObject',
+        url: '/logo.png'
+      }
+    },
     about: {
       '@type': 'Thing',
-      name: `${item.brand} ${item.category} Error Code ${item.code}`
+      name: `${item.brand} ${item.category} Error Code ${item.code}`,
+      description: item.description
     },
     articleSection: item.category,
+    keywords: `${item.brand}, ${item.code}, ${item.category}, error code, troubleshooting, fix, repair`,
+    wordCount: 1500,
+    timeRequired: item.estimatedTime,
     difficultyLevel: item.difficulty,
-    estimatedCost: { '@type': 'MonetaryAmount', currency: 'USD', minValue: 0, maxValue: 300 },
-    // HowTo for AI
+    // HowTo for Google SGE
     hasPart: {
       '@type': 'HowTo',
-      name: `How to fix ${item.brand} ${item.code}`,
+      name: `How to fix ${item.brand} ${item.code} error`,
+      description: item.description,
       step: detailedSteps.map((s: any) => ({
         '@type': 'HowToStep',
         position: s.step,
         name: s.title,
-        text: s.content
-      }))
+        text: s.content,
+        url: `${baseUrl}/blog/${params.slug}#step-${s.step}`
+      })),
+      supply: ['Multimeter', 'Screwdriver', 'Flashlight', 'Replacement parts'],
+      tool: ['Multimeter', 'Screwdriver set', 'Flashlight']
     },
-    // FAQ for AI
+    // FAQ for AI Search
     mainEntity: {
       '@type': 'FAQPage',
+      about: {
+        '@type': 'Thing',
+        name: `${item.brand} ${item.code} Error`
+      },
       mainEntity: [
         {
           '@type': 'Question',
           name: `What does ${item.brand} error code ${item.code} mean?`,
-          acceptedAnswer: { '@type': 'Answer', text: item.description }
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: item.description
+          }
         },
         ...item.causes.map((cause: string) => ({
           '@type': 'Question',
-          name: `What causes ${item.brand} ${item.code}?`,
+          name: `What causes ${item.brand} ${item.code} error?`,
           acceptedAnswer: { '@type': 'Answer', text: cause }
         })),
         ...detailedSteps.slice(0, 5).map((s: any) => ({
@@ -170,6 +203,16 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
           acceptedAnswer: { '@type': 'Answer', text: s.content }
         }))
       ]
+    },
+    // Breadcrumb
+    breadcrumb: {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: baseUrl },
+        { '@type': 'ListItem', position: 2, name: `${item.brand} Error Codes`, item: `${baseUrl}/brand/${item.brand.toLowerCase().replace(/ /g, '-')}` },
+        { '@type': 'ListItem', position: 3, name: `${item.category} Error Codes`, item: `${baseUrl}/category/${item.category.toLowerCase()}` },
+        { '@type': 'ListItem', position: 4, name: `${item.brand} ${item.code}` }
+      ]
     }
   }
 
@@ -177,7 +220,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div style={{ minHeight: '100vh', background: '#0f172a', padding: '40px 20px' }}>
-        {/* Breadcrumb */}
         <nav style={{ maxWidth: '900px', margin: '0 auto 20px', fontSize: '0.85rem' }}>
           <Link href="/" style={{ color: '#6366f1', textDecoration: 'none' }}>Home</Link>
           <span style={{ color: '#64748b', margin: '0 8px' }}>›</span>
@@ -189,7 +231,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
         </nav>
 
         <main style={{ maxWidth: '900px', margin: '0 auto' }}>
-          {/* Header */}
           <header style={{ marginBottom: '30px' }}>
             <span style={{ fontSize: '0.85rem', color: '#6366f1', fontWeight: '600' }}>
               <Link href={`/brand/${item.brand.toLowerCase().replace(/ /g, '-')}`} style={{ color: '#6366f1', textDecoration: 'none' }}>{item.brand}</Link> 
@@ -200,7 +241,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
             <span style={{ display: 'inline-block', background: '#dc2626', color: 'white', padding: '8px 20px', borderRadius: '8px', fontSize: '1.5rem', fontWeight: 'bold', marginTop: '16px' }}>{item.code}</span>
           </header>
 
-          {/* Quick Info */}
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px', marginBottom: '30px' }}>
             <div style={{ background: '#1e293b', padding: '20px', borderRadius: '12px' }}>
               <p style={{ color: '#64748b', fontSize: '0.85rem', marginBottom: '4px' }}>Difficulty</p>
@@ -216,7 +256,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
             </div>
           </div>
 
-          {/* Problem Description */}
           <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
             <h2 style={{ color: 'white', fontSize: '1.3rem', marginBottom: '12px' }}>🔍 The Problem</h2>
             <p style={{ color: '#94a3b8', lineHeight: '1.8', fontSize: '1.05rem' }}>{item.description}</p>
@@ -230,7 +269,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
             </div>
           </div>
 
-          {/* Step by Step Guide - MAIN CONTENT */}
           <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px', border: '2px solid #6366f1' }}>
             <h2 style={{ color: '#6366f1', fontSize: '1.5rem', marginBottom: '20px' }}>🔧 How to Fix {item.brand} {item.code} - Step by Step</h2>
             
@@ -264,7 +302,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
             ))}
           </div>
 
-          {/* Additional Info */}
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px', marginBottom: '24px' }}>
             {productInfo.manufacturer && (
               <div style={{ background: '#1e293b', padding: '20px', borderRadius: '12px' }}>
@@ -280,7 +317,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
             )}
           </div>
 
-          {/* Related Codes */}
           {relatedCodes.length > 0 && (
             <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
               <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '16px' }}>🔗 Related Error Codes</h2>
@@ -298,7 +334,6 @@ export default function BlogPage({ params }: { params: { slug: string } }) {
             </div>
           )}
 
-          {/* Quick Links */}
           <div style={{ background: '#1e293b', padding: '24px', borderRadius: '12px', marginBottom: '24px' }}>
             <h2 style={{ color: 'white', fontSize: '1.2rem', marginBottom: '16px' }}>📚 Quick Links</h2>
             <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
