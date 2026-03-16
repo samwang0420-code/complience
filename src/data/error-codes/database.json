@@ -54830,10 +54830,10 @@
       }
     },
     {
-      "id": 1050,
+      "id": 1308,
       "brand": " Payne",
       "category": "HVAC",
-      "model": " Payne HVAC-6165",
+      "model": " Payne HVAC-4644",
       "code": "E07",
       "name": "Pressure Fault",
       "description": " Payne Pressure Fault - Technical issue in  Payne hvac systems",
@@ -54849,11 +54849,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Payne Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Cool",
         "features": [
@@ -64487,6 +64487,1306 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 1296,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-7967",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Norge Motor Failure - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      },
+      "detailedSolution": {
+        "title": "电机故障排查",
+        "steps": [
+          "1. 断开洗衣机电源",
+          "2. 拔掉电源线",
+          "3. 打开洗衣机后盖（需要套筒扳手）",
+          "4. 找到驱动电机（底部中央位置）",
+          "5. 拍照记录皮带位置和走向",
+          "6. 检查皮带是否有裂纹或磨损",
+          "7. 用手按压皮带，检查松紧度",
+          "8. 如果皮带松动，调整电机位置",
+          "9. 检查电机散热片是否积满灰尘",
+          "10. 用压缩空气或刷子清理灰尘",
+          "11. 用手转动电机轴，应该转动顺畅无噪音",
+          "12. 如果转动困难或有摩擦声，轴承可能损坏",
+          "13. 使用万用表测试电机绕组",
+          "14. 测量每个绕组的电阻（应相同）",
+          "15. 测量电机对地电阻（应无限大）",
+          "16. 如果短路或断路，电机需更换",
+          "17. 检查碳刷磨损情况（如有碳刷）",
+          "18. 碳刷长度少于 5mm 需更换",
+          "19. 检查电机电容（通常 10-20μF）",
+          "20. 用电容表测试电容容量",
+          "21. 如果电容失效，更换相同规格",
+          "22. 安装新电机或维修后装回后盖",
+          "23. 调整皮带松紧度（拇指压下 1-2cm）",
+          "24. 运行脱水模式测试"
+        ],
+        "tools": [
+          "套筒扳手",
+          "万用表",
+          "电容表",
+          "螺丝刀",
+          "压缩空气"
+        ],
+        "time": "60-90 分钟",
+        "difficulty": "困难"
+      }
+    },
+    {
+      "id": 1297,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-4515",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "Norge Short Circuit - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1298,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-1322",
+      "code": "F08",
+      "name": "Encoder Fault",
+      "description": "Norge Encoder Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1299,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-8899",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Norge Power Supply Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1300,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-7483",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "Norge Thermal Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1301,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-6790",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Norge Overheat - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1302,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-4352",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "Norge Communication Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1303,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-7463",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Norge Overload - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1304,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-9592",
+      "code": "F07",
+      "name": "Position Error",
+      "description": " Payne Position Error - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1305,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-5346",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": " Payne Open Circuit - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1306,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-2099",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": " Payne Valve Fault - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1307,
+      "brand": " Payne",
+      "category": "HVAC",
+      "model": " Payne HVAC-3617",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": " Payne Level Sensor Fault - Technical issue in  Payne hvac systems",
+      "causes": [
+        " Payne component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Payne Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Cool",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1309,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-2789",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": "Cognex Lock Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1310,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-6933",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": "Cognex Configuration Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1311,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-9114",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Cognex Compressor Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1312,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-9114",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Cognex Flow Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1313,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-8362",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Cognex Power Supply Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1314,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-5688",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": "Cognex Operation Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1315,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-3808",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Cognex Temperature High - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 1316,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-5515",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Mazak Flow Error - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1317,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-7944",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "Mazak Short Circuit - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1318,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-4099",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Mazak Temperature High - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1319,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-8765",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Mazak Overheat - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1320,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-8572",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Mazak Power Supply Fault - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1321,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-9037",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "Mazak Grounding Fault - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1322,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-8576",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Mazak Motor Failure - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      },
+      "detailedSolution": {
+        "title": "CPU 故障排查",
+        "steps": [
+          "1. 备份 PLC 程序（如有可能）",
+          "2. 记录当前 CPU 状态",
+          "3. 关闭 PLC 电源",
+          "4. 检查 CPU 模块指示灯",
+          "5. RUN 灯：绿色=运行，熄灭=停止",
+          "6. ERR/FAULT 灯：红色=故障",
+          "7. MRC/MTN 灯：闪烁=运行中",
+          "8. 记录错误代码或闪烁次数",
+          "9. 找到电池仓（CPU 模块侧面）",
+          "10. 测量电池电压",
+          "11. 正常 3.0-3.6V（锂电池）",
+          "12. 电压低于 2.8V 必须更换",
+          "13. 购买相同型号电池",
+          "14. 在通电状态下更换电池",
+          "15. 或者在 30 秒内完成更换",
+          "16. 检查 CPU 模块是否松动",
+          "17. 重新插紧 CPU 模块",
+          "18. 检查电源模块指示灯",
+          "19. 测量电源输出电压",
+          "20. 24V DC 系列：21.6-26.4V 正常",
+          "21. 如果电源异常，更换电源模块",
+          "22. 检查内存是否损坏",
+          "23. 按照手册清除内存",
+          "24. 通常需要复位针或软件操作",
+          "25. 如果有备用 CPU，尝试交换测试",
+          "26. 如果仍不工作，更换 CPU 模块",
+          "27. 重新下载程序",
+          "28. 全面测试所有功能"
+        ],
+        "tools": [
+          "万用表",
+          "螺丝刀",
+          "PLC 编程电缆",
+          "新电池"
+        ],
+        "time": "60-90 分钟",
+        "difficulty": "困难",
+        "backup": "更换 CPU 前务必备份程序！"
+      }
+    },
+    {
+      "id": 1323,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-7807",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "Fanuc Door Open - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      },
+      "detailedSolution": {
+        "title": "CPU 故障排查",
+        "steps": [
+          "1. 备份 PLC 程序（如有可能）",
+          "2. 记录当前 CPU 状态",
+          "3. 关闭 PLC 电源",
+          "4. 检查 CPU 模块指示灯",
+          "5. RUN 灯：绿色=运行，熄灭=停止",
+          "6. ERR/FAULT 灯：红色=故障",
+          "7. MRC/MTN 灯：闪烁=运行中",
+          "8. 记录错误代码或闪烁次数",
+          "9. 找到电池仓（CPU 模块侧面）",
+          "10. 测量电池电压",
+          "11. 正常 3.0-3.6V（锂电池）",
+          "12. 电压低于 2.8V 必须更换",
+          "13. 购买相同型号电池",
+          "14. 在通电状态下更换电池",
+          "15. 或者在 30 秒内完成更换",
+          "16. 检查 CPU 模块是否松动",
+          "17. 重新插紧 CPU 模块",
+          "18. 检查电源模块指示灯",
+          "19. 测量电源输出电压",
+          "20. 24V DC 系列：21.6-26.4V 正常",
+          "21. 如果电源异常，更换电源模块",
+          "22. 检查内存是否损坏",
+          "23. 按照手册清除内存",
+          "24. 通常需要复位针或软件操作",
+          "25. 如果有备用 CPU，尝试交换测试",
+          "26. 如果仍不工作，更换 CPU 模块",
+          "27. 重新下载程序",
+          "28. 全面测试所有功能"
+        ],
+        "tools": [
+          "万用表",
+          "螺丝刀",
+          "PLC 编程电缆",
+          "新电池"
+        ],
+        "time": "60-90 分钟",
+        "difficulty": "困难",
+        "backup": "更换 CPU 前务必备份程序！"
+      }
+    },
+    {
+      "id": 1324,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1907",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Fanuc Calibration Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1325,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1467",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Fanuc Overheat - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1326,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-8217",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": "Fanuc Pump Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 1327,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-5349",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Fanuc Pressure Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -64523,7 +65823,9 @@
     "Haas",
     "Mazak",
     "Yaskawa",
-    "Universal Robots"
+    "Universal Robots",
+    "Norge",
+    "Cognex"
   ],
   "categories": [
     "Washer",
@@ -64536,8 +65838,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 1295,
-    "lastUpdated": "2026-03-15",
-    "version": "5.0"
+    "totalCodes": 1326,
+    "lastUpdated": "2026-03-16",
+    "version": "4.0",
+    "dailyGenerated": 32
   }
 }
