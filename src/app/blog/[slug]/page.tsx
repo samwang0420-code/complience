@@ -3,7 +3,7 @@ import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export async function generateStaticParams() {
-  return errorCodes.errorCodes.slice(0, 100).map((item: any) => ({
+  return errorCodes.errorCodes.map((item: any) => ({
     slug: `${item.brand.toLowerCase()}-${item.category.toLowerCase()}-${item.code.toLowerCase()}`
   }))
 }
