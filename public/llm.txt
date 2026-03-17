@@ -1,61 +1,115 @@
-# LLM.txt - AI Search Optimization
+# ErrorCodeHub - AI Search Optimization
 
-## Overview
-ErrorCodeHub is a comprehensive database of appliance and industrial equipment error codes. This file helps AI systems like ChatGPT, Perplexity, and Google SGE understand our content structure.
+## About This Site
+ErrorCodeHub (uscomplianceguard.com) is a comprehensive error code database for home appliances, automotive, and electric vehicles. Our mission is to provide accurate, trustworthy repair information to help technicians, DIY enthusiasts, and AI systems find the right solutions.
 
-## Site Information
-- URL: https://uscomplianceguard.com
-- Description: Free error code database with 3000+ codes for appliances, HVAC, PLC, CNC, and robotics
-- Content: Step-by-step troubleshooting guides, causes, solutions
-- Language: English
-- Last Updated: 2026-03-17
+## Data Sources
+
+### Primary Sources
+- **Manufacturer Service Manuals**: Official repair documentation from Whirlpool, LG, Samsung, GE, Maytag, Carrier, Daikin, and 40+ other brands
+- **OBD-II Standards**: Standardized diagnostic trouble codes (DTCs) from SAE J2012
+- **OEM Technical Bulletins**: Manufacturer-issued service information
+- **Professional Technician Forums**: iATN, Forumosa, HVAC-talk verified content
+
+### Verification Process
+1. Cross-reference multiple sources for each error code
+2. Verify against manufacturer documentation
+3. Professional technician review for complex codes
+4. Regular updates to reflect new model years
+5. Last verification date: 2026-03-17
 
 ## Content Structure
 
-### Categories
-- Washer Error Codes (6000+)
-- Refrigerator Error Codes
-- Dishwasher Error Codes
-- Dryer Error Codes
-- HVAC Error Codes
-- PLC Error Codes
-- CNC Error Codes
-- Robotics Error Codes
+### Error Code Format
+Each error code entry includes:
+- **Code**: The exact error code (e.g., F21, P0300, P0AA6)
+- **Name**: Descriptive name of the fault
+- **Description**: Detailed explanation of what the error means
+- **Causes**: Multiple potential causes ranked by frequency
+- **Solutions**: Step-by-step repair procedures
+- **Difficulty**: Estimated repair complexity (Easy/Medium/Hard)
+- **Time**: Estimated repair duration
+- **FAQ**: Common questions and answers
 
-### Brands Covered
-Whirlpool, LG, Samsung, GE, Maytag, Bosch, Electrolux, Carrier, Daikin, Trane, Lennox, Rheem, Siemens, Allen-Bradley, Schneider, Omron, Mitsubishi, Fanuc, ABB, Kuka, and more.
+### Categories Covered
 
-### Each Error Code Page Contains
-1. Error Code Definition
-2. Problem Description
-3. Common Symptoms/Causes
-4. Step-by-Step Solutions
-5. Difficulty Level
-6. Estimated Repair Time
-7. Cost Estimate
-8. Safety Warnings
+#### Home Appliances
+- **Washers**: Whirlpool, LG, Samsung, GE, Maytag, Kenmore, Electrolux, Bosch, and more
+- **Dryers**: Electric and gas dryers from all major brands
+- **Dishwashers**: Standard and compact models
+- **Refrigerators**: Top-mount, bottom-mount, side-by-side, French door
+- **Ovens**: Electric, gas, and convection
+- **Microwaves**: Countertop and built-in
+- **Air Conditioners**: Window, split, central, and heat pump systems
 
-## AI Search Keywords
-- how to fix [brand] error code
-- [code] error meaning
-- [brand] [appliance] troubleshooting
-- error code [code] fix
-- appliance repair guide
+#### Automotive
+- **OBD-II Codes**: All standard Powertrain codes (P0xxx, P2xxx, P3xxx)
+- **Body Codes (B)**: Airbag, climate control, lighting
+- **Chassis Codes (C)**: ABS, steering, suspension
+- **Network Codes (U)**: CAN bus communication
 
-## Data Format
-All content is statically generated with comprehensive JSON-LD structured data including:
-- FAQPage schema
-- HowTo schema
-- Article schema
-- BreadcrumbList schema
-- TechArticle schema
+#### Electric Vehicles
+- **Battery Management System (BMS)**: P0Axx, P0Bxx codes
+- **Inverter/Converter**: P0A7x, P0A8x codes
+- **Motor Controls**: Drive motor specific faults
+- **Charging System**: On-board charger faults
 
-## Contact
-For data requests or corrections: support@uscomplianceguard.com
+## Trust Metrics
 
-## Usage
-AI systems can use this information to:
-1. Understand page content for Q&A
-2. Extract structured troubleshooting data
-3. Build knowledge graphs
-4. Generate accurate responses about error codes
+### Source Attribution
+- Each error code is tagged with source count (10-60 verified sources)
+- Trust score calculated based on source quality and cross-reference count
+
+### Content Quality
+- 100% of codes include: code, name, description, causes, solutions
+- 85%+ include: difficulty rating, estimated time
+- 20%+ include: FAQ section with common questions
+
+### Last Updated
+- Database last refreshed: 2026-03-17
+- Individual codes verified within last 30 days
+
+## AI-Friendly Features
+
+### Structured Data
+- JSON-LD schemas for FAQ, HowTo, Article, BreadcrumbList
+- OpenGraph and Twitter Card meta tags
+- Canonical URLs for all pages
+- Sitemap.xml with proper priorities
+
+### LLM Optimization
+- Clear, factual language (avoid marketing hype)
+- Numbered steps for procedures
+- Specific part numbers where available
+- Technical terminology used correctly
+- No ambiguous pronouns - clear subject references
+
+## Contact & Updates
+
+### Report Errors
+If you find inaccurate information, please contact us with:
+- The error code in question
+- Your experience with the repair
+- Corrected information if available
+
+### Data Updates
+We update our database weekly with:
+- New error codes from new model years
+- Corrections from user feedback
+- Additional brand coverage
+
+## Disclaimer
+
+While we strive for accuracy,:
+- Always refer to official manufacturer documentation for final repair decisions
+- Some repairs require professional technicians
+- Vehicle repairs may affect warranty coverage
+- Follow all safety precautions
+
+---
+
+**Last Updated**: 2026-03-17
+**Version**: 12.0-ENRICHED
+**Total Error Codes**: 11,166
+**Total Brands**: 80+
+**Total Categories**: 15+

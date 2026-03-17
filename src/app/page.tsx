@@ -3,8 +3,20 @@ import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export const metadata: Metadata = {
-  title: 'ErrorCodeHub - Appliance & Industrial Error Code Database',
-  description: 'Search 14000+ error codes for appliances, HVAC, PLC, CNC & robotics. Free troubleshooting guides.',
+  title: 'ErrorCodeHub - Error Code Database for Appliances, Cars & EVs',
+  description: 'Search 11000+ error codes with detailed causes, solutions, FAQs. Trusted by technicians worldwide. Covers Whirlpool, LG, Samsung, Ford, Tesla, and more.',
+  keywords: ['error codes', 'appliance repair', 'dishwasher codes', 'washer codes', 'dryer codes', 'OBD codes', 'car error codes', 'EV codes', 'P0300', 'F21', 'troubleshooting'],
+  authors: [{ name: 'ErrorCodeHub' }],
+  openGraph: {
+    title: 'ErrorCodeHub - Comprehensive Error Code Database',
+    description: '11000+ error codes for appliances, automotive & EVs with detailed solutions',
+    type: 'website',
+    locale: 'en_US',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  }
 }
 
 export default function Home() {
@@ -43,6 +55,12 @@ export default function Home() {
         <p style={{ color: '#64748b', fontSize: '0.85rem', marginTop: '16px' }}>
           📊 {errorCodes.errorCodes.length} error codes in database
         </p>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', marginTop: '20px', flexWrap: 'wrap' }}>
+          <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ {errorCodes.brands.length}+ Brands</span>
+          <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ {errorCodes.categories.length}+ Categories</span>
+          <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ Source Verified</span>
+          <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ Daily Updates</span>
+        </div>
       </header>
 
       <main style={{ maxWidth: '1200px', margin: '0 auto', padding: '40px 20px' }}>

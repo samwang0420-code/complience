@@ -1,19 +1,32 @@
-# Robots.txt for ErrorCodeHub
 User-agent: *
 Allow: /
+Allow: /codes/
+Allow: /brand/
+Allow: /category/
+Allow: /search/
 
 # Sitemap
 Sitemap: https://uscomplianceguard.com/sitemap.xml
 
-# Crawl-delay
+# Crawl-delay (optional, for politeness)
 Crawl-delay: 1
 
-# Disallow unnecessary paths
+# Block common non-content
 Disallow: /api/
+Disallow: /admin/
+Disallow: /static/
 Disallow: /_next/
 
-# Host
-Host: https://uscomplianceguard.com
-
-# Sitemaps for sections
-Sitemap: https://uscomplianceguard.com/sitemap.xml
+# AI/Crawler specific
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: ClueWebBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
