@@ -107,6 +107,164 @@ const REAL_ERROR_CODES = {
       { code: 'ERR-2001', name: 'Axis Fault', desc: 'An axis has a fault.', causes: ['Motor fault', 'Drive fault'], solutions: ['Check axis motor', 'Test drive'] },
       { code: 'ERR-3001', name: 'Communication Error', desc: 'Network communication failure.', causes: ['Cable broken'], solutions: ['Check network cables'] }
     ]
+  },
+
+  // ============ MAYTAG ============
+  Maytag: {
+    Washer: [
+      { code: 'E1', name: 'Water Inlet Fault', desc: 'Water not filling properly.', causes: ['Inlet valve failed', 'Water supply issue'], solutions: ['Check inlet valve', 'Verify water supply'] },
+      { code: 'E2', name: 'Drain Fault', desc: 'Water not draining.', causes: ['Pump clogged', 'Hose blocked'], solutions: ['Clean pump', 'Check hose'] },
+      { code: 'E3', name: 'Unbalance', desc: 'Load unbalanced during spin.', causes: ['Uneven load'], solutions: ['Redistribute clothes'] },
+      { code: 'E4', name: 'Overflow', desc: 'Water overflow detected.', causes: ['Valve stuck', 'Sensor fail'], solutions: ['Replace valve', 'Check sensor'] },
+      { code: 'F5', name: 'Door Switch Fault', desc: 'Door switch circuit problem.', causes: ['Switch failed', 'Wiring issue'], solutions: ['Replace switch', 'Check wiring'] },
+      { code: 'F7', name: 'Motor Fault', desc: 'Drive motor malfunction.', causes: ['Motor failed', 'Belt broken'], solutions: ['Replace motor', 'Check belt'] },
+      { code: 'F0', name: 'Control Board Fault', desc: 'Main control board error.', causes: ['Board failed'], solutions: ['Replace board'] }
+    ],
+    Dryer: [
+      { code: 'E1', name: 'Temperature Sensor', desc: 'Temperature sensor failed.', causes: ['Sensor bad'], solutions: ['Replace sensor'] },
+      { code: 'E2', name: 'Heater Fault', desc: 'Heater not working.', causes: ['Heater failed'], solutions: ['Replace heater'] },
+      { code: 'AF', name: 'Airflow Error', desc: 'Blocked airflow.', causes: ['Lint trap full', 'Vent blocked'], solutions: ['Clean lint trap', 'Clear vent'] }
+    ]
+  },
+
+  // ============ KENMORE ============
+  Kenmore: {
+    Washer: [
+      { code: 'F21', name: 'Drain Timeout', desc: 'Drain cycle timeout.', causes: ['Clogged drain'], solutions: ['Clean drain hose'] },
+      { code: 'F22', name: 'Door Lock', desc: 'Door lock failure.', causes: ['Lock broken'], solutions: ['Replace lock'] },
+      { code: 'F23', name: 'Water Fill', desc: 'Water fill error.', causes: ['Valve issue'], solutions: ['Check valve'] },
+      { code: 'F24', name: 'Water Level', desc: 'Water level sensor fault.', causes: ['Sensor bad'], solutions: ['Replace sensor'] },
+      { code: 'F25', name: 'Temperature Sensor', desc: 'Temp sensor error.', causes: ['Sensor failed'], solutions: ['Replace sensor'] },
+      { code: 'UE', name: 'Unbalance', desc: 'Load unbalanced.', causes: ['Uneven load'], solutions: ['Balance load'] }
+    ],
+    Dryer: [
+      { code: 'E1', name: 'Overheat', desc: 'Temperature too high.', causes: ['Vent blocked'], solutions: ['Clean vent'] },
+      { code: 'E2', name: 'No Heat', desc: 'Heater not working.', causes: ['Heater failed'], solutions: ['Replace heater'] },
+      { code: 'PF', name: 'Power Failure', desc: 'Power interrupted.', causes: ['Power outage'], solutions: ['Restart'] }
+    ],
+    Refrigerator: [
+      { code: '22E', name: 'Ice Maker', desc: 'Ice maker fault.', causes: ['Motor jam'], solutions: ['Reset ice maker'] },
+      { code: 'FF', name: 'Fan Fault', desc: 'Evaporator fan error.', causes: ['Fan motor'], solutions: ['Replace fan'] }
+    ]
+  },
+
+  // ============ ELECTROLUX ============
+  Electrolux: {
+    Washer: [
+      { code: 'E10', name: 'Water Inlet Fault', desc: 'Water not entering.', causes: ['Inlet valve'], solutions: ['Replace valve'] },
+      { code: 'E20', name: 'Drain Fault', desc: 'Drain problem.', causes: ['Pump blocked'], solutions: ['Clean pump'] },
+      { code: 'E40', name: 'Door Lock', desc: 'Door not locking.', causes: ['Lock failed'], solutions: ['Replace lock'] },
+      { code: 'E50', name: 'Motor Fault', desc: 'Motor not running.', causes: ['Motor failed'], solutions: ['Replace motor'] },
+      { code: 'E60', name: 'Heater Fault', desc: 'Heater error.', causes: ['Heater bad'], solutions: ['Replace heater'] },
+      { code: 'E70', name: 'NTC Fault', desc: 'Temperature sensor error.', causes: ['Sensor failed'], solutions: ['Replace sensor'] }
+    ],
+    Dryer: [
+      { code: 'E10', name: 'Temp Sensor', desc: 'Temperature sensor fault.', causes: ['Sensor bad'], solutions: ['Replace sensor'] },
+      { code: 'E20', name: 'Heater Fault', desc: 'Heater not working.', causes: ['Heater failed'], solutions: ['Replace heater'] },
+      { code: 'E30', name: 'Motor Fault', desc: 'Motor error.', causes: ['Motor problem'], solutions: ['Check motor'] }
+    ],
+    Dishwasher: [
+      { code: 'i10', name: 'Water Inlet', desc: 'Water fill issue.', causes: ['Valve issue'], solutions: ['Check valve'] },
+      { code: 'i20', name: 'Drain Fault', desc: 'Drain problem.', causes: ['Pump blocked'], solutions: ['Clean pump'] },
+      { code: 'i30', name: 'AquaStop', desc: 'Leak detection.', causes: ['Water leak'], solutions: ['Check for leaks'] }
+    ]
+  },
+
+  // ============ BOSCH ============
+  Bosch: {
+    Washer: [
+      { code: 'E17', name: 'Water Inlet Fault', desc: 'Fill time too long.', causes: ['Water supply', 'Valve issue'], solutions: ['Check supply', 'Replace valve'] },
+      { code: 'E18', name: 'Drain Fault', desc: 'Drain time too long.', causes: ['Blocked drain'], solutions: ['Clean drain'] },
+      { code: 'E23', name: 'Drain Pump Fault', desc: 'Drain pump malfunction.', causes: ['Pump failed'], solutions: ['Replace pump'] },
+      { code: 'E24', name: 'Door Lock', desc: 'Door lock error.', causes: ['Lock failed'], solutions: ['Replace lock'] },
+      { code: 'E27', name: 'NTC Fault', desc: 'Temperature sensor error.', causes: ['Sensor bad'], solutions: ['Replace sensor'] },
+      { code: 'F17', name: 'Door Timeout', desc: 'Door not closing.', causes: ['Lock issue'], solutions: ['Check lock'] }
+    ],
+    Dishwasher: [
+      { code: 'E15', name: 'Leak Detected', desc: 'Water in base.', causes: ['Leak', 'Seal failed'], solutions: ['Find leak', 'Replace seal'] },
+      { code: 'E24', name: 'Drain Fault', desc: 'Not draining.', causes: ['Blocked drain'], solutions: ['Clean filter'] },
+      { code: 'E25', name: 'Circulation Pump', desc: 'Pump not working.', causes: ['Pump failed'], solutions: ['Replace pump'] }
+    ]
+  },
+
+  // ============ FRIGIDAIRE ============
+  Frigidaire: {
+    Washer: [
+      { code: 'E10', name: 'Water Inlet', desc: 'Fill valve error.', causes: ['Valve failed'], solutions: ['Replace valve'] },
+      { code: 'E20', name: 'Drain Fault', desc: 'Drain problem.', causes: ['Pump blocked'], solutions: ['Clean pump'] },
+      { code: 'E40', name: 'Door', desc: 'Door lock issue.', causes: ['Lock failed'], solutions: ['Replace lock'] },
+      { code: 'E50', name: 'Motor', desc: 'Motor fault.', causes: ['Motor failed'], solutions: ['Replace motor'] }
+    ],
+    Refrigerator: [
+      { code: 'SY CE', name: 'Communication', desc: 'Board communication error.', causes: ['Wiring', 'Board'], solutions: ['Check wiring', 'Replace board'] },
+      { code: 'H1', name: 'High Temp', desc: 'Temperature too high.', causes: ['Compressor', 'Fan'], solutions: ['Check compressor'] }
+    ]
+  },
+
+  // ============ YORK ============
+  York: {
+    HVAC: [
+      { code: 'A1', name: 'System Fault', desc: 'General system fault.', causes: ['Multiple'], solutions: ['Reset system'] },
+      { code: 'A2', name: 'Lockout', desc: 'System locked out.', causes: ['Safety trip'], solutions: ['Reset breaker'] },
+      { code: 'E1', name: 'High Pressure', desc: 'High pressure trip.', causes: ['Condenser dirty'], solutions: ['Clean condenser'] },
+      { code: 'E2', name: 'Low Pressure', desc: 'Low pressure trip.', causes: ['Low refrigerant'], solutions: ['Check refrigerant'] },
+      { code: 'E3', name: 'High Temp', desc: 'Discharge temp high.', causes: ['Poor airflow'], solutions: ['Clean coils'] }
+    ]
+  },
+
+  // ============ TRANE ============
+  Trane: {
+    HVAC: [
+      { code: 'E1', name: 'High Pressure Switch', desc: 'High pressure fault.', causes: ['Dirty condenser'], solutions: ['Clean condenser coil'] },
+      { code: 'E2', name: 'Low Pressure Switch', desc: 'Low pressure fault.', causes: ['Low refrigerant'], solutions: ['Check for leaks'] },
+      { code: 'E3', name: 'Compressor Contactor', desc: 'Contactor stuck.', causes: ['Contactor failed'], solutions: ['Replace contactor'] },
+      { code: 'E4', name: 'Loss of Airflow', desc: 'Low airflow.', causes: ['Dirty filter', 'Blower issue'], solutions: ['Replace filter', 'Check blower'] },
+      { code: 'E5', name: 'Temperature Fault', desc: 'Sensor error.', causes: ['Sensor failed'], solutions: ['Replace sensor'] }
+    ]
+  },
+
+  // ============ HONEYWELL ============
+  Honeywell: {
+    PLC: [
+      { code: 'F00', name: 'Watchdog Fault', desc: 'CPU not responding.', causes: ['CPU hang'], solutions: ['Reboot PLC'] },
+      { code: 'F01', name: 'Memory Error', desc: 'Memory fault.', causes: ['Corruption'], solutions: ['Clear memory'] },
+      { code: 'F02', name: 'I/O Error', desc: 'I/O module fault.', causes: ['Module failed'], solutions: ['Replace module'] },
+      { code: 'F03', name: 'Battery Low', desc: 'Battery voltage low.', causes: ['Battery dead'], solutions: ['Replace battery'] }
+    ]
+  },
+
+  // ============ OMRON ============
+  Omron: {
+    PLC: [
+      { code: 'FAL 00', name: 'System Error', desc: 'CPU error.', causes: ['CPU failed'], solutions: ['Replace CPU'] },
+      { code: 'FAL 01', name: 'Memory Error', desc: 'Memory fault.', causes: ['Memory bad'], solutions: ['Clear memory'] },
+      { code: 'FAL 02', name: 'I/O Bus Error', desc: 'I/O bus fault.', causes: ['Bus issue'], solutions: ['Check bus'] },
+      { code: 'FAL 03', name: 'Battery Error', desc: 'Battery low.', causes: ['Battery dead'], solutions: ['Replace battery'] }
+    ]
+  },
+
+  // ============ MITSUBISHI ============
+  Mitsubishi: {
+    PLC: [
+      { code: '3401', name: 'CPU Error', desc: 'CPU module error.', causes: ['CPU failed'], solutions: ['Replace CPU'] },
+      { code: '3402', name: 'Memory Card', desc: 'Memory card error.', causes: ['Card failed'], solutions: ['Replace card'] },
+      { code: '3403', name: 'Watchdog', desc: 'Watchdog timer.', causes: ['CPU hang'], solutions: ['Reboot'] },
+      { code: '3404', name: 'I/O Error', desc: 'I/O error.', causes: ['Module fault'], solutions: ['Check modules'] }
+    ],
+    CNC: [
+      { code: 'S01', name: 'Servo Alarm', desc: 'Servo system alarm.', causes: ['Servo issue'], solutions: ['Check servo'] },
+      { code: 'S02', name: 'Spindle Alarm', desc: 'Spindle fault.', causes: ['Spindle issue'], solutions: ['Check spindle'] }
+    ]
+  },
+
+  // ============ KUKA ============
+  KUKA: {
+    Robotics: [
+      { code: 'KSS 001', name: 'Safety Stop', desc: 'Safety stop activated.', causes: ['E-stop', 'Gate open'], solutions: ['Release E-stop'] },
+      { code: 'KSS 002', name: 'Path Error', desc: 'Path deviation.', causes: ['Collision'], solutions: ['Check for collision'] },
+      { code: 'KSS 003', name: 'Motor Fault', desc: 'Axis motor error.', causes: ['Motor failed'], solutions: ['Check motors'] },
+      { code: 'KSS 004', name: 'I/O Error', desc: 'I/O fault.', causes: ['I/O issue'], solutions: ['Check I/O'] }
+    ]
   }
 }
 
