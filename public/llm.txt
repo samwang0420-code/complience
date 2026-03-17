@@ -1,0 +1,61 @@
+# LLM.txt - AI Search Optimization
+
+## Overview
+ErrorCodeHub is a comprehensive database of appliance and industrial equipment error codes. This file helps AI systems like ChatGPT, Perplexity, and Google SGE understand our content structure.
+
+## Site Information
+- URL: https://uscomplianceguard.com
+- Description: Free error code database with 3000+ codes for appliances, HVAC, PLC, CNC, and robotics
+- Content: Step-by-step troubleshooting guides, causes, solutions
+- Language: English
+- Last Updated: 2026-03-17
+
+## Content Structure
+
+### Categories
+- Washer Error Codes (6000+)
+- Refrigerator Error Codes
+- Dishwasher Error Codes
+- Dryer Error Codes
+- HVAC Error Codes
+- PLC Error Codes
+- CNC Error Codes
+- Robotics Error Codes
+
+### Brands Covered
+Whirlpool, LG, Samsung, GE, Maytag, Bosch, Electrolux, Carrier, Daikin, Trane, Lennox, Rheem, Siemens, Allen-Bradley, Schneider, Omron, Mitsubishi, Fanuc, ABB, Kuka, and more.
+
+### Each Error Code Page Contains
+1. Error Code Definition
+2. Problem Description
+3. Common Symptoms/Causes
+4. Step-by-Step Solutions
+5. Difficulty Level
+6. Estimated Repair Time
+7. Cost Estimate
+8. Safety Warnings
+
+## AI Search Keywords
+- how to fix [brand] error code
+- [code] error meaning
+- [brand] [appliance] troubleshooting
+- error code [code] fix
+- appliance repair guide
+
+## Data Format
+All content is statically generated with comprehensive JSON-LD structured data including:
+- FAQPage schema
+- HowTo schema
+- Article schema
+- BreadcrumbList schema
+- TechArticle schema
+
+## Contact
+For data requests or corrections: support@uscomplianceguard.com
+
+## Usage
+AI systems can use this information to:
+1. Understand page content for Q&A
+2. Extract structured troubleshooting data
+3. Build knowledge graphs
+4. Generate accurate responses about error codes
