@@ -3,19 +3,32 @@ import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export const metadata: Metadata = {
-  title: 'ErrorCodeHub - Error Code Database for Appliances, Cars & EVs',
-  description: 'Search 11000+ error codes with detailed causes, solutions, FAQs. Trusted by technicians worldwide. Covers Whirlpool, LG, Samsung, Ford, Tesla, and more.',
-  keywords: ['error codes', 'appliance repair', 'dishwasher codes', 'washer codes', 'dryer codes', 'OBD codes', 'car error codes', 'EV codes', 'P0300', 'F21', 'troubleshooting'],
+  title: 'ErrorCodeHub - 31,784 Error Codes | Appliances, Cars & EVs',
+  description: 'Search 31,784+ error codes for washers, dryers, dishwashers, refrigerators, ovens, cars & EVs. Detailed causes, solutions & FAQs. Covers Whirlpool, LG, Samsung, Toyota, Ford, Tesla, BYD.',
+  keywords: ['error codes', 'error code database', 'appliance repair codes', 'washer error codes', 'dryer error codes', 'dishwasher error codes', 'refrigerator error codes', 'OBD codes', 'car diagnostic codes', 'P0300', 'P0420', 'EV error codes', 'F21', 'troubleshooting', 'error code lookup'],
   authors: [{ name: 'ErrorCodeHub' }],
   openGraph: {
-    title: 'ErrorCodeHub - Comprehensive Error Code Database',
-    description: '11000+ error codes for appliances, automotive & EVs with detailed solutions',
+    title: 'ErrorCodeHub - Largest Error Code Database',
+    description: '31,784 error codes for appliances, automotive & electric vehicles with detailed solutions',
     type: 'website',
     locale: 'en_US',
+    siteName: 'ErrorCodeHub',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'ErrorCodeHub - 31,784 Error Codes',
+    description: 'Search error codes for appliances, cars & EVs. Detailed solutions.',
   },
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   }
 }
 
@@ -53,13 +66,13 @@ export default function Home() {
           />
         </form>
         <p style={{ color: '#64748b', fontSize: '0.85rem', marginTop: '16px' }}>
-          📊 {errorCodes.errorCodes.length} error codes in database
+          📊 <strong>{errorCodes.errorCodes.length.toLocaleString()}</strong> error codes in database
         </p>
         <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', marginTop: '20px', flexWrap: 'wrap' }}>
           <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ {errorCodes.brands.length}+ Brands</span>
           <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ {errorCodes.categories.length}+ Categories</span>
+          <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ 5,000+ FAQs</span>
           <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ Source Verified</span>
-          <span style={{ background: '#059669', padding: '4px 12px', borderRadius: '20px', fontSize: '0.75rem', color: 'white' }}>✓ Daily Updates</span>
         </div>
       </header>
 

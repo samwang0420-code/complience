@@ -1,23 +1,26 @@
+# Robots.txt for ErrorCodeHub
+
 User-agent: *
 Allow: /
 Allow: /codes/
 Allow: /brand/
 Allow: /category/
 Allow: /search/
+Allow: /code/
 
 # Sitemap
 Sitemap: https://uscomplianceguard.com/sitemap.xml
 
-# Crawl-delay (optional, for politeness)
+# Crawl-delay
 Crawl-delay: 1
 
-# Block common non-content
+# Block non-content
 Disallow: /api/
 Disallow: /admin/
-Disallow: /static/
 Disallow: /_next/
+Disallow: /static/
 
-# AI/Crawler specific
+# AI Crawlers - Full Access
 User-agent: GPTBot
 Allow: /
 User-agent: ChatGPT-User
@@ -30,3 +33,34 @@ User-agent: ClueWebBot
 Allow: /
 User-agent: OAI-SearchBot
 Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Ai2Bot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: GoogleOther
+Allow: /
+User-agent: GoogleOther-Version
+Allow: /
+User-agent: DuckAssistBot
+Allow: /
+User-agent: BingBot
+Allow: /
+User-agent: BingPreview
+Allow: /
+User-agent: Slurp
+Allow: /
+User-agent: Yandex
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: Sogou web spider
+Allow: /
+User-agent: Exabot
+Allow: /
+
+# Privacy
+Disallow: /api/
