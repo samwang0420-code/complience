@@ -47,6 +47,13 @@ export default function Home() {
           Search error codes for appliances, industrial equipment, HVAC, PLC, CNC & robotics.
           <br />Instant troubleshooting guides.
         </p>
+        {/* Navigation Links */}
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', marginBottom: '30px', flexWrap: 'wrap' }}>
+          <Link href="/faq" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>📖 FAQ</Link>
+          <Link href="/about" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>ℹ️ About</Link>
+          <Link href="/methodology" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>📋 Methodology</Link>
+        </div>
+        
         <form action="/search" method="GET" style={{ maxWidth: '500px', margin: '0 auto' }}>
           <input 
             type="text" 
