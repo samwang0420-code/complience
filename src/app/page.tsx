@@ -173,7 +173,19 @@ export default function Home() {
 
       <footer style={{ textAlign: 'center', padding: '40px 20px', borderTop: '1px solid #1e293b', color: '#64748b' }}>
         <p>© 2026 ErrorCodeHub. Free error code database.</p>
-        <div style={{ marginTop: '15px', display: 'flex', justifyContent: 'center', gap: '20px' }}>
+        
+        {/* External Links - SEO Network */}
+        <div style={{ marginTop: '20px', paddingTop: '20px', borderTop: '1px solid #1e293b' }}>
+          <p style={{ fontSize: '0.85rem', marginBottom: '12px' }}>📌 Our SEO Network:</p>
+          <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap' }}>
+            <a href="https://getuscompliance.com" target="_blank" rel="noopener" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>getuscompliance.com - US City Data</a>
+            <a href="https://uscompliance-team.com" target="_blank" rel="noopener" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>uscompliance-team.com - China Sourcing</a>
+            <a href="https://stackmatrices.com" target="_blank" rel="noopener" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>stackmatrices.com - Medical GEO</a>
+            <a href="https://jianfacv.com" target="_blank" rel="noopener" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>jianfacv.com - SaaS Reviews</a>
+          </div>
+        </div>
+        
+        <div style={{ marginTop: '20px', display: 'flex', justifyContent: 'center', gap: '20px' }}>
           <Link href="/privacy" style={{ color: '#6366f1', textDecoration: 'none' }}>Privacy Policy</Link>
           <Link href="/contact" style={{ color: '#6366f1', textDecoration: 'none' }}>Contact</Link>
         </div>
