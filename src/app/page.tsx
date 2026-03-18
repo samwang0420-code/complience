@@ -44,11 +44,11 @@ export default function Home() {
           🔧 {errorCodes.errorCodes.length.toLocaleString()}+ Error Codes • Updated Daily
         </div>
         <h1 style={{ fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '1rem', color: 'white' }}>
-          解决[错误代码]：亲测有效的修复方案
+          Fix [Error Code]: Proven Repair Solutions
         </h1>
         <p style={{ fontSize: '1.1rem', color: '#94a3b8', maxWidth: '600px', margin: '0 auto 30px', lineHeight: '1.7' }}>
-          输入错误代码，立即获取修复方案。<br/>
-          <span style={{ color: '#6366f1' }}>数据来自官方手册 + 专业技师验证</span>
+          Enter error code, get instant fix.<br/>
+          <span style={{ color: '#6366f1' }}>Data from official manuals + certified technicians</span>
         </p>
         {/* Navigation Links */}
         <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', marginBottom: '30px', flexWrap: 'wrap' }}>
@@ -61,8 +61,8 @@ export default function Home() {
           <input 
             type="text" 
             name="q"
-            placeholder="输入错误代码，如 F21, P0300, P0AA6..." 
-            aria-label="搜索错误代码"
+            placeholder="Enter error code (e.g., F21, P0300, P0AA6)..." 
+            aria-label="Search error codes"
             style={{
               width: '100%',
               padding: '16px 24px',
