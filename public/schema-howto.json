@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Fix Common Error Codes",
+  "description": "Step-by-step troubleshooting guide for appliance and automotive error codes",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Step 1: Identify the Error Code",
+      "text": "Locate the error code on your device display. Write down the exact code (e.g., F21, P0300).",
+      "url": "https://uscomplianceguard.com/search"
+    },
+    {
+      "@type": "HowToStep", 
+      "name": "Step 2: Search the Code",
+      "text": "Enter the error code in our search bar to find matching results.",
+      "url": "https://uscomplianceguard.com/search"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Step 3: Check Causes",
+      "text": "Review the listed possible causes. Start with the most common cause.",
+      "url": "https://uscomplianceguard.com/search"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Step 4: Try DIY Solutions",
+      "text": "If the issue is marked as 'Easy' difficulty, try the suggested solutions. Always unplug devices before working.",
+      "url": "https://uscomplianceguard.com/methodology"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Step 5: Professional Help",
+      "text": "For 'Hard' difficulty issues or if DIY fails, contact a certified technician.",
+      "url": "https://uscomplianceguard.com/contact"
+    }
+  ]
+}

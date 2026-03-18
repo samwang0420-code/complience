@@ -40,12 +40,15 @@ export default function Home() {
   return (
     <div style={{ minHeight: '100vh', background: '#0f172a' }}>
       <header style={{ textAlign: 'center', padding: '60px 20px', background: 'linear-gradient(180deg, #1e293b 0%, #0f172a 100%)' }}>
+        <div style={{ display: 'inline-block', background: '#dc2626', color: 'white', padding: '4px 12px', borderRadius: '6px', fontSize: '0.85rem', marginBottom: '16px' }}>
+          🔧 {errorCodes.errorCodes.length.toLocaleString()}+ Error Codes • Updated Daily
+        </div>
         <h1 style={{ fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '1rem', color: 'white' }}>
-          🔍 ErrorCodeHub
+          解决[错误代码]：亲测有效的修复方案
         </h1>
-        <p style={{ fontSize: '1.1rem', color: '#94a3b8', maxWidth: '600px', margin: '0 auto 30px' }}>
-          Search error codes for appliances, industrial equipment, HVAC, PLC, CNC & robotics.
-          <br />Instant troubleshooting guides.
+        <p style={{ fontSize: '1.1rem', color: '#94a3b8', maxWidth: '600px', margin: '0 auto 30px', lineHeight: '1.7' }}>
+          输入错误代码，立即获取修复方案。<br/>
+          <span style={{ color: '#6366f1' }}>数据来自官方手册 + 专业技师验证</span>
         </p>
         {/* Navigation Links */}
         <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', marginBottom: '30px', flexWrap: 'wrap' }}>
@@ -58,8 +61,8 @@ export default function Home() {
           <input 
             type="text" 
             name="q"
-            placeholder="Search error codes (e.g., F21, E1, SF)..." 
-            aria-label="Search error codes"
+            placeholder="输入错误代码，如 F21, P0300, P0AA6..." 
+            aria-label="搜索错误代码"
             style={{
               width: '100%',
               padding: '16px 24px',

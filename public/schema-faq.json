@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is an error code?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An error code is a diagnostic code displayed by a device (appliance, vehicle, or system) to indicate a specific malfunction or fault."
+    }
+  }, {
+    "@type": "Question", 
+    "name": "How do I find the error code on my appliance?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Error codes are typically displayed on the device's control panel or digital display."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What does F21 mean on a Whirlpool washer?",
+    "acceptedAnswer": {
+      "@type": "Answer", 
+      "text": "F21 indicates a drain timeout error - the washer couldn't drain water within 8 minutes."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What does P0300 mean on a car?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "P0300 is a random/multiple cylinder misfire code."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I fix the error code myself?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Many error codes indicate simple issues that can be fixed DIY-style."
+    }
+  }]
+}
