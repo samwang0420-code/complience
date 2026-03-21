@@ -110048,10 +110048,10 @@
       }
     },
     {
-      "id": 3492,
+      "id": 3525,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-6263",
+      "model": " IDEC PLC-5569",
       "code": "C02",
       "name": "Configuration Error",
       "description": " IDEC Configuration Error - Technical issue in  IDEC plc systems",
@@ -110067,11 +110067,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -111150,10 +111150,10 @@
       }
     },
     {
-      "id": 3461,
+      "id": 3516,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-9460",
+      "model": "Goodman HVAC-3269",
       "code": "E04",
       "name": "Motor Failure",
       "description": "Goodman Motor Failure - Technical issue in Goodman hvac systems",
@@ -111169,11 +111169,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -112972,6 +112972,1298 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3507,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-5721",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Roper Overheat - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3508,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-1630",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": "Roper Speed Error - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3509,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-4287",
+      "code": "P04",
+      "name": "Fan Fault",
+      "description": "Roper Fan Fault - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3510,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-7596",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": "Roper Open Circuit - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3511,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-4784",
+      "code": "U01",
+      "name": "User Error",
+      "description": "Roper User Error - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3512,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-3385",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Roper Temperature Low - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3513,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-2518",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "Roper Thermal Fault - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3514,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-6225",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": "Roper Configuration Error - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3515,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-3177",
+      "code": "L04",
+      "name": "Interlock Fault",
+      "description": "Goodman Interlock Fault - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3517,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-2221",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Goodman Overheat - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3518,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-4797",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Goodman Calibration Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3519,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-3141",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Goodman Brake Fault - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3520,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-1541",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "Goodman Parameter Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3521,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-2332",
+      "code": "F05",
+      "name": "Overheat",
+      "description": " IDEC Overheat - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3522,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-8532",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": " IDEC Setup Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3523,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-4144",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": " IDEC Speed Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3524,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-6655",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": " IDEC Motor Failure - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3526,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-6316",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": " IDEC Operation Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3527,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-8136",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "Okuma Grounding Fault - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3528,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-8581",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": "Okuma Checksum Error - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3529,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-5083",
+      "code": "F07",
+      "name": "Position Error",
+      "description": "Okuma Position Error - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3530,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-8769",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Okuma Pressure Fault - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3531,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-3086",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "Okuma Communication Error - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3532,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-2664",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Okuma Overload - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3533,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-6502",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Okuma Overheat - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3534,
+      "brand": "Okuma",
+      "category": "CNC",
+      "model": "Okuma CNC-6930",
+      "code": "U01",
+      "name": "User Error",
+      "description": "Okuma User Error - Technical issue in Okuma cnc systems",
+      "causes": [
+        "Okuma component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Okuma Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "MA",
+        "features": [
+          "Thermo-Friendly"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3535,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-9309",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Fanuc Temperature High - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3536,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-4173",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Fanuc Calibration Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3537,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-5273",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Fanuc Valve Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3538,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-8783",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Fanuc Temperature Low - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3539,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1968",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": "Fanuc Operation Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3540,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-3412",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "Fanuc Communication Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3541,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-5884",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": "Fanuc Open Circuit - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3542,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1905",
+      "code": "L02",
+      "name": "Limit Switch",
+      "description": "Fanuc Limit Switch - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -113069,7 +114361,9 @@
     "Yaskawa",
     "Inglis",
     "DMG MORI",
-    "Fanuc"
+    "Fanuc",
+    "Roper",
+    "Okuma"
   ],
   "categories": [
     "Washer",
@@ -113086,9 +114380,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3506,
-    "lastUpdated": "2026-03-20",
+    "totalCodes": 3540,
+    "lastUpdated": "2026-03-21",
     "version": "4.0",
-    "dailyGenerated": 32
+    "dailyGenerated": 36
   }
 }
