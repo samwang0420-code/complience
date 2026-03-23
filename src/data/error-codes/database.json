@@ -109896,10 +109896,10 @@
       }
     },
     {
-      "id": 31794,
+      "id": 3578,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-2720",
+      "model": "American Standard HVAC-1900",
       "code": "U01",
       "name": "User Error",
       "description": "American Standard User Error - Technical issue in American Standard hvac systems",
@@ -109916,7 +109916,7 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
         "yearIntroduced": "2021",
@@ -109972,10 +109972,10 @@
       }
     },
     {
-      "id": 31796,
+      "id": 3572,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-2869",
+      "model": "American Standard HVAC-7375",
       "code": "L01",
       "name": "Lock Error",
       "description": "American Standard Lock Error - Technical issue in American Standard hvac systems",
@@ -109991,11 +109991,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -111644,10 +111644,10 @@
       }
     },
     {
-      "id": 3474,
+      "id": 3592,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-8607",
+      "model": "Yaskawa ROBOTICS-9556",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "Yaskawa Grounding Fault - Technical issue in Yaskawa robotics systems",
@@ -111664,10 +111664,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -111720,10 +111720,10 @@
       }
     },
     {
-      "id": 3476,
+      "id": 3594,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-1129",
+      "model": "Yaskawa ROBOTICS-1909",
       "code": "F06",
       "name": "Speed Error",
       "description": "Yaskawa Speed Error - Technical issue in Yaskawa robotics systems",
@@ -111743,7 +111743,7 @@
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -112100,10 +112100,10 @@
       }
     },
     {
-      "id": 3484,
+      "id": 3574,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-9220",
+      "model": "American Standard HVAC-7578",
       "code": "L03",
       "name": "Door Open",
       "description": "American Standard Door Open - Technical issue in American Standard hvac systems",
@@ -112123,7 +112123,7 @@
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112176,10 +112176,10 @@
       }
     },
     {
-      "id": 3486,
+      "id": 3577,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-3323",
+      "model": "American Standard HVAC-8207",
       "code": "F07",
       "name": "Position Error",
       "description": "American Standard Position Error - Technical issue in American Standard hvac systems",
@@ -112195,11 +112195,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112290,10 +112290,10 @@
       }
     },
     {
-      "id": 3489,
+      "id": 3576,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-7614",
+      "model": "American Standard HVAC-2046",
       "code": "L02",
       "name": "Limit Switch",
       "description": "American Standard Limit Switch - Technical issue in American Standard hvac systems",
@@ -112310,10 +112310,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112328,10 +112328,10 @@
       }
     },
     {
-      "id": 3490,
+      "id": 3579,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-7555",
+      "model": " IDEC PLC-6288",
       "code": "F10",
       "name": "Temperature High",
       "description": " IDEC Temperature High - Technical issue in  IDEC plc systems",
@@ -112347,11 +112347,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -112404,10 +112404,10 @@
       }
     },
     {
-      "id": 3493,
+      "id": 3583,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-9355",
+      "model": " IDEC PLC-7994",
       "code": "E06",
       "name": "Thermal Fault",
       "description": " IDEC Thermal Fault - Technical issue in  IDEC plc systems",
@@ -112423,11 +112423,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -112518,10 +112518,10 @@
       }
     },
     {
-      "id": 3497,
+      "id": 3582,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-6102",
+      "model": " IDEC PLC-9151",
       "code": "P02",
       "name": "Valve Fault",
       "description": " IDEC Valve Fault - Technical issue in  IDEC plc systems",
@@ -112537,8 +112537,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
         "yearIntroduced": "2016",
@@ -112594,10 +112594,10 @@
       }
     },
     {
-      "id": 3499,
+      "id": 3587,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-8751",
+      "model": "DMG MORI CNC-7055",
       "code": "P02",
       "name": "Valve Fault",
       "description": "DMG MORI Valve Fault - Technical issue in DMG MORI cnc systems",
@@ -112613,11 +112613,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -112974,10 +112974,10 @@
       }
     },
     {
-      "id": 3541,
+      "id": 3569,
       "brand": "Roper",
       "category": "Washer",
-      "model": "Roper WASHER-7781",
+      "model": "Roper WASHER-7799",
       "code": "F05",
       "name": "Overheat",
       "description": "Roper Overheat - Technical issue in Roper washer systems",
@@ -112993,11 +112993,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Roper Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Standard",
         "features": [
@@ -113088,10 +113088,10 @@
       }
     },
     {
-      "id": 3510,
+      "id": 3567,
       "brand": "Roper",
       "category": "Washer",
-      "model": "Roper WASHER-7596",
+      "model": "Roper WASHER-2684",
       "code": "F02",
       "name": "Open Circuit",
       "description": "Roper Open Circuit - Technical issue in Roper washer systems",
@@ -113107,11 +113107,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Roper Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Standard",
         "features": [
@@ -113126,10 +113126,10 @@
       }
     },
     {
-      "id": 3511,
+      "id": 3568,
       "brand": "Roper",
       "category": "Washer",
-      "model": "Roper WASHER-4784",
+      "model": "Roper WASHER-4267",
       "code": "U01",
       "name": "User Error",
       "description": "Roper User Error - Technical issue in Roper washer systems",
@@ -113146,10 +113146,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Roper Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Standard",
         "features": [
@@ -115214,6 +115214,652 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3566,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-4257",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "Roper Parameter Error - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3570,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-6986",
+      "code": "L02",
+      "name": "Limit Switch",
+      "description": "Roper Limit Switch - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3571,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-5287",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Roper Valve Fault - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3573,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-6765",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "American Standard Temperature High - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3575,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-2072",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "American Standard Grounding Fault - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3580,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-6154",
+      "code": "U01",
+      "name": "User Error",
+      "description": " IDEC User Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3581,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-5358",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": " IDEC Control Board Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3584,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-3037",
+      "code": "L04",
+      "name": "Interlock Fault",
+      "description": " IDEC Interlock Fault - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3585,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-5462",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": " IDEC Lock Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3586,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-6042",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "DMG MORI Control Board Error - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3588,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-1684",
+      "code": "U01",
+      "name": "User Error",
+      "description": "DMG MORI User Error - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3589,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-3379",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "DMG MORI Motor Failure - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3590,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-9614",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "DMG MORI Brake Fault - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3591,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-1499",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "Yaskawa Communication Error - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3593,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-6434",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Yaskawa Valve Fault - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3595,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-7076",
+      "code": "P04",
+      "name": "Fan Fault",
+      "description": "Yaskawa Fan Fault - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3596,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-2858",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Yaskawa Temperature Low - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -115332,9 +115978,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3565,
-    "lastUpdated": "2026-03-22",
+    "totalCodes": 3582,
+    "lastUpdated": "2026-03-23",
     "version": "4.0",
-    "dailyGenerated": 32
+    "dailyGenerated": 31
   }
 }
