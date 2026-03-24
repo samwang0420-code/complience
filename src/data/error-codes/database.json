@@ -111074,10 +111074,10 @@
       }
     },
     {
-      "id": 3459,
+      "id": 3590,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-5442",
+      "model": "Goodman HVAC-4443",
       "code": "P04",
       "name": "Fan Fault",
       "description": "Goodman Fan Fault - Technical issue in Goodman hvac systems",
@@ -111094,10 +111094,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -111226,10 +111226,10 @@
       }
     },
     {
-      "id": 3463,
+      "id": 3594,
       "brand": "Keyence",
       "category": "PLC",
-      "model": "Keyence PLC-5164",
+      "model": "Keyence PLC-1616",
       "code": "E02",
       "name": "Control Board Error",
       "description": "Keyence Control Board Error - Technical issue in Keyence plc systems",
@@ -111245,11 +111245,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Keyence Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "KV",
         "features": [
@@ -111378,10 +111378,10 @@
       }
     },
     {
-      "id": 3467,
+      "id": 3596,
       "brand": "Keyence",
       "category": "PLC",
-      "model": "Keyence PLC-1265",
+      "model": "Keyence PLC-2209",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "Keyence Encoder Fault - Technical issue in Keyence plc systems",
@@ -111398,10 +111398,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Keyence Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "KV",
         "features": [
@@ -111416,10 +111416,10 @@
       }
     },
     {
-      "id": 3468,
+      "id": 3601,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-7349",
+      "model": " Haas CNC-6035",
       "code": "F11",
       "name": "Temperature Low",
       "description": " Haas Temperature Low - Technical issue in  Haas cnc systems",
@@ -111436,10 +111436,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -112822,10 +112822,10 @@
       }
     },
     {
-      "id": 3505,
+      "id": 3606,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-3664",
+      "model": "Fanuc ROBOTICS-1177",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "Fanuc Encoder Fault - Technical issue in Fanuc robotics systems",
@@ -112841,11 +112841,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -113430,10 +113430,10 @@
       }
     },
     {
-      "id": 3520,
+      "id": 3589,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-1541",
+      "model": "Goodman HVAC-8771",
       "code": "C03",
       "name": "Parameter Error",
       "description": "Goodman Parameter Error - Technical issue in Goodman hvac systems",
@@ -113449,11 +113449,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -114000,10 +114000,10 @@
       }
     },
     {
-      "id": 3536,
+      "id": 3610,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-4173",
+      "model": "Fanuc ROBOTICS-6259",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Fanuc Calibration Error - Technical issue in Fanuc robotics systems",
@@ -114019,8 +114019,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
         "yearIntroduced": "2021",
@@ -114038,10 +114038,10 @@
       }
     },
     {
-      "id": 3537,
+      "id": 3607,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-5273",
+      "model": "Fanuc ROBOTICS-6768",
       "code": "P02",
       "name": "Valve Fault",
       "description": "Fanuc Valve Fault - Technical issue in Fanuc robotics systems",
@@ -114057,11 +114057,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -114152,10 +114152,10 @@
       }
     },
     {
-      "id": 3540,
+      "id": 3604,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-3412",
+      "model": "Fanuc ROBOTICS-9119",
       "code": "E05",
       "name": "Communication Error",
       "description": "Fanuc Communication Error - Technical issue in Fanuc robotics systems",
@@ -114171,11 +114171,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -115860,6 +115860,766 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3583,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-4030",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Norge Pressure Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3584,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-9401",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Norge Valve Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3585,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-2471",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Norge Compressor Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3586,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-1985",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Norge Power Supply Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3587,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-6697",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "Norge Door Open - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3588,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-8357",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "Goodman Short Circuit - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3591,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-5625",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Goodman Overload - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3592,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-4993",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Goodman Flow Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3593,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-9317",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Keyence Flow Error - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3595,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-2818",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "Keyence Setup Error - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3597,
+      "brand": "Keyence",
+      "category": "PLC",
+      "model": "Keyence PLC-4403",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Keyence Calibration Error - Technical issue in Keyence plc systems",
+      "causes": [
+        "Keyence component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Keyence Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "KV",
+        "features": [
+          "Ethernet"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3598,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-3301",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": " Haas Parameter Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3599,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-1036",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": " Haas Power Supply Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3600,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-5235",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": " Haas Valve Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3602,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-4895",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": " Haas Lock Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3603,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-9314",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": " Haas Configuration Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3605,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-2868",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "Fanuc Grounding Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3608,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-5549",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Fanuc Power Supply Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3609,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-6148",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Fanuc Overheat - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3611,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-5975",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Fanuc Brake Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -115961,7 +116721,8 @@
     "Roper",
     "Okuma",
     " Bryant",
-    " Epson"
+    " Epson",
+    "Norge"
   ],
   "categories": [
     "Washer",
@@ -115978,9 +116739,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3582,
-    "lastUpdated": "2026-03-23",
+    "totalCodes": 3602,
+    "lastUpdated": "2026-03-24",
     "version": "4.0",
-    "dailyGenerated": 31
+    "dailyGenerated": 29
   }
 }
