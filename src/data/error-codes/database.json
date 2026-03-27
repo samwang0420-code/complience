@@ -109896,10 +109896,10 @@
       }
     },
     {
-      "id": 3612,
+      "id": 3680,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-8752",
+      "model": "American Standard HVAC-7660",
       "code": "U01",
       "name": "User Error",
       "description": "American Standard User Error - Technical issue in American Standard hvac systems",
@@ -109916,10 +109916,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -109934,10 +109934,10 @@
       }
     },
     {
-      "id": 31795,
+      "id": 3684,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-9831",
+      "model": "American Standard HVAC-4259",
       "code": "L04",
       "name": "Interlock Fault",
       "description": "American Standard Interlock Fault - Technical issue in American Standard hvac systems",
@@ -109953,11 +109953,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -110010,10 +110010,10 @@
       }
     },
     {
-      "id": 31797,
+      "id": 3686,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-6234",
+      "model": "American Standard HVAC-9050",
       "code": "C01",
       "name": "Calibration Error",
       "description": "American Standard Calibration Error - Technical issue in American Standard hvac systems",
@@ -110029,11 +110029,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -110390,10 +110390,10 @@
       }
     },
     {
-      "id": 31807,
+      "id": 3701,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-4288",
+      "model": "Mazak CNC-7085",
       "code": "E08",
       "name": "Flow Error",
       "description": "Mazak Flow Error - Technical issue in Mazak cnc systems",
@@ -110409,11 +110409,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -111834,10 +111834,10 @@
       }
     },
     {
-      "id": 3477,
+      "id": 3674,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-9441",
+      "model": "Inglis WASHER-4494",
       "code": "E05",
       "name": "Communication Error",
       "description": "Inglis Communication Error - Technical issue in Inglis washer systems",
@@ -111853,11 +111853,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -111872,10 +111872,10 @@
       }
     },
     {
-      "id": 3626,
+      "id": 3671,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-2617",
+      "model": "Inglis WASHER-2165",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Inglis Power Supply Fault - Technical issue in Inglis washer systems",
@@ -111891,7 +111891,7 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
@@ -112062,10 +112062,10 @@
       }
     },
     {
-      "id": 3483,
+      "id": 3682,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-1881",
+      "model": "American Standard HVAC-6951",
       "code": "E05",
       "name": "Communication Error",
       "description": "American Standard Communication Error - Technical issue in American Standard hvac systems",
@@ -112081,8 +112081,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
         "yearIntroduced": "2024",
@@ -115026,10 +115026,10 @@
       }
     },
     {
-      "id": 3651,
+      "id": 3703,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-8641",
+      "model": " Epson ROBOTICS-3981",
       "code": "E04",
       "name": "Motor Failure",
       "description": " Epson Motor Failure - Technical issue in  Epson robotics systems",
@@ -115045,11 +115045,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -115368,10 +115368,10 @@
       }
     },
     {
-      "id": 3575,
+      "id": 3683,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-2072",
+      "model": "American Standard HVAC-4062",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "American Standard Grounding Fault - Technical issue in American Standard hvac systems",
@@ -115387,11 +115387,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -116736,10 +116736,10 @@
       }
     },
     {
-      "id": 3607,
+      "id": 3672,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-5023",
+      "model": "Inglis WASHER-7995",
       "code": "L03",
       "name": "Door Open",
       "description": "Inglis Door Open - Technical issue in Inglis washer systems",
@@ -116756,10 +116756,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -117230,10 +117230,10 @@
       }
     },
     {
-      "id": 3623,
+      "id": 3695,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-3548",
+      "model": "Mazak CNC-1517",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "Mazak Grounding Fault - Technical issue in Mazak cnc systems",
@@ -117249,11 +117249,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -117306,10 +117306,10 @@
       }
     },
     {
-      "id": 3625,
+      "id": 3694,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-6416",
+      "model": "Mazak CNC-7148",
       "code": "U02",
       "name": "Setup Error",
       "description": "Mazak Setup Error - Technical issue in Mazak cnc systems",
@@ -117326,10 +117326,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -117344,10 +117344,10 @@
       }
     },
     {
-      "id": 3626,
+      "id": 3708,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-7999",
+      "model": " Epson ROBOTICS-1122",
       "code": "F05",
       "name": "Overheat",
       "description": " Epson Overheat - Technical issue in  Epson robotics systems",
@@ -117363,11 +117363,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -117382,10 +117382,10 @@
       }
     },
     {
-      "id": 3629,
+      "id": 3707,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-7367",
+      "model": " Epson ROBOTICS-8232",
       "code": "C01",
       "name": "Calibration Error",
       "description": " Epson Calibration Error - Technical issue in  Epson robotics systems",
@@ -117401,7 +117401,7 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Epson Corporation",
@@ -117762,10 +117762,10 @@
       }
     },
     {
-      "id": 3636,
+      "id": 3689,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-1113",
+      "model": "Cognex PLC-8193",
       "code": "C03",
       "name": "Parameter Error",
       "description": "Cognex Parameter Error - Technical issue in Cognex plc systems",
@@ -117782,10 +117782,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -117838,10 +117838,10 @@
       }
     },
     {
-      "id": 3638,
+      "id": 3687,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-1174",
+      "model": "Cognex PLC-8009",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Cognex Calibration Error - Technical issue in Cognex plc systems",
@@ -117857,11 +117857,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -119204,6 +119204,880 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3673,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-6930",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "Inglis Parameter Error - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3675,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-7063",
+      "code": "L02",
+      "name": "Limit Switch",
+      "description": "Inglis Limit Switch - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3676,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-6224",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Inglis Pressure Fault - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3677,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-7400",
+      "code": "P04",
+      "name": "Fan Fault",
+      "description": "Inglis Fan Fault - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3678,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-4374",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Inglis Control Board Error - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3679,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-5868",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "American Standard Short Circuit - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3681,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-4792",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "American Standard Setup Error - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3685,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-3747",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "American Standard Compressor Fault - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3688,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-7473",
+      "code": "L04",
+      "name": "Interlock Fault",
+      "description": "Cognex Interlock Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3690,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-9195",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Cognex Temperature Low - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3691,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-5694",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "Cognex Level Sensor Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3692,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-2594",
+      "code": "U01",
+      "name": "User Error",
+      "description": "Cognex User Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3693,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-6064",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": "Cognex Sensor Malfunction - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3696,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-9284",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Mazak Overheat - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3697,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-3697",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": "Mazak Pump Fault - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3698,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-6742",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Mazak Motor Failure - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3699,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-6544",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Mazak Calibration Error - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3700,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-2244",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Mazak Control Board Error - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3702,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-9518",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": " Epson Temperature Low - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3704,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-3198",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": " Epson Power Supply Fault - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3705,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-3245",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": " Epson Control Board Error - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3706,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-5000",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": " Epson Pump Fault - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3709,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-9366",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": " Epson Brake Fault - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -119326,9 +120200,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3670,
-    "lastUpdated": "2026-03-26",
+    "totalCodes": 3693,
+    "lastUpdated": "2026-03-27",
     "version": "4.0",
-    "dailyGenerated": 35
+    "dailyGenerated": 39
   }
 }
