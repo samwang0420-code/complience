@@ -117002,10 +117002,10 @@
       }
     },
     {
-      "id": 3616,
+      "id": 3740,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-1345",
+      "model": "Cognex PLC-9189",
       "code": "E05",
       "name": "Communication Error",
       "description": "Cognex Communication Error - Technical issue in Cognex plc systems",
@@ -117021,11 +117021,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -117116,10 +117116,10 @@
       }
     },
     {
-      "id": 3639,
+      "id": 3737,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-8020",
+      "model": "Cognex PLC-7155",
       "code": "P04",
       "name": "Fan Fault",
       "description": "Cognex Fan Fault - Technical issue in Cognex plc systems",
@@ -117135,11 +117135,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -117800,10 +117800,10 @@
       }
     },
     {
-      "id": 3637,
+      "id": 3734,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-5081",
+      "model": "Cognex PLC-3709",
       "code": "U02",
       "name": "Setup Error",
       "description": "Cognex Setup Error - Technical issue in Cognex plc systems",
@@ -117819,8 +117819,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
         "yearIntroduced": "2020",
@@ -120954,10 +120954,10 @@
       }
     },
     {
-      "id": 3728,
+      "id": 3753,
       "brand": "Universal Robots",
       "category": "Robotics",
-      "model": "Universal Robots ROBOTICS-1065",
+      "model": "Universal Robots ROBOTICS-7126",
       "code": "F05",
       "name": "Overheat",
       "description": "Universal Robots Overheat - Technical issue in Universal Robots robotics systems",
@@ -120974,10 +120974,1302 @@
         "Reset system"
       ],
       "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3718,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-8698",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Norge Control Board Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3719,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-8934",
+      "code": "L02",
+      "name": "Limit Switch",
+      "description": "Norge Limit Switch - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3720,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-1217",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Norge Flow Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3721,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-5236",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": "Norge Lock Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3722,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-3523",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": "Norge Pump Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3723,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-4130",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": "Norge Open Circuit - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3724,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-9952",
+      "code": "F08",
+      "name": "Encoder Fault",
+      "description": "Norge Encoder Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3725,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-7738",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "York Grounding Fault - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3726,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-6711",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": "York Configuration Error - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3727,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-7652",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": "York Speed Error - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3728,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-5445",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": "York Lock Error - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3729,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-7696",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "York Motor Failure - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3730,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-7058",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "York Parameter Error - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3731,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-1159",
+      "code": "F07",
+      "name": "Position Error",
+      "description": "York Position Error - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3732,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-9638",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": "York Checksum Error - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3733,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-5705",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Cognex Control Board Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3735,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-8245",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": "Cognex Lock Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3736,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-3107",
+      "code": "L02",
+      "name": "Limit Switch",
+      "description": "Cognex Limit Switch - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3738,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-8847",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Cognex Brake Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3739,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-7055",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": "Cognex Checksum Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3741,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-1357",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "Hurco Communication Error - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3742,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-3936",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Hurco Valve Fault - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3743,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-4386",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "Hurco Level Sensor Fault - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3744,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-2501",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": "Hurco Sensor Malfunction - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3745,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-3748",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Hurco Compressor Fault - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3746,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-6034",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": "Hurco Operation Error - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3747,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-1105",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Hurco Overheat - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3748,
+      "brand": "Hurco",
+      "category": "CNC",
+      "model": "Hurco CNC-6865",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Hurco Overload - Technical issue in Hurco cnc systems",
+      "causes": [
+        "Hurco component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hurco Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "VMX, VMU",
+        "features": [
+          "Control"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3749,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-4008",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Universal Robots Power Supply Fault - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Universal Robots Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3750,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-8080",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "Universal Robots Parameter Error - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3751,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-6359",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": "Universal Robots Sensor Malfunction - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3752,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-3131",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": "Universal Robots Flow Error - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3754,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-5879",
+      "code": "P04",
+      "name": "Fan Fault",
+      "description": "Universal Robots Fan Fault - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3755,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-5147",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": "Universal Robots Speed Error - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "UR3",
         "features": [
@@ -121097,7 +122389,9 @@
     " Payne",
     " Panasonic",
     "Crosley",
-    "Universal Robots"
+    "Universal Robots",
+    "York",
+    "Hurco"
   ],
   "categories": [
     "Washer",
@@ -121114,9 +122408,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3717,
-    "lastUpdated": "2026-03-28",
+    "totalCodes": 3751,
+    "lastUpdated": "2026-03-29",
     "version": "4.0",
-    "dailyGenerated": 35
+    "dailyGenerated": 38
   }
 }
