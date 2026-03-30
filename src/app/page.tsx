@@ -3,20 +3,20 @@ import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export const metadata: Metadata = {
-  title: 'ErrorCodeHub - 31,784 Error Codes | Appliances, Cars & EVs',
-  description: 'Search 31,784+ error codes for washers, dryers, dishwashers, refrigerators, ovens, cars & EVs. Detailed causes, solutions & FAQs. Covers Whirlpool, LG, Samsung, Toyota, Ford, Tesla, BYD.',
+  title: 'ErrorCodeHub - ${errorCodes.errorCodes.length.toLocaleString()} Error Codes | Appliances, Cars & EVs',
+  description: 'Search ${errorCodes.errorCodes.length.toLocaleString()}+ error codes for washers, dryers, dishwashers, refrigerators, ovens, cars & EVs. Detailed causes, solutions & FAQs. Covers Whirlpool, LG, Samsung, Toyota, Ford, Tesla, BYD.',
   keywords: ['error codes', 'error code database', 'appliance repair codes', 'washer error codes', 'dryer error codes', 'dishwasher error codes', 'refrigerator error codes', 'OBD codes', 'car diagnostic codes', 'P0300', 'P0420', 'EV error codes', 'F21', 'troubleshooting', 'error code lookup'],
   authors: [{ name: 'ErrorCodeHub' }],
   openGraph: {
     title: 'ErrorCodeHub - Largest Error Code Database',
-    description: '31,784 error codes for appliances, automotive & electric vehicles with detailed solutions',
+    description: '${errorCodes.errorCodes.length.toLocaleString()} error codes for appliances, automotive & electric vehicles with detailed solutions',
     type: 'website',
     locale: 'en_US',
     siteName: 'ErrorCodeHub',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ErrorCodeHub - 31,784 Error Codes',
+    title: 'ErrorCodeHub - ${errorCodes.errorCodes.length.toLocaleString()} Error Codes',
     description: 'Search error codes for appliances, cars & EVs. Detailed solutions.',
   },
   robots: {
