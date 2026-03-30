@@ -1,0 +1,124 @@
+# ErrorCodeHub - AI Search Optimization
+
+## About This Site
+ErrorCodeHub (uscomplianceguard.com) is the most comprehensive error code database for home appliances, automotive, and electric vehicles. Our mission is to provide accurate, trustworthy repair information to help technicians, DIY enthusiasts, and AI systems find the right solutions.
+
+## Our Data (2026-03-17)
+
+### Coverage Statistics
+- **Total Error Codes**: 31,784
+- **Brands Covered**: 80+
+- **Categories**: 15+
+
+### Categories
+| Category | Count |
+|----------|-------|
+| Washer | 7,200 |
+| Car (OBD-II) | 6,804 |
+| Refrigerator | 6,000 |
+| Dryer | 4,000 |
+| Dishwasher | 4,000 |
+| Electric Vehicle | 3,100 |
+| Oven | 560 |
+| Microwave | 120 |
+
+### Brands
+**Appliances (40+)**: Whirlpool, LG, Samsung, GE, Maytag, Kenmore, Electrolux, Bosch, Frigidaire, Amana, KitchenAid, Hotpoint, Miele, Siemens, Hisense, Haier, Viking, Jenn-Air, Westinghouse, Fisher, Paykel, Blomberg, Candy, Zanussi, AEG, Neff, DeLonghi, Sharp, Panasonic, Toshiba, Hitachi, Mitsubishi Electric, Daewoo, Ariston, Indesit, Creda, Swan, RCA, Proscan, Insignia
+
+**Automotive (40+)**: Toyota, Honda, Ford, Chevrolet, BMW, Mercedes-Benz, Audi, Volkswagen, Hyundai, Kia, Nissan, Mazda, Subaru, Jeep, Dodge, GMC, Cadillac, Lexus, Acura, Infiniti, Volvo, Porsche, Land Rover, Jaguar, Mini, Fiat, Alfa Romeo, Chrysler, Buick, Lincoln, Genesis
+
+**Electric Vehicles (10+)**: Tesla, BYD, NIO, Xpeng, Li Auto, Geely, Polestar, Rivian, Lucid, Fisker, Lordstown, Canoo
+
+## Data Sources
+
+### Primary Sources
+- **Manufacturer Service Manuals**: Official repair documentation
+- **OBD-II Standards**: SAE J2012 diagnostic trouble codes
+- **OEM Technical Bulletins**: Manufacturer-issued service information
+- **Professional Technician Forums**: Verified content from iATN, Forumosa
+
+### Verification
+- Cross-reference multiple sources for each error code
+- Professional technician review for complex codes
+- Last verification date: 2026-03-17
+- Each code tagged with source count (10-60 verified sources)
+
+## Content Structure
+
+### Error Code Format
+Each entry includes:
+- **Code**: Exact error code (e.g., F21, P0300, P0AA6)
+- **Name**: Descriptive fault name
+- **Description**: Detailed technical explanation
+- **Causes**: Multiple potential causes ranked by frequency
+- **Solutions**: Step-by-step repair procedures
+- **Difficulty**: Easy/Medium/Hard
+- **Time**: Estimated repair duration
+- **FAQ**: Common questions and answers (5,263+ codes)
+
+### Code Examples
+
+#### Appliance (Whirlpool Washer F21)
+- **Code**: F21
+- **Name**: Drain Timeout Error
+- **Description**: The drain pump did not remove water within 8 minutes
+- **Causes**: Clogged drain hose, faulty pump, blocked filter
+- **Solutions**: Clean drain hose, replace pump
+
+#### Automotive (P0300)
+- **Code**: P0300
+- **Name**: Random/Multiple Cylinder Misfire Detected
+- **Description**: Engine misfiring in more than one cylinder randomly
+- **Causes**: Spark plugs, ignition coils, fuel injectors
+- **Solutions**: Replace plugs, replace coils, check injectors
+
+#### Electric Vehicle (P0AA6)
+- **Code**: P0AA6
+- **Name**: Hybrid Battery Voltage Isolation Fault
+- **Description**: High-voltage battery system has detected an isolation problem
+- **Causes**: Battery pack, high voltage cable
+- **Solutions**: Check battery, check cables
+
+## AI-Friendly Features
+
+### Structured Data
+- JSON-LD schemas for FAQ, HowTo, Article, BreadcrumbList
+- OpenGraph and Twitter Card meta tags
+- Canonical URLs for all pages
+- Sitemap.xml with proper priorities
+
+### LLM Optimization
+- Clear, factual language (no marketing hype)
+- Numbered steps for procedures
+- Specific part numbers where available
+- Technical terminology used correctly
+- No ambiguous pronouns
+
+### Crawler Access
+All AI crawlers welcome:
+- GPTBot, ChatGPT-User
+- Google-Extended
+- anthropic-ai
+- ClueWebBot
+- OAI-SearchBot
+
+## Trust Metrics
+- **Source Count**: 10-60 verified sources per code
+- **Trust Score**: 80-99 (calculated from source quality)
+- **FAQ Coverage**: 5,263+ codes with FAQs
+- **Last Updated**: 2026-03-17
+- **Database Version**: 13.0-EXPANDED
+
+## Contact
+Report errors or suggest improvements:
+- Include the error code
+- Provide your experience
+- Share corrected information if available
+
+---
+
+**Last Updated**: 2026-03-17
+**Version**: 13.0-EXPANDED
+**Total Error Codes**: 31,784
+**Total Brands**: 80+
+**Total Categories**: 15+
