@@ -110694,10 +110694,10 @@
       }
     },
     {
-      "id": 31815,
+      "id": 3824,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-3006",
+      "model": "Franka Emika ROBOTICS-9490",
       "code": "U01",
       "name": "User Error",
       "description": "Franka Emika User Error - Technical issue in Franka Emika robotics systems",
@@ -110713,11 +110713,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -110808,10 +110808,10 @@
       }
     },
     {
-      "id": 31818,
+      "id": 3825,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-9041",
+      "model": "Franka Emika ROBOTICS-1036",
       "code": "U03",
       "name": "Operation Error",
       "description": "Franka Emika Operation Error - Technical issue in Franka Emika robotics systems",
@@ -110827,11 +110827,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -111834,10 +111834,10 @@
       }
     },
     {
-      "id": 3674,
+      "id": 3797,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-4494",
+      "model": "Inglis WASHER-1058",
       "code": "E05",
       "name": "Communication Error",
       "description": "Inglis Communication Error - Technical issue in Inglis washer systems",
@@ -111853,11 +111853,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -112024,10 +112024,10 @@
       }
     },
     {
-      "id": 3482,
+      "id": 3793,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-5270",
+      "model": "Inglis WASHER-9337",
       "code": "P03",
       "name": "Compressor Fault",
       "description": "Inglis Compressor Fault - Technical issue in Inglis washer systems",
@@ -112043,11 +112043,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -112100,10 +112100,10 @@
       }
     },
     {
-      "id": 3574,
+      "id": 3801,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-7578",
+      "model": "American Standard HVAC-4531",
       "code": "L03",
       "name": "Door Open",
       "description": "American Standard Door Open - Technical issue in American Standard hvac systems",
@@ -112119,11 +112119,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112252,10 +112252,10 @@
       }
     },
     {
-      "id": 3778,
+      "id": 3804,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-2283",
+      "model": "American Standard HVAC-9483",
       "code": "E04",
       "name": "Motor Failure",
       "description": "American Standard Motor Failure - Technical issue in American Standard hvac systems",
@@ -112272,10 +112272,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -115368,10 +115368,10 @@
       }
     },
     {
-      "id": 3683,
+      "id": 3803,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-4062",
+      "model": "American Standard HVAC-8551",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "American Standard Grounding Fault - Technical issue in American Standard hvac systems",
@@ -115391,7 +115391,7 @@
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -116280,10 +116280,10 @@
       }
     },
     {
-      "id": 3598,
+      "id": 3817,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-3301",
+      "model": " Haas CNC-6686",
       "code": "C03",
       "name": "Parameter Error",
       "description": " Haas Parameter Error - Technical issue in  Haas cnc systems",
@@ -116299,11 +116299,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -116660,10 +116660,10 @@
       }
     },
     {
-      "id": 3604,
+      "id": 3796,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-1320",
+      "model": "Inglis WASHER-9500",
       "code": "L01",
       "name": "Lock Error",
       "description": "Inglis Lock Error - Technical issue in Inglis washer systems",
@@ -116680,10 +116680,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -116888,10 +116888,10 @@
       }
     },
     {
-      "id": 3613,
+      "id": 3802,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-2678",
+      "model": "American Standard HVAC-8133",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "American Standard Encoder Fault - Technical issue in American Standard hvac systems",
@@ -116911,7 +116911,7 @@
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -119206,10 +119206,10 @@
       }
     },
     {
-      "id": 3673,
+      "id": 3798,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-6930",
+      "model": "Inglis WASHER-5412",
       "code": "C03",
       "name": "Parameter Error",
       "description": "Inglis Parameter Error - Technical issue in Inglis washer systems",
@@ -119225,11 +119225,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -119396,10 +119396,10 @@
       }
     },
     {
-      "id": 3679,
+      "id": 3805,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-5868",
+      "model": "American Standard HVAC-9395",
       "code": "F01",
       "name": "Short Circuit",
       "description": "American Standard Short Circuit - Technical issue in American Standard hvac systems",
@@ -119415,11 +119415,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -123840,6 +123840,804 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3794,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-4580",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": "Inglis Configuration Error - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3795,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-8123",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": "Inglis Operation Error - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3799,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-1907",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "Inglis Short Circuit - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3800,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-5679",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Inglis Motor Failure - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3806,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-6187",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Hitachi Overload - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3807,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-1094",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "Hitachi Door Open - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3808,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-1373",
+      "code": "L04",
+      "name": "Interlock Fault",
+      "description": "Hitachi Interlock Fault - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3809,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-4862",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "Hitachi Setup Error - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3810,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-4513",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": "Hitachi Sensor Malfunction - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3811,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-1867",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Hitachi Overheat - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3812,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-1051",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Hitachi Temperature Low - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3813,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-8618",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": "Hitachi Configuration Error - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3814,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-8922",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": " Haas Speed Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3815,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-2072",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": " Haas Communication Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3816,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-9584",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": " Haas Temperature High - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3818,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-7408",
+      "code": "F07",
+      "name": "Position Error",
+      "description": " Haas Position Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3819,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-3557",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": " Haas Grounding Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3820,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-7467",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "Franka Emika Grounding Fault - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3821,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-8052",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "Franka Emika Thermal Fault - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3822,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-2529",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Franka Emika Motor Failure - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3823,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-7105",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "Franka Emika Parameter Error - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -123966,9 +124764,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3792,
-    "lastUpdated": "2026-03-30",
+    "totalCodes": 3813,
+    "lastUpdated": "2026-03-31",
     "version": "4.0",
-    "dailyGenerated": 32
+    "dailyGenerated": 33
   }
 }
