@@ -110580,51 +110580,13 @@
       }
     },
     {
-      "id": 31812,
+      "id": 3840,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-5958",
+      "model": "Franka Emika ROBOTICS-2920",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Franka Emika Calibration Error - Technical issue in Franka Emika robotics systems",
-      "causes": [
-        "Franka Emika component failure",
-        "Electrical connection issue",
-        "Environmental factors",
-        "Component aging"
-      ],
-      "solutions": [
-        "Check connections",
-        "Inspect components",
-        "Replace faulty part",
-        "Reset system"
-      ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
-      "productInfo": {
-        "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2022",
-        "warranty": "1 year",
-        "series": "Panda",
-        "features": [
-          "Cobot"
-        ],
-        "commonIssues": [
-          "Component wear",
-          "Electrical issues",
-          "Programming errors"
-        ],
-        "voltage": "120V/240V"
-      }
-    },
-    {
-      "id": 3676,
-      "brand": "Franka Emika",
-      "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-6980",
-      "code": "L03",
-      "name": "Door Open",
-      "description": "Franka Emika Door Open - Technical issue in Franka Emika robotics systems",
       "causes": [
         "Franka Emika component failure",
         "Electrical connection issue",
@@ -110641,7 +110603,45 @@
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3843,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-2081",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "Franka Emika Door Open - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -110770,10 +110770,10 @@
       }
     },
     {
-      "id": 31817,
+      "id": 3844,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-2100",
+      "model": "Franka Emika ROBOTICS-2612",
       "code": "E07",
       "name": "Pressure Fault",
       "description": "Franka Emika Pressure Fault - Technical issue in Franka Emika robotics systems",
@@ -110789,11 +110789,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -114266,10 +114266,10 @@
       }
     },
     {
-      "id": 3542,
+      "id": 3820,
       "brand": "Roper",
       "category": "Washer",
-      "model": "Roper WASHER-3337",
+      "model": "Roper WASHER-4349",
       "code": "E03",
       "name": "Sensor Malfunction",
       "description": "Roper Sensor Malfunction - Technical issue in Roper washer systems",
@@ -114286,10 +114286,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Roper Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Standard",
         "features": [
@@ -115634,10 +115634,10 @@
       }
     },
     {
-      "id": 3589,
+      "id": 3838,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-3379",
+      "model": "DMG MORI CNC-1830",
       "code": "E04",
       "name": "Motor Failure",
       "description": "DMG MORI Motor Failure - Technical issue in DMG MORI cnc systems",
@@ -115672,10 +115672,10 @@
       }
     },
     {
-      "id": 3590,
+      "id": 3839,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-9614",
+      "model": "DMG MORI CNC-7643",
       "code": "F09",
       "name": "Brake Fault",
       "description": "DMG MORI Brake Fault - Technical issue in DMG MORI cnc systems",
@@ -115691,8 +115691,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
         "yearIntroduced": "2022",
@@ -116052,10 +116052,10 @@
       }
     },
     {
-      "id": 3588,
+      "id": 3825,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-8357",
+      "model": "Goodman HVAC-1622",
       "code": "F01",
       "name": "Short Circuit",
       "description": "Goodman Short Circuit - Technical issue in Goodman hvac systems",
@@ -116072,10 +116072,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -116090,10 +116090,10 @@
       }
     },
     {
-      "id": 3591,
+      "id": 3823,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-5625",
+      "model": "Goodman HVAC-6802",
       "code": "F04",
       "name": "Overload",
       "description": "Goodman Overload - Technical issue in Goodman hvac systems",
@@ -116109,11 +116109,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -117914,10 +117914,10 @@
       }
     },
     {
-      "id": 3642,
+      "id": 3833,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-5447",
+      "model": "DMG MORI CNC-8688",
       "code": "C03",
       "name": "Parameter Error",
       "description": "DMG MORI Parameter Error - Technical issue in DMG MORI cnc systems",
@@ -117934,10 +117934,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -118598,10 +118598,10 @@
       }
     },
     {
-      "id": 3661,
+      "id": 3827,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-4730",
+      "model": " Panasonic PLC-4281",
       "code": "F09",
       "name": "Brake Fault",
       "description": " Panasonic Brake Fault - Technical issue in  Panasonic plc systems",
@@ -118617,8 +118617,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
         "yearIntroduced": "2020",
@@ -119092,10 +119092,10 @@
       }
     },
     {
-      "id": 3675,
+      "id": 3847,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-8635",
+      "model": "Franka Emika ROBOTICS-7253",
       "code": "F11",
       "name": "Temperature Low",
       "description": "Franka Emika Temperature Low - Technical issue in Franka Emika robotics systems",
@@ -119111,11 +119111,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -123348,10 +123348,10 @@
       }
     },
     {
-      "id": 3788,
+      "id": 3829,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-2195",
+      "model": " Panasonic PLC-2320",
       "code": "L02",
       "name": "Limit Switch",
       "description": " Panasonic Limit Switch - Technical issue in  Panasonic plc systems",
@@ -123367,11 +123367,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -123538,10 +123538,10 @@
       }
     },
     {
-      "id": 3794,
+      "id": 3834,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-2116",
+      "model": "DMG MORI CNC-7260",
       "code": "C02",
       "name": "Configuration Error",
       "description": "DMG MORI Configuration Error - Technical issue in DMG MORI cnc systems",
@@ -123557,8 +123557,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
         "yearIntroduced": "2017",
@@ -124638,6 +124638,804 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3814,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-3616",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Roper Temperature High - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3815,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-6150",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "Roper Level Sensor Fault - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3816,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-3670",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "Roper Door Open - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3817,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-8059",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Roper Brake Fault - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3818,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-4424",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Roper Motor Failure - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3819,
+      "brand": "Roper",
+      "category": "Washer",
+      "model": "Roper WASHER-4336",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Roper Calibration Error - Technical issue in Roper washer systems",
+      "causes": [
+        "Roper component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Roper Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Standard",
+        "features": [
+          "Basic"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3821,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-7533",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Goodman Power Supply Fault - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3822,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-3866",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Goodman Valve Fault - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3824,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-8136",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "Goodman Communication Error - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3826,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-5038",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": " Panasonic Parameter Error - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3828,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-7268",
+      "code": "F04",
+      "name": "Overload",
+      "description": " Panasonic Overload - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3830,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-9128",
+      "code": "U01",
+      "name": "User Error",
+      "description": " Panasonic User Error - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3831,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-5559",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": " Panasonic Communication Error - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3832,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-3483",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "DMG MORI Door Open - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3835,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-8080",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "DMG MORI Short Circuit - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3836,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-4350",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": "DMG MORI Pump Fault - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3837,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-4384",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "DMG MORI Level Sensor Fault - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3841,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-3286",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": "Franka Emika Lock Error - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3842,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-9473",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "Franka Emika Power Supply Fault - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3845,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-6915",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Franka Emika Overheat - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3846,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-6232",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "Franka Emika Short Circuit - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -124764,9 +125562,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3813,
+    "totalCodes": 3834,
     "lastUpdated": "2026-03-31",
     "version": "4.0",
-    "dailyGenerated": 33
+    "dailyGenerated": 34
   }
 }
