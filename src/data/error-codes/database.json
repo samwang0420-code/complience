@@ -109934,10 +109934,10 @@
       }
     },
     {
-      "id": 3684,
+      "id": 3844,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-4259",
+      "model": "American Standard HVAC-8332",
       "code": "L04",
       "name": "Interlock Fault",
       "description": "American Standard Interlock Fault - Technical issue in American Standard hvac systems",
@@ -109953,11 +109953,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -110542,51 +110542,13 @@
       }
     },
     {
-      "id": 31811,
+      "id": 3863,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-3518",
+      "model": "Franka Emika ROBOTICS-5493",
       "code": "P01",
       "name": "Pump Fault",
       "description": "Franka Emika Pump Fault - Technical issue in Franka Emika robotics systems",
-      "causes": [
-        "Franka Emika component failure",
-        "Electrical connection issue",
-        "Environmental factors",
-        "Component aging"
-      ],
-      "solutions": [
-        "Check connections",
-        "Inspect components",
-        "Replace faulty part",
-        "Reset system"
-      ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
-      "productInfo": {
-        "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2018",
-        "warranty": "1 year",
-        "series": "Panda",
-        "features": [
-          "Cobot"
-        ],
-        "commonIssues": [
-          "Component wear",
-          "Electrical issues",
-          "Programming errors"
-        ],
-        "voltage": "120V/240V"
-      }
-    },
-    {
-      "id": 3840,
-      "brand": "Franka Emika",
-      "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-2920",
-      "code": "C01",
-      "name": "Calibration Error",
-      "description": "Franka Emika Calibration Error - Technical issue in Franka Emika robotics systems",
       "causes": [
         "Franka Emika component failure",
         "Electrical connection issue",
@@ -110603,7 +110565,45 @@
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Panda",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3868,
+      "brand": "Franka Emika",
+      "category": "Robotics",
+      "model": "Franka Emika ROBOTICS-3676",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Franka Emika Calibration Error - Technical issue in Franka Emika robotics systems",
+      "causes": [
+        "Franka Emika component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Franka Emika Corporation",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -110732,10 +110732,10 @@
       }
     },
     {
-      "id": 3677,
+      "id": 3866,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-6757",
+      "model": "Franka Emika ROBOTICS-5355",
       "code": "C02",
       "name": "Configuration Error",
       "description": "Franka Emika Configuration Error - Technical issue in Franka Emika robotics systems",
@@ -110751,11 +110751,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -111492,10 +111492,10 @@
       }
     },
     {
-      "id": 3470,
+      "id": 3859,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-4915",
+      "model": " Haas CNC-5863",
       "code": "F08",
       "name": "Encoder Fault",
       "description": " Haas Encoder Fault - Technical issue in  Haas cnc systems",
@@ -111511,11 +111511,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -112062,10 +112062,10 @@
       }
     },
     {
-      "id": 3682,
+      "id": 3846,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-6951",
+      "model": "American Standard HVAC-3531",
       "code": "E05",
       "name": "Communication Error",
       "description": "American Standard Communication Error - Technical issue in American Standard hvac systems",
@@ -112081,11 +112081,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112138,10 +112138,10 @@
       }
     },
     {
-      "id": 3784,
+      "id": 3845,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-2799",
+      "model": "American Standard HVAC-4344",
       "code": "U03",
       "name": "Operation Error",
       "description": "American Standard Operation Error - Technical issue in American Standard hvac systems",
@@ -112158,10 +112158,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -116280,10 +116280,10 @@
       }
     },
     {
-      "id": 3817,
+      "id": 3858,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-6686",
+      "model": " Haas CNC-9594",
       "code": "C03",
       "name": "Parameter Error",
       "description": " Haas Parameter Error - Technical issue in  Haas cnc systems",
@@ -116299,11 +116299,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -116318,10 +116318,10 @@
       }
     },
     {
-      "id": 3599,
+      "id": 3861,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-1036",
+      "model": " Haas CNC-1315",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": " Haas Power Supply Fault - Technical issue in  Haas cnc systems",
@@ -116341,7 +116341,7 @@
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -116432,10 +116432,10 @@
       }
     },
     {
-      "id": 3603,
+      "id": 3860,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-9314",
+      "model": " Haas CNC-3346",
       "code": "C02",
       "name": "Configuration Error",
       "description": " Haas Configuration Error - Technical issue in  Haas cnc systems",
@@ -116451,11 +116451,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -116812,10 +116812,10 @@
       }
     },
     {
-      "id": 3783,
+      "id": 3842,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-5151",
+      "model": "American Standard HVAC-8166",
       "code": "C02",
       "name": "Configuration Error",
       "description": "American Standard Configuration Error - Technical issue in American Standard hvac systems",
@@ -116831,11 +116831,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -118636,10 +118636,10 @@
       }
     },
     {
-      "id": 3662,
+      "id": 3852,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-5677",
+      "model": " Panasonic PLC-6242",
       "code": "E09",
       "name": "Level Sensor Fault",
       "description": " Panasonic Level Sensor Fault - Technical issue in  Panasonic plc systems",
@@ -118655,11 +118655,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -118674,10 +118674,10 @@
       }
     },
     {
-      "id": 3663,
+      "id": 3848,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-4641",
+      "model": " Panasonic PLC-2774",
       "code": "C02",
       "name": "Configuration Error",
       "description": " Panasonic Configuration Error - Technical issue in  Panasonic plc systems",
@@ -118693,11 +118693,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -118712,10 +118712,10 @@
       }
     },
     {
-      "id": 3664,
+      "id": 3849,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-1391",
+      "model": " Panasonic PLC-7038",
       "code": "E03",
       "name": "Sensor Malfunction",
       "description": " Panasonic Sensor Malfunction - Technical issue in  Panasonic plc systems",
@@ -118732,10 +118732,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -119016,10 +119016,10 @@
       }
     },
     {
-      "id": 3673,
+      "id": 3862,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-8081",
+      "model": "Franka Emika ROBOTICS-2240",
       "code": "E02",
       "name": "Control Board Error",
       "description": "Franka Emika Control Board Error - Technical issue in Franka Emika robotics systems",
@@ -119035,11 +119035,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -119168,10 +119168,10 @@
       }
     },
     {
-      "id": 3679,
+      "id": 3867,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-2876",
+      "model": "Franka Emika ROBOTICS-1408",
       "code": "F04",
       "name": "Overload",
       "description": "Franka Emika Overload - Technical issue in Franka Emika robotics systems",
@@ -119187,11 +119187,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
@@ -119434,10 +119434,10 @@
       }
     },
     {
-      "id": 3681,
+      "id": 3843,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-4792",
+      "model": "American Standard HVAC-5183",
       "code": "U02",
       "name": "Setup Error",
       "description": "American Standard Setup Error - Technical issue in American Standard hvac systems",
@@ -119453,11 +119453,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -123044,10 +123044,10 @@
       }
     },
     {
-      "id": 3773,
+      "id": 3835,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-8992",
+      "model": "Norge WASHER-8348",
       "code": "F09",
       "name": "Brake Fault",
       "description": "Norge Brake Fault - Technical issue in Norge washer systems",
@@ -123063,11 +123063,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -123310,10 +123310,10 @@
       }
     },
     {
-      "id": 3787,
+      "id": 3854,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-4405",
+      "model": " Panasonic PLC-1530",
       "code": "P01",
       "name": "Pump Fault",
       "description": " Panasonic Pump Fault - Technical issue in  Panasonic plc systems",
@@ -123329,11 +123329,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -123386,10 +123386,10 @@
       }
     },
     {
-      "id": 3789,
+      "id": 3853,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-6853",
+      "model": " Panasonic PLC-4596",
       "code": "U02",
       "name": "Setup Error",
       "description": " Panasonic Setup Error - Technical issue in  Panasonic plc systems",
@@ -123405,11 +123405,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -124982,10 +124982,10 @@
       }
     },
     {
-      "id": 3826,
+      "id": 3847,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-5038",
+      "model": " Panasonic PLC-9077",
       "code": "C03",
       "name": "Parameter Error",
       "description": " Panasonic Parameter Error - Technical issue in  Panasonic plc systems",
@@ -125001,11 +125001,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -125058,10 +125058,10 @@
       }
     },
     {
-      "id": 3830,
+      "id": 3851,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-9128",
+      "model": " Panasonic PLC-4830",
       "code": "U01",
       "name": "User Error",
       "description": " Panasonic User Error - Technical issue in  Panasonic plc systems",
@@ -125078,10 +125078,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -125324,10 +125324,10 @@
       }
     },
     {
-      "id": 3842,
+      "id": 3865,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-9473",
+      "model": "Franka Emika ROBOTICS-1129",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Franka Emika Power Supply Fault - Technical issue in Franka Emika robotics systems",
@@ -125343,8 +125343,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
         "yearIntroduced": "2016",
@@ -125400,10 +125400,10 @@
       }
     },
     {
-      "id": 3846,
+      "id": 3864,
       "brand": "Franka Emika",
       "category": "Robotics",
-      "model": "Franka Emika ROBOTICS-6232",
+      "model": "Franka Emika ROBOTICS-4278",
       "code": "F01",
       "name": "Short Circuit",
       "description": "Franka Emika Short Circuit - Technical issue in Franka Emika robotics systems",
@@ -125420,14 +125420,394 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Franka Emika Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Panda",
         "features": [
           "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3836,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-1815",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "Norge Setup Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3837,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-8428",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": "Norge Configuration Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3838,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-2180",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Norge Calibration Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3839,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-5495",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Norge Temperature High - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3840,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-4357",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "Norge Short Circuit - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3841,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-3381",
+      "code": "P04",
+      "name": "Fan Fault",
+      "description": "Norge Fan Fault - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3850,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-5513",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": " Panasonic Temperature Low - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3855,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-3928",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": " Haas Pump Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3856,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-5602",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": " Haas Checksum Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3857,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-4574",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": " Haas Control Board Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
         ],
         "commonIssues": [
           "Component wear",
@@ -125562,8 +125942,8 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3834,
-    "lastUpdated": "2026-03-31",
+    "totalCodes": 3844,
+    "lastUpdated": "2026-04-01",
     "version": "4.0",
     "dailyGenerated": 34
   }
