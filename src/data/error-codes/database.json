@@ -111454,10 +111454,10 @@
       }
     },
     {
-      "id": 3469,
+      "id": 3871,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-3909",
+      "model": " Haas CNC-3924",
       "code": "F05",
       "name": "Overheat",
       "description": " Haas Overheat - Technical issue in  Haas cnc systems",
@@ -111473,8 +111473,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Haas Corporation",
         "yearIntroduced": "2022",
@@ -111492,10 +111492,10 @@
       }
     },
     {
-      "id": 3859,
+      "id": 3872,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-5863",
+      "model": " Haas CNC-8188",
       "code": "F08",
       "name": "Encoder Fault",
       "description": " Haas Encoder Fault - Technical issue in  Haas cnc systems",
@@ -111512,7 +111512,7 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Haas Corporation",
         "yearIntroduced": "2017",
@@ -111872,10 +111872,10 @@
       }
     },
     {
-      "id": 3671,
+      "id": 3846,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-2165",
+      "model": "Inglis WASHER-2537",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Inglis Power Supply Fault - Technical issue in Inglis washer systems",
@@ -111892,10 +111892,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -111910,10 +111910,10 @@
       }
     },
     {
-      "id": 3627,
+      "id": 3851,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-4448",
+      "model": "Inglis WASHER-9062",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Inglis Calibration Error - Technical issue in Inglis washer systems",
@@ -111929,8 +111929,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
         "yearIntroduced": "2015",
@@ -111986,10 +111986,10 @@
       }
     },
     {
-      "id": 3481,
+      "id": 3850,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-7411",
+      "model": "Inglis WASHER-5762",
       "code": "F06",
       "name": "Speed Error",
       "description": "Inglis Speed Error - Technical issue in Inglis washer systems",
@@ -112005,11 +112005,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -115064,10 +115064,10 @@
       }
     },
     {
-      "id": 3569,
+      "id": 3874,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-9803",
+      "model": " Epson ROBOTICS-8603",
       "code": "E08",
       "name": "Flow Error",
       "description": " Epson Flow Error - Technical issue in  Epson robotics systems",
@@ -115084,10 +115084,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -115140,10 +115140,10 @@
       }
     },
     {
-      "id": 3649,
+      "id": 3876,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-2920",
+      "model": " Epson ROBOTICS-3790",
       "code": "F01",
       "name": "Short Circuit",
       "description": " Epson Short Circuit - Technical issue in  Epson robotics systems",
@@ -115159,11 +115159,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -116432,10 +116432,10 @@
       }
     },
     {
-      "id": 3860,
+      "id": 3865,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-3346",
+      "model": " Haas CNC-6592",
       "code": "C02",
       "name": "Configuration Error",
       "description": " Haas Configuration Error - Technical issue in  Haas cnc systems",
@@ -116455,7 +116455,7 @@
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -116736,10 +116736,10 @@
       }
     },
     {
-      "id": 3672,
+      "id": 3845,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-7995",
+      "model": "Inglis WASHER-3352",
       "code": "L03",
       "name": "Door Open",
       "description": "Inglis Door Open - Technical issue in Inglis washer systems",
@@ -116755,11 +116755,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -119282,10 +119282,10 @@
       }
     },
     {
-      "id": 3676,
+      "id": 3847,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-6224",
+      "model": "Inglis WASHER-2209",
       "code": "E07",
       "name": "Pressure Fault",
       "description": "Inglis Pressure Fault - Technical issue in Inglis washer systems",
@@ -119301,11 +119301,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -120042,10 +120042,10 @@
       }
     },
     {
-      "id": 3709,
+      "id": 3877,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-9366",
+      "model": " Epson ROBOTICS-6128",
       "code": "F09",
       "name": "Brake Fault",
       "description": " Epson Brake Fault - Technical issue in  Epson robotics systems",
@@ -120061,11 +120061,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -121258,10 +121258,10 @@
       }
     },
     {
-      "id": 3725,
+      "id": 3854,
       "brand": "York",
       "category": "HVAC",
-      "model": "York HVAC-7738",
+      "model": "York HVAC-1831",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "York Grounding Fault - Technical issue in York hvac systems",
@@ -121277,11 +121277,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "York Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "Affinity",
         "features": [
@@ -121410,10 +121410,10 @@
       }
     },
     {
-      "id": 3729,
+      "id": 3855,
       "brand": "York",
       "category": "HVAC",
-      "model": "York HVAC-7696",
+      "model": "York HVAC-8756",
       "code": "E04",
       "name": "Motor Failure",
       "description": "York Motor Failure - Technical issue in York hvac systems",
@@ -121429,11 +121429,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "York Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Affinity",
         "features": [
@@ -121562,10 +121562,10 @@
       }
     },
     {
-      "id": 3733,
+      "id": 3861,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-5705",
+      "model": "Cognex PLC-4440",
       "code": "E02",
       "name": "Control Board Error",
       "description": "Cognex Control Board Error - Technical issue in Cognex plc systems",
@@ -121581,11 +121581,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -121600,10 +121600,10 @@
       }
     },
     {
-      "id": 3735,
+      "id": 3859,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-8245",
+      "model": "Cognex PLC-5054",
       "code": "L01",
       "name": "Lock Error",
       "description": "Cognex Lock Error - Technical issue in Cognex plc systems",
@@ -121619,11 +121619,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -122968,10 +122968,10 @@
       }
     },
     {
-      "id": 3779,
+      "id": 3875,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-2690",
+      "model": " Epson ROBOTICS-6249",
       "code": "L03",
       "name": "Door Open",
       "description": " Epson Door Open - Technical issue in  Epson robotics systems",
@@ -122988,7 +122988,7 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " Epson Corporation",
         "yearIntroduced": "2024",
@@ -123006,10 +123006,10 @@
       }
     },
     {
-      "id": 3781,
+      "id": 3873,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-7090",
+      "model": " Epson ROBOTICS-4147",
       "code": "P03",
       "name": "Compressor Fault",
       "description": " Epson Compressor Fault - Technical issue in  Epson robotics systems",
@@ -123025,11 +123025,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -124336,10 +124336,10 @@
       }
     },
     {
-      "id": 3815,
+      "id": 3870,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-2072",
+      "model": " Haas CNC-7958",
       "code": "E05",
       "name": "Communication Error",
       "description": " Haas Communication Error - Technical issue in  Haas cnc systems",
@@ -124355,8 +124355,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
         "yearIntroduced": "2023",
@@ -125816,6 +125816,576 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3848,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-1562",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "Inglis Thermal Fault - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3849,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-3354",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "Inglis Level Sensor Fault - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3852,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-9230",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "York Temperature Low - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3853,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-5346",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "York Thermal Fault - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3856,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-9983",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": "York Communication Error - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3857,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-4783",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "York Power Supply Fault - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3858,
+      "brand": "York",
+      "category": "HVAC",
+      "model": "York HVAC-1342",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": "York Short Circuit - Technical issue in York hvac systems",
+      "causes": [
+        "York component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "York Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Affinity",
+        "features": [
+          "ClimateTalk"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3860,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-2805",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "Cognex Grounding Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3862,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-3775",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Cognex Valve Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3863,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-3159",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Cognex Overheat - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3864,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-7862",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Cognex Compressor Fault - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3866,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-6556",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": " Haas Short Circuit - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3867,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-5157",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": " Haas Compressor Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3868,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-8971",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": " Haas Sensor Malfunction - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3869,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-4494",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": " Haas Operation Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -125942,9 +126512,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3844,
-    "lastUpdated": "2026-04-01",
+    "totalCodes": 3859,
+    "lastUpdated": "2026-04-02",
     "version": "4.0",
-    "dailyGenerated": 34
+    "dailyGenerated": 33
   }
 }
