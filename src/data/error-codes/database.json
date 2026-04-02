@@ -110124,10 +110124,10 @@
       }
     },
     {
-      "id": 3553,
+      "id": 3873,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-6968",
+      "model": " IDEC PLC-9639",
       "code": "C03",
       "name": "Parameter Error",
       "description": " IDEC Parameter Error - Technical issue in  IDEC plc systems",
@@ -110143,11 +110143,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -110314,10 +110314,10 @@
       }
     },
     {
-      "id": 3714,
+      "id": 3879,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-3712",
+      "model": "Mazak CNC-1359",
       "code": "P04",
       "name": "Fan Fault",
       "description": "Mazak Fan Fault - Technical issue in Mazak cnc systems",
@@ -110333,11 +110333,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -112442,10 +112442,10 @@
       }
     },
     {
-      "id": 3707,
+      "id": 3872,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-5484",
+      "model": " IDEC PLC-5248",
       "code": "C04",
       "name": "Checksum Error",
       "description": " IDEC Checksum Error - Technical issue in  IDEC plc systems",
@@ -112461,11 +112461,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -112822,10 +112822,10 @@
       }
     },
     {
-      "id": 3606,
+      "id": 3886,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-1177",
+      "model": "Fanuc ROBOTICS-5315",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "Fanuc Encoder Fault - Technical issue in Fanuc robotics systems",
@@ -112842,10 +112842,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -114038,10 +114038,10 @@
       }
     },
     {
-      "id": 3607,
+      "id": 3888,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-6768",
+      "model": "Fanuc ROBOTICS-5754",
       "code": "P02",
       "name": "Valve Fault",
       "description": "Fanuc Valve Fault - Technical issue in Fanuc robotics systems",
@@ -114057,11 +114057,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -115444,10 +115444,10 @@
       }
     },
     {
-      "id": 3710,
+      "id": 3876,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-1145",
+      "model": " IDEC PLC-7138",
       "code": "E02",
       "name": "Control Board Error",
       "description": " IDEC Control Board Error - Technical issue in  IDEC plc systems",
@@ -115463,11 +115463,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -116508,10 +116508,10 @@
       }
     },
     {
-      "id": 3608,
+      "id": 3885,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-5549",
+      "model": "Fanuc ROBOTICS-5279",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Fanuc Power Supply Fault - Technical issue in Fanuc robotics systems",
@@ -116528,10 +116528,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -116546,10 +116546,10 @@
       }
     },
     {
-      "id": 3609,
+      "id": 3890,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-6148",
+      "model": "Fanuc ROBOTICS-3422",
       "code": "F05",
       "name": "Overheat",
       "description": "Fanuc Overheat - Technical issue in Fanuc robotics systems",
@@ -116565,11 +116565,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -117192,13 +117192,51 @@
       }
     },
     {
-      "id": 3715,
+      "id": 3880,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-5758",
+      "model": "Mazak CNC-4083",
       "code": "E06",
       "name": "Thermal Fault",
       "description": "Mazak Thermal Fault - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3878,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-4783",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "Mazak Grounding Fault - Technical issue in Mazak cnc systems",
       "causes": [
         "Mazak component failure",
         "Electrical connection issue",
@@ -117216,44 +117254,6 @@
       "productInfo": {
         "manufacturer": "Mazak Corporation",
         "yearIntroduced": "2021",
-        "warranty": "1 year",
-        "series": "Integrex",
-        "features": [
-          "Multi-Tasking"
-        ],
-        "commonIssues": [
-          "Component wear",
-          "Electrical issues",
-          "Programming errors"
-        ],
-        "voltage": "120V/240V"
-      }
-    },
-    {
-      "id": 3695,
-      "brand": "Mazak",
-      "category": "CNC",
-      "model": "Mazak CNC-1517",
-      "code": "F03",
-      "name": "Grounding Fault",
-      "description": "Mazak Grounding Fault - Technical issue in Mazak cnc systems",
-      "causes": [
-        "Mazak component failure",
-        "Electrical connection issue",
-        "Environmental factors",
-        "Component aging"
-      ],
-      "solutions": [
-        "Check connections",
-        "Inspect components",
-        "Replace faulty part",
-        "Reset system"
-      ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
-      "productInfo": {
-        "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -120270,10 +120270,10 @@
       }
     },
     {
-      "id": 3755,
+      "id": 3863,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-2190",
+      "model": "Crosley WASHER-7015",
       "code": "E02",
       "name": "Control Board Error",
       "description": "Crosley Control Board Error - Technical issue in Crosley washer systems",
@@ -120289,11 +120289,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -122322,10 +122322,10 @@
       }
     },
     {
-      "id": 3753,
+      "id": 3860,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-5570",
+      "model": "Crosley WASHER-4872",
       "code": "C03",
       "name": "Parameter Error",
       "description": "Crosley Parameter Error - Technical issue in Crosley washer systems",
@@ -122341,11 +122341,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -122360,10 +122360,10 @@
       }
     },
     {
-      "id": 3756,
+      "id": 3862,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-4329",
+      "model": "Crosley WASHER-5699",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "Crosley Encoder Fault - Technical issue in Crosley washer systems",
@@ -122380,10 +122380,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -122854,10 +122854,10 @@
       }
     },
     {
-      "id": 3772,
+      "id": 3877,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-4251",
+      "model": "Mazak CNC-9916",
       "code": "E07",
       "name": "Pressure Fault",
       "description": "Mazak Pressure Fault - Technical issue in Mazak cnc systems",
@@ -122873,11 +122873,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -122892,10 +122892,10 @@
       }
     },
     {
-      "id": 3773,
+      "id": 3883,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-9987",
+      "model": "Mazak CNC-9544",
       "code": "C04",
       "name": "Checksum Error",
       "description": "Mazak Checksum Error - Technical issue in Mazak cnc systems",
@@ -122912,10 +122912,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -126386,6 +126386,614 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3861,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-2620",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Crosley Overload - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3864,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-2376",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Crosley Compressor Fault - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3865,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-8217",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": " Bryant Sensor Malfunction - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3866,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-7256",
+      "code": "F01",
+      "name": "Short Circuit",
+      "description": " Bryant Short Circuit - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3867,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-3881",
+      "code": "U01",
+      "name": "User Error",
+      "description": " Bryant User Error - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3868,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-6063",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": " Bryant Thermal Fault - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3869,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-7609",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": " Bryant Parameter Error - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3870,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-4780",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": " Bryant Temperature High - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3871,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-5150",
+      "code": "F04",
+      "name": "Overload",
+      "description": " IDEC Overload - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3874,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-5365",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": " IDEC Brake Fault - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3875,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-6913",
+      "code": "E05",
+      "name": "Communication Error",
+      "description": " IDEC Communication Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3881,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-4876",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Mazak Brake Fault - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3882,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-1464",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Mazak Temperature High - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3884,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-3423",
+      "code": "L04",
+      "name": "Interlock Fault",
+      "description": "Fanuc Interlock Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3887,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-9752",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": "Fanuc Lock Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3889,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1987",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Fanuc Compressor Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -126512,9 +127120,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3859,
+    "totalCodes": 3875,
     "lastUpdated": "2026-04-02",
     "version": "4.0",
-    "dailyGenerated": 33
+    "dailyGenerated": 31
   }
 }
