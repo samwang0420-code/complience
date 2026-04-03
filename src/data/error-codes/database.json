@@ -111454,10 +111454,10 @@
       }
     },
     {
-      "id": 3871,
+      "id": 3915,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-3924",
+      "model": " Haas CNC-9055",
       "code": "F05",
       "name": "Overheat",
       "description": " Haas Overheat - Technical issue in  Haas cnc systems",
@@ -111473,11 +111473,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -111530,10 +111530,10 @@
       }
     },
     {
-      "id": 3471,
+      "id": 3912,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-3133",
+      "model": " Haas CNC-9571",
       "code": "E08",
       "name": "Flow Error",
       "description": " Haas Flow Error - Technical issue in  Haas cnc systems",
@@ -111549,11 +111549,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -111644,10 +111644,10 @@
       }
     },
     {
-      "id": 3592,
+      "id": 3921,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-9556",
+      "model": "Yaskawa ROBOTICS-2312",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "Yaskawa Grounding Fault - Technical issue in Yaskawa robotics systems",
@@ -111664,10 +111664,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -112138,10 +112138,10 @@
       }
     },
     {
-      "id": 3845,
+      "id": 3904,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-4344",
+      "model": "American Standard HVAC-8308",
       "code": "U03",
       "name": "Operation Error",
       "description": "American Standard Operation Error - Technical issue in American Standard hvac systems",
@@ -112158,10 +112158,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112290,10 +112290,10 @@
       }
     },
     {
-      "id": 3777,
+      "id": 3899,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-6690",
+      "model": "American Standard HVAC-7268",
       "code": "L02",
       "name": "Limit Switch",
       "description": "American Standard Limit Switch - Technical issue in American Standard hvac systems",
@@ -112310,10 +112310,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112442,10 +112442,10 @@
       }
     },
     {
-      "id": 3872,
+      "id": 3910,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-5248",
+      "model": " IDEC PLC-2565",
       "code": "C04",
       "name": "Checksum Error",
       "description": " IDEC Checksum Error - Technical issue in  IDEC plc systems",
@@ -112465,7 +112465,7 @@
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -112518,10 +112518,10 @@
       }
     },
     {
-      "id": 3582,
+      "id": 3906,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-9151",
+      "model": " IDEC PLC-9001",
       "code": "P02",
       "name": "Valve Fault",
       "description": " IDEC Valve Fault - Technical issue in  IDEC plc systems",
@@ -112538,10 +112538,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -114684,10 +114684,10 @@
       }
     },
     {
-      "id": 3556,
+      "id": 3908,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-9898",
+      "model": " IDEC PLC-3075",
       "code": "F01",
       "name": "Short Circuit",
       "description": " IDEC Short Circuit - Technical issue in  IDEC plc systems",
@@ -114703,11 +114703,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -115330,10 +115330,10 @@
       }
     },
     {
-      "id": 3573,
+      "id": 3902,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-6765",
+      "model": "American Standard HVAC-6510",
       "code": "F10",
       "name": "Temperature High",
       "description": "American Standard Temperature High - Technical issue in American Standard hvac systems",
@@ -115349,11 +115349,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -115482,10 +115482,10 @@
       }
     },
     {
-      "id": 3709,
+      "id": 3911,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-2648",
+      "model": " IDEC PLC-1925",
       "code": "L04",
       "name": "Interlock Fault",
       "description": " IDEC Interlock Fault - Technical issue in  IDEC plc systems",
@@ -115502,10 +115502,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -115710,10 +115710,10 @@
       }
     },
     {
-      "id": 3591,
+      "id": 3918,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-1499",
+      "model": "Yaskawa ROBOTICS-1344",
       "code": "E05",
       "name": "Communication Error",
       "description": "Yaskawa Communication Error - Technical issue in Yaskawa robotics systems",
@@ -115729,11 +115729,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -115748,10 +115748,10 @@
       }
     },
     {
-      "id": 3593,
+      "id": 3922,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-6434",
+      "model": "Yaskawa ROBOTICS-1005",
       "code": "P02",
       "name": "Valve Fault",
       "description": "Yaskawa Valve Fault - Technical issue in Yaskawa robotics systems",
@@ -115767,11 +115767,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -116394,10 +116394,10 @@
       }
     },
     {
-      "id": 3602,
+      "id": 3917,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-4895",
+      "model": " Haas CNC-8941",
       "code": "L01",
       "name": "Lock Error",
       "description": " Haas Lock Error - Technical issue in  Haas cnc systems",
@@ -116413,11 +116413,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -120080,10 +120080,10 @@
       }
     },
     {
-      "id": 3694,
+      "id": 3892,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-4148",
+      "model": "Crosley WASHER-1531",
       "code": "E08",
       "name": "Flow Error",
       "description": "Crosley Flow Error - Technical issue in Crosley washer systems",
@@ -120099,11 +120099,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -120232,10 +120232,10 @@
       }
     },
     {
-      "id": 3877,
+      "id": 3891,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-6133",
+      "model": "Crosley WASHER-4955",
       "code": "P01",
       "name": "Pump Fault",
       "description": "Crosley Pump Fault - Technical issue in Crosley washer systems",
@@ -120251,11 +120251,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -122284,10 +122284,10 @@
       }
     },
     {
-      "id": 3883,
+      "id": 3893,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-2343",
+      "model": "Crosley WASHER-4903",
       "code": "F05",
       "name": "Overheat",
       "description": "Crosley Overheat - Technical issue in Crosley washer systems",
@@ -122303,11 +122303,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -125742,10 +125742,10 @@
       }
     },
     {
-      "id": 3856,
+      "id": 3913,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-5602",
+      "model": " Haas CNC-5150",
       "code": "C04",
       "name": "Checksum Error",
       "description": " Haas Checksum Error - Technical issue in  Haas cnc systems",
@@ -125762,10 +125762,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -126274,10 +126274,10 @@
       }
     },
     {
-      "id": 3867,
+      "id": 3914,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-5157",
+      "model": " Haas CNC-9063",
       "code": "P03",
       "name": "Compressor Fault",
       "description": " Haas Compressor Fault - Technical issue in  Haas cnc systems",
@@ -126692,10 +126692,10 @@
       }
     },
     {
-      "id": 3871,
+      "id": 3905,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-5150",
+      "model": " IDEC PLC-8235",
       "code": "F04",
       "name": "Overload",
       "description": " IDEC Overload - Technical issue in  IDEC plc systems",
@@ -126711,11 +126711,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -126768,10 +126768,10 @@
       }
     },
     {
-      "id": 3875,
+      "id": 3909,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-6913",
+      "model": " IDEC PLC-3336",
       "code": "E05",
       "name": "Communication Error",
       "description": " IDEC Communication Error - Technical issue in  IDEC plc systems",
@@ -126787,11 +126787,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -127564,6 +127564,538 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3894,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-9395",
+      "code": "F07",
+      "name": "Position Error",
+      "description": "Crosley Position Error - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3895,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-7550",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Crosley Temperature High - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3896,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-9625",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "Crosley Thermal Fault - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3897,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-5440",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Crosley Pressure Fault - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3898,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-8427",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "American Standard Thermal Fault - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3900,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-8895",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "American Standard Brake Fault - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3901,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-1519",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": "American Standard Power Supply Fault - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3903,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-1700",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "American Standard Valve Fault - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3907,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-8441",
+      "code": "F08",
+      "name": "Encoder Fault",
+      "description": " IDEC Encoder Fault - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3916,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-6923",
+      "code": "F04",
+      "name": "Overload",
+      "description": " Haas Overload - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3919,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-5731",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Yaskawa Control Board Error - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3920,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-1005",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": "Yaskawa Calibration Error - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3923,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-2488",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "Yaskawa Overheat - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3924,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-7083",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": "Yaskawa Sensor Malfunction - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -127690,7 +128222,7 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3890,
+    "totalCodes": 3904,
     "lastUpdated": "2026-04-03",
     "version": "4.0",
     "dailyGenerated": 34
