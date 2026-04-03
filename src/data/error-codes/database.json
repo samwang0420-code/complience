@@ -110466,10 +110466,10 @@
       }
     },
     {
-      "id": 3774,
+      "id": 3896,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-7972",
+      "model": "Mazak CNC-6941",
       "code": "C03",
       "name": "Parameter Error",
       "description": "Mazak Parameter Error - Technical issue in Mazak cnc systems",
@@ -110486,10 +110486,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -117268,10 +117268,10 @@
       }
     },
     {
-      "id": 3717,
+      "id": 3899,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-7125",
+      "model": "Mazak CNC-7606",
       "code": "L04",
       "name": "Interlock Fault",
       "description": "Mazak Interlock Fault - Technical issue in Mazak cnc systems",
@@ -117287,7 +117287,7 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
@@ -118674,10 +118674,10 @@
       }
     },
     {
-      "id": 3848,
+      "id": 3891,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-2774",
+      "model": " Panasonic PLC-1525",
       "code": "C02",
       "name": "Configuration Error",
       "description": " Panasonic Configuration Error - Technical issue in  Panasonic plc systems",
@@ -118697,7 +118697,7 @@
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -119776,10 +119776,10 @@
       }
     },
     {
-      "id": 3698,
+      "id": 3901,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-6742",
+      "model": "Mazak CNC-2229",
       "code": "E04",
       "name": "Motor Failure",
       "description": "Mazak Motor Failure - Technical issue in Mazak cnc systems",
@@ -119795,11 +119795,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -120232,10 +120232,10 @@
       }
     },
     {
-      "id": 3698,
+      "id": 3877,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-6592",
+      "model": "Crosley WASHER-6133",
       "code": "P01",
       "name": "Pump Fault",
       "description": "Crosley Pump Fault - Technical issue in Crosley washer systems",
@@ -120251,11 +120251,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -120878,10 +120878,10 @@
       }
     },
     {
-      "id": 3726,
+      "id": 3909,
       "brand": "Universal Robots",
       "category": "Robotics",
-      "model": "Universal Robots ROBOTICS-5111",
+      "model": "Universal Robots ROBOTICS-8406",
       "code": "C02",
       "name": "Configuration Error",
       "description": "Universal Robots Configuration Error - Technical issue in Universal Robots robotics systems",
@@ -120898,10 +120898,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Universal Robots Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "UR3",
         "features": [
@@ -122056,10 +122056,10 @@
       }
     },
     {
-      "id": 3749,
+      "id": 3907,
       "brand": "Universal Robots",
       "category": "Robotics",
-      "model": "Universal Robots ROBOTICS-4008",
+      "model": "Universal Robots ROBOTICS-2881",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Universal Robots Power Supply Fault - Technical issue in Universal Robots robotics systems",
@@ -122075,11 +122075,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Universal Robots Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "UR3",
         "features": [
@@ -122170,10 +122170,10 @@
       }
     },
     {
-      "id": 3752,
+      "id": 3902,
       "brand": "Universal Robots",
       "category": "Robotics",
-      "model": "Universal Robots ROBOTICS-3131",
+      "model": "Universal Robots ROBOTICS-7515",
       "code": "E08",
       "name": "Flow Error",
       "description": "Universal Robots Flow Error - Technical issue in Universal Robots robotics systems",
@@ -122189,11 +122189,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Universal Robots Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "UR3",
         "features": [
@@ -122284,10 +122284,10 @@
       }
     },
     {
-      "id": 3752,
+      "id": 3883,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-5205",
+      "model": "Crosley WASHER-2343",
       "code": "F05",
       "name": "Overheat",
       "description": "Crosley Overheat - Technical issue in Crosley washer systems",
@@ -122304,10 +122304,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -122360,10 +122360,10 @@
       }
     },
     {
-      "id": 3862,
+      "id": 3882,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-5699",
+      "model": "Crosley WASHER-4541",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "Crosley Encoder Fault - Technical issue in Crosley washer systems",
@@ -122379,8 +122379,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
         "yearIntroduced": "2015",
@@ -122398,10 +122398,10 @@
       }
     },
     {
-      "id": 3757,
+      "id": 3879,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-4061",
+      "model": "Crosley WASHER-2824",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "Crosley Grounding Fault - Technical issue in Crosley washer systems",
@@ -122417,11 +122417,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -122436,10 +122436,10 @@
       }
     },
     {
-      "id": 3758,
+      "id": 3889,
       "brand": " Bryant",
       "category": "HVAC",
-      "model": " Bryant HVAC-3122",
+      "model": " Bryant HVAC-3241",
       "code": "F06",
       "name": "Speed Error",
       "description": " Bryant Speed Error - Technical issue in  Bryant hvac systems",
@@ -122455,11 +122455,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Bryant Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Evolution",
         "features": [
@@ -123462,10 +123462,10 @@
       }
     },
     {
-      "id": 3791,
+      "id": 3894,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-6172",
+      "model": " Panasonic PLC-8828",
       "code": "C04",
       "name": "Checksum Error",
       "description": " Panasonic Checksum Error - Technical issue in  Panasonic plc systems",
@@ -123482,10 +123482,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -123652,10 +123652,10 @@
       }
     },
     {
-      "id": 3797,
+      "id": 3904,
       "brand": "Universal Robots",
       "category": "Robotics",
-      "model": "Universal Robots ROBOTICS-9038",
+      "model": "Universal Robots ROBOTICS-6154",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "Universal Robots Encoder Fault - Technical issue in Universal Robots robotics systems",
@@ -123671,11 +123671,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Universal Robots Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "UR3",
         "features": [
@@ -123690,10 +123690,10 @@
       }
     },
     {
-      "id": 3798,
+      "id": 3906,
       "brand": "Universal Robots",
       "category": "Robotics",
-      "model": "Universal Robots ROBOTICS-4369",
+      "model": "Universal Robots ROBOTICS-2027",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "Universal Robots Grounding Fault - Technical issue in Universal Robots robotics systems",
@@ -123709,8 +123709,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Universal Robots Corporation",
         "yearIntroduced": "2015",
@@ -125666,10 +125666,10 @@
       }
     },
     {
-      "id": 3850,
+      "id": 3893,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-5513",
+      "model": " Panasonic PLC-7864",
       "code": "F11",
       "name": "Temperature Low",
       "description": " Panasonic Temperature Low - Technical issue in  Panasonic plc systems",
@@ -125685,11 +125685,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -126426,10 +126426,10 @@
       }
     },
     {
-      "id": 3864,
+      "id": 3880,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-2376",
+      "model": "Crosley WASHER-2339",
       "code": "P03",
       "name": "Compressor Fault",
       "description": "Crosley Compressor Fault - Technical issue in Crosley washer systems",
@@ -126449,7 +126449,7 @@
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -126540,10 +126540,10 @@
       }
     },
     {
-      "id": 3867,
+      "id": 3885,
       "brand": " Bryant",
       "category": "HVAC",
-      "model": " Bryant HVAC-3881",
+      "model": " Bryant HVAC-2154",
       "code": "U01",
       "name": "User Error",
       "description": " Bryant User Error - Technical issue in  Bryant hvac systems",
@@ -126559,11 +126559,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Bryant Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Evolution",
         "features": [
@@ -126844,10 +126844,10 @@
       }
     },
     {
-      "id": 3882,
+      "id": 3898,
       "brand": "Mazak",
       "category": "CNC",
-      "model": "Mazak CNC-1464",
+      "model": "Mazak CNC-4322",
       "code": "F10",
       "name": "Temperature High",
       "description": "Mazak Temperature High - Technical issue in Mazak cnc systems",
@@ -126863,11 +126863,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Mazak Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Integrex",
         "features": [
@@ -126984,6 +126984,576 @@
         "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3876,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-8088",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": "Crosley Lock Error - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3878,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-2321",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": "Crosley Open Circuit - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3881,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-9039",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Crosley Temperature Low - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3884,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-2647",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": " Bryant Checksum Error - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3886,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-8365",
+      "code": "F04",
+      "name": "Overload",
+      "description": " Bryant Overload - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3887,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-7651",
+      "code": "L03",
+      "name": "Door Open",
+      "description": " Bryant Door Open - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3888,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-6761",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": " Bryant Lock Error - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3890,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-4945",
+      "code": "F05",
+      "name": "Overheat",
+      "description": " Bryant Overheat - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3892,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-3218",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": " Panasonic Operation Error - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3895,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-8264",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": " Panasonic Valve Fault - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3897,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-3654",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Mazak Overload - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3900,
+      "brand": "Mazak",
+      "category": "CNC",
+      "model": "Mazak CNC-6451",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": "Mazak Sensor Malfunction - Technical issue in Mazak cnc systems",
+      "causes": [
+        "Mazak component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Mazak Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "Integrex",
+        "features": [
+          "Multi-Tasking"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3903,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-5590",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "Universal Robots Door Open - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3905,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-6350",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Universal Robots Motor Failure - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "UR3",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3908,
+      "brand": "Universal Robots",
+      "category": "Robotics",
+      "model": "Universal Robots ROBOTICS-3013",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Universal Robots Temperature High - Technical issue in Universal Robots robotics systems",
+      "causes": [
+        "Universal Robots component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Universal Robots Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "UR3",
         "features": [
           "Cobot"
         ],
@@ -127120,9 +127690,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3875,
-    "lastUpdated": "2026-04-02",
+    "totalCodes": 3890,
+    "lastUpdated": "2026-04-03",
     "version": "4.0",
-    "dailyGenerated": 31
+    "dailyGenerated": 34
   }
 }
