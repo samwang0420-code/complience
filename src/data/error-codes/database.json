@@ -111758,10 +111758,10 @@
       }
     },
     {
-      "id": 3477,
+      "id": 3958,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-2276",
+      "model": "Yaskawa ROBOTICS-8188",
       "code": "L03",
       "name": "Door Open",
       "description": "Yaskawa Door Open - Technical issue in Yaskawa robotics systems",
@@ -111777,8 +111777,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
         "yearIntroduced": "2020",
@@ -111796,10 +111796,10 @@
       }
     },
     {
-      "id": 3932,
+      "id": 3954,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-6570",
+      "model": "Yaskawa ROBOTICS-6244",
       "code": "E04",
       "name": "Motor Failure",
       "description": "Yaskawa Motor Failure - Technical issue in Yaskawa robotics systems",
@@ -111815,11 +111815,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "30 min",
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -112670,10 +112670,10 @@
       }
     },
     {
-      "id": 3501,
+      "id": 3947,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-6716",
+      "model": "DMG MORI CNC-8851",
       "code": "U03",
       "name": "Operation Error",
       "description": "DMG MORI Operation Error - Technical issue in DMG MORI cnc systems",
@@ -112690,7 +112690,7 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
         "yearIntroduced": "2023",
@@ -114494,10 +114494,10 @@
       }
     },
     {
-      "id": 3549,
+      "id": 3938,
       "brand": " Bryant",
       "category": "HVAC",
-      "model": " Bryant HVAC-8190",
+      "model": " Bryant HVAC-1518",
       "code": "C01",
       "name": "Calibration Error",
       "description": " Bryant Calibration Error - Technical issue in  Bryant hvac systems",
@@ -114514,10 +114514,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " Bryant Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Evolution",
         "features": [
@@ -115786,10 +115786,10 @@
       }
     },
     {
-      "id": 3595,
+      "id": 3956,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-7076",
+      "model": "Yaskawa ROBOTICS-9198",
       "code": "P04",
       "name": "Fan Fault",
       "description": "Yaskawa Fan Fault - Technical issue in Yaskawa robotics systems",
@@ -115806,10 +115806,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -115824,10 +115824,10 @@
       }
     },
     {
-      "id": 3596,
+      "id": 3960,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-2858",
+      "model": "Yaskawa ROBOTICS-6026",
       "code": "F11",
       "name": "Temperature Low",
       "description": "Yaskawa Temperature Low - Technical issue in Yaskawa robotics systems",
@@ -115843,11 +115843,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -115900,10 +115900,10 @@
       }
     },
     {
-      "id": 3584,
+      "id": 3932,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-9401",
+      "model": "Norge WASHER-5349",
       "code": "P02",
       "name": "Valve Fault",
       "description": "Norge Valve Fault - Technical issue in Norge washer systems",
@@ -115920,10 +115920,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -117876,10 +117876,10 @@
       }
     },
     {
-      "id": 3640,
+      "id": 3944,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-5122",
+      "model": "Cognex PLC-7040",
       "code": "P01",
       "name": "Pump Fault",
       "description": "Cognex Pump Fault - Technical issue in Cognex plc systems",
@@ -117896,10 +117896,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -119624,10 +119624,10 @@
       }
     },
     {
-      "id": 3692,
+      "id": 3945,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-2594",
+      "model": "Cognex PLC-3403",
       "code": "U01",
       "name": "User Error",
       "description": "Cognex User Error - Technical issue in Cognex plc systems",
@@ -119644,10 +119644,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -119662,10 +119662,10 @@
       }
     },
     {
-      "id": 3693,
+      "id": 3946,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-6064",
+      "model": "Cognex PLC-3416",
       "code": "E03",
       "name": "Sensor Malfunction",
       "description": "Cognex Sensor Malfunction - Technical issue in Cognex plc systems",
@@ -119682,10 +119682,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -121068,10 +121068,10 @@
       }
     },
     {
-      "id": 3720,
+      "id": 3935,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-1217",
+      "model": "Norge WASHER-8260",
       "code": "E08",
       "name": "Flow Error",
       "description": "Norge Flow Error - Technical issue in Norge washer systems",
@@ -121087,11 +121087,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -121182,10 +121182,10 @@
       }
     },
     {
-      "id": 3723,
+      "id": 3934,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-4130",
+      "model": "Norge WASHER-8069",
       "code": "F02",
       "name": "Open Circuit",
       "description": "Norge Open Circuit - Technical issue in Norge washer systems",
@@ -121201,11 +121201,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -122512,10 +122512,10 @@
       }
     },
     {
-      "id": 3761,
+      "id": 3936,
       "brand": " Bryant",
       "category": "HVAC",
-      "model": " Bryant HVAC-1609",
+      "model": " Bryant HVAC-8924",
       "code": "F09",
       "name": "Brake Fault",
       "description": " Bryant Brake Fault - Technical issue in  Bryant hvac systems",
@@ -122531,11 +122531,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Bryant Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Evolution",
         "features": [
@@ -123500,10 +123500,10 @@
       }
     },
     {
-      "id": 3945,
+      "id": 3953,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-3443",
+      "model": "DMG MORI CNC-3614",
       "code": "E05",
       "name": "Communication Error",
       "description": "DMG MORI Communication Error - Technical issue in DMG MORI cnc systems",
@@ -123519,11 +123519,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -123538,10 +123538,10 @@
       }
     },
     {
-      "id": 3834,
+      "id": 3950,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-7260",
+      "model": "DMG MORI CNC-7345",
       "code": "C02",
       "name": "Configuration Error",
       "description": "DMG MORI Configuration Error - Technical issue in DMG MORI cnc systems",
@@ -123558,10 +123558,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -125628,10 +125628,10 @@
       }
     },
     {
-      "id": 3841,
+      "id": 3933,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-3381",
+      "model": "Norge WASHER-4347",
       "code": "P04",
       "name": "Fan Fault",
       "description": "Norge Fan Fault - Technical issue in Norge washer systems",
@@ -125647,8 +125647,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
         "yearIntroduced": "2017",
@@ -126160,10 +126160,10 @@
       }
     },
     {
-      "id": 3863,
+      "id": 3942,
       "brand": "Cognex",
       "category": "PLC",
-      "model": "Cognex PLC-3159",
+      "model": "Cognex PLC-4080",
       "code": "F05",
       "name": "Overheat",
       "description": "Cognex Overheat - Technical issue in Cognex plc systems",
@@ -126180,10 +126180,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Cognex Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "In-Sight",
         "features": [
@@ -127224,10 +127224,10 @@
       }
     },
     {
-      "id": 3888,
+      "id": 3939,
       "brand": " Bryant",
       "category": "HVAC",
-      "model": " Bryant HVAC-6761",
+      "model": " Bryant HVAC-4572",
       "code": "L01",
       "name": "Lock Error",
       "description": " Bryant Lock Error - Technical issue in  Bryant hvac systems",
@@ -127243,11 +127243,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Bryant Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Evolution",
         "features": [
@@ -128060,10 +128060,10 @@
       }
     },
     {
-      "id": 3924,
+      "id": 3959,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-7083",
+      "model": "Yaskawa ROBOTICS-2157",
       "code": "E03",
       "name": "Sensor Malfunction",
       "description": "Yaskawa Sensor Malfunction - Technical issue in Yaskawa robotics systems",
@@ -128083,7 +128083,7 @@
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -128478,10 +128478,10 @@
       }
     },
     {
-      "id": 3933,
+      "id": 3955,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-2176",
+      "model": "Yaskawa ROBOTICS-3201",
       "code": "F10",
       "name": "Temperature High",
       "description": "Yaskawa Temperature High - Technical issue in Yaskawa robotics systems",
@@ -128498,10 +128498,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -128516,10 +128516,10 @@
       }
     },
     {
-      "id": 3934,
+      "id": 3961,
       "brand": "Yaskawa",
       "category": "Robotics",
-      "model": "Yaskawa ROBOTICS-8587",
+      "model": "Yaskawa ROBOTICS-1942",
       "code": "F07",
       "name": "Position Error",
       "description": "Yaskawa Position Error - Technical issue in Yaskawa robotics systems",
@@ -128539,7 +128539,7 @@
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Yaskawa Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "Motoman",
         "features": [
@@ -128858,10 +128858,10 @@
       }
     },
     {
-      "id": 3942,
+      "id": 3948,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-5848",
+      "model": "DMG MORI CNC-5121",
       "code": "F07",
       "name": "Position Error",
       "description": "DMG MORI Position Error - Technical issue in DMG MORI cnc systems",
@@ -128881,7 +128881,7 @@
       "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -128934,10 +128934,10 @@
       }
     },
     {
-      "id": 3946,
+      "id": 3949,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-5116",
+      "model": "DMG MORI CNC-7556",
       "code": "E06",
       "name": "Thermal Fault",
       "description": "DMG MORI Thermal Fault - Technical issue in DMG MORI cnc systems",
@@ -128953,8 +128953,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
         "yearIntroduced": "2016",
@@ -129076,6 +129076,310 @@
         "series": "G",
         "features": [
           "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3931,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-1097",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": "Norge Checksum Error - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3937,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-1030",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": " Bryant Grounding Fault - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3940,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-2471",
+      "code": "F02",
+      "name": "Open Circuit",
+      "description": " Bryant Open Circuit - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3941,
+      "brand": " Bryant",
+      "category": "HVAC",
+      "model": " Bryant HVAC-1437",
+      "code": "E01",
+      "name": "Power Supply Fault",
+      "description": " Bryant Power Supply Fault - Technical issue in  Bryant hvac systems",
+      "causes": [
+        " Bryant component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Bryant Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Evolution",
+        "features": [
+          "Hybrid Heat"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3943,
+      "brand": "Cognex",
+      "category": "PLC",
+      "model": "Cognex PLC-2735",
+      "code": "F07",
+      "name": "Position Error",
+      "description": "Cognex Position Error - Technical issue in Cognex plc systems",
+      "causes": [
+        "Cognex component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Cognex Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "In-Sight",
+        "features": [
+          "Vision"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3951,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-3880",
+      "code": "P04",
+      "name": "Fan Fault",
+      "description": "DMG MORI Fan Fault - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3952,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-5086",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "DMG MORI Temperature High - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3957,
+      "brand": "Yaskawa",
+      "category": "Robotics",
+      "model": "Yaskawa ROBOTICS-8269",
+      "code": "F04",
+      "name": "Overload",
+      "description": "Yaskawa Overload - Technical issue in Yaskawa robotics systems",
+      "causes": [
+        "Yaskawa component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Yaskawa Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Motoman",
+        "features": [
+          "High Speed"
         ],
         "commonIssues": [
           "Component wear",
@@ -129210,9 +129514,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3930,
+    "totalCodes": 3938,
     "lastUpdated": "2026-04-05",
     "version": "4.0",
-    "dailyGenerated": 36
+    "dailyGenerated": 31
   }
 }
