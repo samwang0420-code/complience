@@ -111872,10 +111872,10 @@
       }
     },
     {
-      "id": 3846,
+      "id": 3918,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-2537",
+      "model": "Inglis WASHER-9609",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Inglis Power Supply Fault - Technical issue in Inglis washer systems",
@@ -111892,10 +111892,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -111910,10 +111910,10 @@
       }
     },
     {
-      "id": 3851,
+      "id": 3923,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-9062",
+      "model": "Inglis WASHER-4295",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Inglis Calibration Error - Technical issue in Inglis washer systems",
@@ -111929,11 +111929,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -112062,10 +112062,10 @@
       }
     },
     {
-      "id": 3846,
+      "id": 3930,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-3531",
+      "model": "American Standard HVAC-9344",
       "code": "E05",
       "name": "Communication Error",
       "description": "American Standard Communication Error - Technical issue in American Standard hvac systems",
@@ -112081,11 +112081,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -112176,10 +112176,10 @@
       }
     },
     {
-      "id": 3577,
+      "id": 3928,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-8207",
+      "model": "American Standard HVAC-1567",
       "code": "F07",
       "name": "Position Error",
       "description": "American Standard Position Error - Technical issue in American Standard hvac systems",
@@ -112195,11 +112195,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -114988,10 +114988,10 @@
       }
     },
     {
-      "id": 3628,
+      "id": 3951,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-1032",
+      "model": " Epson ROBOTICS-8508",
       "code": "U02",
       "name": "Setup Error",
       "description": " Epson Setup Error - Technical issue in  Epson robotics systems",
@@ -115011,7 +115011,7 @@
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -115368,10 +115368,10 @@
       }
     },
     {
-      "id": 3803,
+      "id": 3925,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-8551",
+      "model": "American Standard HVAC-3656",
       "code": "F03",
       "name": "Grounding Fault",
       "description": "American Standard Grounding Fault - Technical issue in American Standard hvac systems",
@@ -115388,10 +115388,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -117458,10 +117458,10 @@
       }
     },
     {
-      "id": 3625,
+      "id": 3921,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-1584",
+      "model": "Inglis WASHER-1867",
       "code": "F11",
       "name": "Temperature Low",
       "description": "Inglis Temperature Low - Technical issue in Inglis washer systems",
@@ -117478,10 +117478,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -117496,10 +117496,10 @@
       }
     },
     {
-      "id": 3629,
+      "id": 3919,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-9034",
+      "model": "Inglis WASHER-3081",
       "code": "L04",
       "name": "Interlock Fault",
       "description": "Inglis Interlock Fault - Technical issue in Inglis washer systems",
@@ -117516,10 +117516,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -118028,10 +118028,10 @@
       }
     },
     {
-      "id": 3646,
+      "id": 3940,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-2888",
+      "model": "DMG MORI CNC-3257",
       "code": "U02",
       "name": "Setup Error",
       "description": "DMG MORI Setup Error - Technical issue in DMG MORI cnc systems",
@@ -118047,11 +118047,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -118104,10 +118104,10 @@
       }
     },
     {
-      "id": 3648,
+      "id": 3948,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-6807",
+      "model": " Epson ROBOTICS-2633",
       "code": "E03",
       "name": "Sensor Malfunction",
       "description": " Epson Sensor Malfunction - Technical issue in  Epson robotics systems",
@@ -118123,11 +118123,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -119282,10 +119282,10 @@
       }
     },
     {
-      "id": 3847,
+      "id": 3917,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-2209",
+      "model": "Inglis WASHER-3103",
       "code": "E07",
       "name": "Pressure Fault",
       "description": "Inglis Pressure Fault - Technical issue in Inglis washer systems",
@@ -119302,10 +119302,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "15 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -122702,10 +122702,10 @@
       }
     },
     {
-      "id": 3766,
+      "id": 3937,
       "brand": "Hitachi",
       "category": "PLC",
-      "model": "Hitachi PLC-2789",
+      "model": "Hitachi PLC-7566",
       "code": "E09",
       "name": "Level Sensor Fault",
       "description": "Hitachi Level Sensor Fault - Technical issue in Hitachi plc systems",
@@ -122721,11 +122721,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Hitachi Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "EH-PCI",
         "features": [
@@ -123006,10 +123006,10 @@
       }
     },
     {
-      "id": 3873,
+      "id": 3950,
       "brand": " Epson",
       "category": "Robotics",
-      "model": " Epson ROBOTICS-4147",
+      "model": " Epson ROBOTICS-9443",
       "code": "P03",
       "name": "Compressor Fault",
       "description": " Epson Compressor Fault - Technical issue in  Epson robotics systems",
@@ -123026,10 +123026,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Epson Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "G",
         "features": [
@@ -123158,10 +123158,10 @@
       }
     },
     {
-      "id": 3779,
+      "id": 3927,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-6294",
+      "model": "American Standard HVAC-8010",
       "code": "P04",
       "name": "Fan Fault",
       "description": "American Standard Fan Fault - Technical issue in American Standard hvac systems",
@@ -123177,11 +123177,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -123500,10 +123500,10 @@
       }
     },
     {
-      "id": 3793,
+      "id": 3945,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-4704",
+      "model": "DMG MORI CNC-3443",
       "code": "E05",
       "name": "Communication Error",
       "description": "DMG MORI Communication Error - Technical issue in DMG MORI cnc systems",
@@ -123520,10 +123520,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -124108,10 +124108,10 @@
       }
     },
     {
-      "id": 3809,
+      "id": 3938,
       "brand": "Hitachi",
       "category": "PLC",
-      "model": "Hitachi PLC-4862",
+      "model": "Hitachi PLC-9133",
       "code": "U02",
       "name": "Setup Error",
       "description": "Hitachi Setup Error - Technical issue in Hitachi plc systems",
@@ -124131,7 +124131,7 @@
       "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Hitachi Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "EH-PCI",
         "features": [
@@ -124184,10 +124184,10 @@
       }
     },
     {
-      "id": 3811,
+      "id": 3935,
       "brand": "Hitachi",
       "category": "PLC",
-      "model": "Hitachi PLC-1867",
+      "model": "Hitachi PLC-9400",
       "code": "F05",
       "name": "Overheat",
       "description": "Hitachi Overheat - Technical issue in Hitachi plc systems",
@@ -124204,10 +124204,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Hitachi Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "EH-PCI",
         "features": [
@@ -124222,10 +124222,10 @@
       }
     },
     {
-      "id": 3812,
+      "id": 3934,
       "brand": "Hitachi",
       "category": "PLC",
-      "model": "Hitachi PLC-1051",
+      "model": "Hitachi PLC-3375",
       "code": "F11",
       "name": "Temperature Low",
       "description": "Hitachi Temperature Low - Technical issue in Hitachi plc systems",
@@ -124241,11 +124241,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Hitachi Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "EH-PCI",
         "features": [
@@ -125248,10 +125248,10 @@
       }
     },
     {
-      "id": 3837,
+      "id": 3944,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-4384",
+      "model": "DMG MORI CNC-8261",
       "code": "E09",
       "name": "Level Sensor Fault",
       "description": "DMG MORI Level Sensor Fault - Technical issue in DMG MORI cnc systems",
@@ -125267,11 +125267,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "difficulty": "Easy",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -125818,10 +125818,10 @@
       }
     },
     {
-      "id": 3848,
+      "id": 3922,
       "brand": "Inglis",
       "category": "Washer",
-      "model": "Inglis WASHER-1562",
+      "model": "Inglis WASHER-9991",
       "code": "E06",
       "name": "Thermal Fault",
       "description": "Inglis Thermal Fault - Technical issue in Inglis washer systems",
@@ -125838,10 +125838,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Inglis Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "Superba",
         "features": [
@@ -127718,10 +127718,10 @@
       }
     },
     {
-      "id": 3898,
+      "id": 3926,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-8427",
+      "model": "American Standard HVAC-4683",
       "code": "E06",
       "name": "Thermal Fault",
       "description": "American Standard Thermal Fault - Technical issue in American Standard hvac systems",
@@ -127738,10 +127738,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -127794,10 +127794,10 @@
       }
     },
     {
-      "id": 3901,
+      "id": 3929,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-1519",
+      "model": "American Standard HVAC-2770",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "American Standard Power Supply Fault - Technical issue in American Standard hvac systems",
@@ -127813,11 +127813,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -128552,6 +128552,538 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3920,
+      "brand": "Inglis",
+      "category": "Washer",
+      "model": "Inglis WASHER-4405",
+      "code": "F03",
+      "name": "Grounding Fault",
+      "description": "Inglis Grounding Fault - Technical issue in Inglis washer systems",
+      "causes": [
+        "Inglis component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Inglis Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Superba",
+        "features": [
+          "Heavy Duty"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3924,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-5042",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "American Standard Level Sensor Fault - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3931,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-1809",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Hitachi Motor Failure - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3932,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-4061",
+      "code": "F06",
+      "name": "Speed Error",
+      "description": "Hitachi Speed Error - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3933,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-9444",
+      "code": "F09",
+      "name": "Brake Fault",
+      "description": "Hitachi Brake Fault - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3936,
+      "brand": "Hitachi",
+      "category": "PLC",
+      "model": "Hitachi PLC-9862",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "Hitachi Compressor Fault - Technical issue in Hitachi plc systems",
+      "causes": [
+        "Hitachi component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Hitachi Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "EH-PCI",
+        "features": [
+          "High Speed"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3939,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-9206",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": "DMG MORI Compressor Fault - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3941,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-1055",
+      "code": "L02",
+      "name": "Limit Switch",
+      "description": "DMG MORI Limit Switch - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3942,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-5848",
+      "code": "F07",
+      "name": "Position Error",
+      "description": "DMG MORI Position Error - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3943,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-7988",
+      "code": "F05",
+      "name": "Overheat",
+      "description": "DMG MORI Overheat - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3946,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-5116",
+      "code": "E06",
+      "name": "Thermal Fault",
+      "description": "DMG MORI Thermal Fault - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3947,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-9867",
+      "code": "L01",
+      "name": "Lock Error",
+      "description": " Epson Lock Error - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3949,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-9313",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": " Epson Parameter Error - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3952,
+      "brand": " Epson",
+      "category": "Robotics",
+      "model": " Epson ROBOTICS-8566",
+      "code": "C04",
+      "name": "Checksum Error",
+      "description": " Epson Checksum Error - Technical issue in  Epson robotics systems",
+      "causes": [
+        " Epson component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Epson Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "G",
+        "features": [
+          "SCARA"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -128678,9 +129210,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3916,
-    "lastUpdated": "2026-04-04",
+    "totalCodes": 3930,
+    "lastUpdated": "2026-04-05",
     "version": "4.0",
-    "dailyGenerated": 30
+    "dailyGenerated": 36
   }
 }
