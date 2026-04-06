@@ -110010,10 +110010,10 @@
       }
     },
     {
-      "id": 3686,
+      "id": 3948,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-9050",
+      "model": "American Standard HVAC-4118",
       "code": "C01",
       "name": "Calibration Error",
       "description": "American Standard Calibration Error - Technical issue in American Standard hvac systems",
@@ -110030,10 +110030,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -110048,10 +110048,10 @@
       }
     },
     {
-      "id": 3711,
+      "id": 3959,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-4063",
+      "model": " IDEC PLC-3428",
       "code": "C02",
       "name": "Configuration Error",
       "description": " IDEC Configuration Error - Technical issue in  IDEC plc systems",
@@ -110067,46 +110067,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "30 min",
-      "productInfo": {
-        "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2016",
-        "warranty": "1 year",
-        "series": "FC5A",
-        "features": [
-          "Micro PLC"
-        ],
-        "commonIssues": [
-          "Component wear",
-          "Electrical issues",
-          "Programming errors"
-        ],
-        "voltage": "24V DC"
-      }
-    },
-    {
-      "id": 31799,
-      "brand": " IDEC",
-      "category": "PLC",
-      "model": " IDEC PLC-3723",
-      "code": "E03",
-      "name": "Sensor Malfunction",
-      "description": " IDEC Sensor Malfunction - Technical issue in  IDEC plc systems",
-      "causes": [
-        " IDEC component failure",
-        "Electrical connection issue",
-        "Environmental factors",
-        "Component aging"
-      ],
-      "solutions": [
-        "Check connections",
-        "Inspect components",
-        "Replace faulty part",
-        "Reset system"
-      ],
-      "difficulty": "Hard",
-      "estimatedTime": "30 min",
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
         "yearIntroduced": "2018",
@@ -110124,13 +110086,13 @@
       }
     },
     {
-      "id": 3873,
+      "id": 3955,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-9639",
-      "code": "C03",
-      "name": "Parameter Error",
-      "description": " IDEC Parameter Error - Technical issue in  IDEC plc systems",
+      "model": " IDEC PLC-8557",
+      "code": "E03",
+      "name": "Sensor Malfunction",
+      "description": " IDEC Sensor Malfunction - Technical issue in  IDEC plc systems",
       "causes": [
         " IDEC component failure",
         "Electrical connection issue",
@@ -110147,7 +110109,45 @@
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "FC5A",
+        "features": [
+          "Micro PLC"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 3954,
+      "brand": " IDEC",
+      "category": "PLC",
+      "model": " IDEC PLC-1040",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": " IDEC Parameter Error - Technical issue in  IDEC plc systems",
+      "causes": [
+        " IDEC component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " IDEC Corporation",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -110200,10 +110200,10 @@
       }
     },
     {
-      "id": 31802,
+      "id": 3957,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-6458",
+      "model": " IDEC PLC-8859",
       "code": "F02",
       "name": "Open Circuit",
       "description": " IDEC Open Circuit - Technical issue in  IDEC plc systems",
@@ -110220,10 +110220,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -111568,10 +111568,10 @@
       }
     },
     {
-      "id": 3472,
+      "id": 3967,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-7829",
+      "model": " Haas CNC-3389",
       "code": "E06",
       "name": "Thermal Fault",
       "description": " Haas Thermal Fault - Technical issue in  Haas cnc systems",
@@ -111587,11 +111587,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -112480,10 +112480,10 @@
       }
     },
     {
-      "id": 3708,
+      "id": 3956,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-3851",
+      "model": " IDEC PLC-2827",
       "code": "L02",
       "name": "Limit Switch",
       "description": " IDEC Limit Switch - Technical issue in  IDEC plc systems",
@@ -112503,7 +112503,7 @@
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -112518,10 +112518,10 @@
       }
     },
     {
-      "id": 3906,
+      "id": 3961,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-9001",
+      "model": " IDEC PLC-8488",
       "code": "P02",
       "name": "Valve Fault",
       "description": " IDEC Valve Fault - Technical issue in  IDEC plc systems",
@@ -112537,11 +112537,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -112746,10 +112746,10 @@
       }
     },
     {
-      "id": 3503,
+      "id": 3968,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-1410",
+      "model": "Fanuc ROBOTICS-4300",
       "code": "E06",
       "name": "Thermal Fault",
       "description": "Fanuc Thermal Fault - Technical issue in Fanuc robotics systems",
@@ -112765,8 +112765,8 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
         "yearIntroduced": "2016",
@@ -112822,10 +112822,10 @@
       }
     },
     {
-      "id": 3886,
+      "id": 3970,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-5315",
+      "model": "Fanuc ROBOTICS-7486",
       "code": "F08",
       "name": "Encoder Fault",
       "description": "Fanuc Encoder Fault - Technical issue in Fanuc robotics systems",
@@ -112841,11 +112841,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -113582,10 +113582,10 @@
       }
     },
     {
-      "id": 3921,
+      "id": 3960,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-5022",
+      "model": " IDEC PLC-9715",
       "code": "E04",
       "name": "Motor Failure",
       "description": " IDEC Motor Failure - Technical issue in  IDEC plc systems",
@@ -113602,10 +113602,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -114608,10 +114608,10 @@
       }
     },
     {
-      "id": 3552,
+      "id": 3958,
       "brand": " IDEC",
       "category": "PLC",
-      "model": " IDEC PLC-5779",
+      "model": " IDEC PLC-6029",
       "code": "F11",
       "name": "Temperature Low",
       "description": " IDEC Temperature Low - Technical issue in  IDEC plc systems",
@@ -114627,11 +114627,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " IDEC Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "FC5A",
         "features": [
@@ -115976,10 +115976,10 @@
       }
     },
     {
-      "id": 3586,
+      "id": 3939,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-1985",
+      "model": "Norge WASHER-4960",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Norge Power Supply Fault - Technical issue in Norge washer systems",
@@ -115996,10 +115996,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -116280,10 +116280,10 @@
       }
     },
     {
-      "id": 3858,
+      "id": 3966,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-9594",
+      "model": " Haas CNC-6459",
       "code": "C03",
       "name": "Parameter Error",
       "description": " Haas Parameter Error - Technical issue in  Haas cnc systems",
@@ -116299,11 +116299,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -116394,10 +116394,10 @@
       }
     },
     {
-      "id": 3917,
+      "id": 3962,
       "brand": " Haas",
       "category": "CNC",
-      "model": " Haas CNC-8941",
+      "model": " Haas CNC-2315",
       "code": "L01",
       "name": "Lock Error",
       "description": " Haas Lock Error - Technical issue in  Haas cnc systems",
@@ -116413,11 +116413,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "15 min",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Haas Corporation",
-        "yearIntroduced": "2015",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "VF",
         "features": [
@@ -116508,10 +116508,10 @@
       }
     },
     {
-      "id": 3885,
+      "id": 3971,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-5279",
+      "model": "Fanuc ROBOTICS-8882",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "Fanuc Power Supply Fault - Technical issue in Fanuc robotics systems",
@@ -116527,11 +116527,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -116850,10 +116850,10 @@
       }
     },
     {
-      "id": 3610,
+      "id": 3951,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-7231",
+      "model": "American Standard HVAC-8504",
       "code": "C04",
       "name": "Checksum Error",
       "description": "American Standard Checksum Error - Technical issue in American Standard hvac systems",
@@ -116870,10 +116870,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -119472,10 +119472,10 @@
       }
     },
     {
-      "id": 3685,
+      "id": 3947,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-3747",
+      "model": "American Standard HVAC-7763",
       "code": "P03",
       "name": "Compressor Fault",
       "description": "American Standard Compressor Fault - Technical issue in American Standard hvac systems",
@@ -119492,10 +119492,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -120992,10 +120992,10 @@
       }
     },
     {
-      "id": 3718,
+      "id": 3944,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-8698",
+      "model": "Norge WASHER-8530",
       "code": "E02",
       "name": "Control Board Error",
       "description": "Norge Control Board Error - Technical issue in Norge washer systems",
@@ -121011,11 +121011,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2024",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -121182,10 +121182,10 @@
       }
     },
     {
-      "id": 3934,
+      "id": 3945,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-8069",
+      "model": "Norge WASHER-9168",
       "code": "F02",
       "name": "Open Circuit",
       "description": "Norge Open Circuit - Technical issue in Norge washer systems",
@@ -121205,7 +121205,7 @@
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -123120,10 +123120,10 @@
       }
     },
     {
-      "id": 3776,
+      "id": 3946,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-8492",
+      "model": "Norge WASHER-5632",
       "code": "F07",
       "name": "Position Error",
       "description": "Norge Position Error - Technical issue in Norge washer systems",
@@ -123139,11 +123139,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -123234,10 +123234,10 @@
       }
     },
     {
-      "id": 3782,
+      "id": 3952,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-1205",
+      "model": "American Standard HVAC-2500",
       "code": "F02",
       "name": "Open Circuit",
       "description": "American Standard Open Circuit - Technical issue in American Standard hvac systems",
@@ -123253,11 +123253,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -125514,10 +125514,10 @@
       }
     },
     {
-      "id": 3838,
+      "id": 3941,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-2180",
+      "model": "Norge WASHER-7417",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Norge Calibration Error - Technical issue in Norge washer systems",
@@ -125533,11 +125533,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2022",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -125628,10 +125628,10 @@
       }
     },
     {
-      "id": 3933,
+      "id": 3940,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-4347",
+      "model": "Norge WASHER-8253",
       "code": "P04",
       "name": "Fan Fault",
       "description": "Norge Fan Fault - Technical issue in Norge washer systems",
@@ -125647,11 +125647,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -127794,10 +127794,10 @@
       }
     },
     {
-      "id": 3929,
+      "id": 3949,
       "brand": "American Standard",
       "category": "HVAC",
-      "model": "American Standard HVAC-2770",
+      "model": "American Standard HVAC-4834",
       "code": "E01",
       "name": "Power Supply Fault",
       "description": "American Standard Power Supply Fault - Technical issue in American Standard hvac systems",
@@ -127814,10 +127814,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "30 min",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "American Standard Corporation",
-        "yearIntroduced": "2017",
+        "yearIntroduced": "2018",
         "warranty": "1 year",
         "series": "Gold",
         "features": [
@@ -129086,10 +129086,10 @@
       }
     },
     {
-      "id": 3931,
+      "id": 3942,
       "brand": "Norge",
       "category": "Washer",
-      "model": "Norge WASHER-1097",
+      "model": "Norge WASHER-7043",
       "code": "C04",
       "name": "Checksum Error",
       "description": "Norge Checksum Error - Technical issue in Norge washer systems",
@@ -129105,11 +129105,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Norge Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Legacy",
         "features": [
@@ -129388,6 +129388,386 @@
         ],
         "voltage": "120V/240V"
       }
+    },
+    {
+      "id": 3943,
+      "brand": "Norge",
+      "category": "Washer",
+      "model": "Norge WASHER-1067",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "Norge Temperature Low - Technical issue in Norge washer systems",
+      "causes": [
+        "Norge component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Norge Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "Legacy",
+        "features": [
+          "Economy"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3950,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-5581",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "American Standard Temperature Low - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3953,
+      "brand": "American Standard",
+      "category": "HVAC",
+      "model": "American Standard HVAC-6204",
+      "code": "C03",
+      "name": "Parameter Error",
+      "description": "American Standard Parameter Error - Technical issue in American Standard hvac systems",
+      "causes": [
+        "American Standard component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "American Standard Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "Gold",
+        "features": [
+          "AccuLink"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3963,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-5115",
+      "code": "C01",
+      "name": "Calibration Error",
+      "description": " Haas Calibration Error - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3964,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-7884",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": " Haas Motor Failure - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2021",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3965,
+      "brand": " Haas",
+      "category": "CNC",
+      "model": " Haas CNC-6416",
+      "code": "L04",
+      "name": "Interlock Fault",
+      "description": " Haas Interlock Fault - Technical issue in  Haas cnc systems",
+      "causes": [
+        " Haas component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Haas Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "VF",
+        "features": [
+          "5-Axis"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3969,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-2444",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Fanuc Motor Failure - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3972,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1149",
+      "code": "L03",
+      "name": "Door Open",
+      "description": "Fanuc Door Open - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3973,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-2890",
+      "code": "C02",
+      "name": "Configuration Error",
+      "description": "Fanuc Configuration Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 3974,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-9146",
+      "code": "E09",
+      "name": "Level Sensor Fault",
+      "description": "Fanuc Level Sensor Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -129514,9 +129894,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 3938,
-    "lastUpdated": "2026-04-05",
+    "totalCodes": 3948,
+    "lastUpdated": "2026-04-06",
     "version": "4.0",
-    "dailyGenerated": 31
+    "dailyGenerated": 36
   }
 }
