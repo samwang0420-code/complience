@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code LE - Fix Guide',
-  description: 'Bosch Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

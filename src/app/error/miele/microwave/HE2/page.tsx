@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Microwave Error Code HE2 - Fix Guide',
-  description: 'Miele Microwave showing error code HE2? Complete troubleshooting guide.',
+  description: 'Miele Microwave showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

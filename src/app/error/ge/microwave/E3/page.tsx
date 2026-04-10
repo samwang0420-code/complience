@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code E3 - Fix Guide',
-  description: 'GE Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

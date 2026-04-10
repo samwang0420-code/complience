@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code PE - Fix Guide',
-  description: 'Siemens Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

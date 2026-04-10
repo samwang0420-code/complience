@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code IE - Fix Guide',
-  description: 'Sharp Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code DE - Fix Guide',
-  description: 'Zanussi Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

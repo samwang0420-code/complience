@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code TE - Fix Guide',
-  description: 'Siemens Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

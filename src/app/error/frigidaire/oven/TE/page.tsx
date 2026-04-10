@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Oven Error Code TE - Fix Guide',
-  description: 'Frigidaire Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Frigidaire Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

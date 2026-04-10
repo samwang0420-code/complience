@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code OE - Fix Guide',
-  description: 'Hisense Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

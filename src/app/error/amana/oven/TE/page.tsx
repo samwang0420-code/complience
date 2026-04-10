@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code TE - Fix Guide',
-  description: 'Amana Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

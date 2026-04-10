@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code E2 - Fix Guide',
-  description: 'Hitachi Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

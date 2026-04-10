@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code PF - Fix Guide',
-  description: 'Zanussi Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

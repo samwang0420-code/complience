@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code DE - Fix Guide',
-  description: 'Siemens Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

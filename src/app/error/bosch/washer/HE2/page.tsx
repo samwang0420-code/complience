@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code HE2 - Fix Guide',
-  description: 'Bosch Washer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

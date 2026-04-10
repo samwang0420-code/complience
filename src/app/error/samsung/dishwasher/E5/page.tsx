@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code E5 - Fix Guide',
-  description: 'Samsung Dishwasher showing error code E5? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

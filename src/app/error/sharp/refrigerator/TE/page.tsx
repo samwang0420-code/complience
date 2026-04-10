@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code TE - Fix Guide',
-  description: 'Sharp Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

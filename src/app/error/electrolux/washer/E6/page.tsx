@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code E6 - Fix Guide',
-  description: 'Electrolux Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

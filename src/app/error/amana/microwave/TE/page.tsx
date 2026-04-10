@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code TE - Fix Guide',
-  description: 'Amana Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

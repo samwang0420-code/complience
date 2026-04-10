@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Microwave Error Code E9 - Fix Guide',
-  description: 'Miele Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'Miele Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

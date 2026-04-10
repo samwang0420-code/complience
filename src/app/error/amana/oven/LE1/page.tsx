@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code LE1 - Fix Guide',
-  description: 'Amana Oven showing error code LE1? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code IE - Fix Guide',
-  description: 'AEG Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

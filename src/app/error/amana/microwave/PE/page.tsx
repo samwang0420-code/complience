@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code PE - Fix Guide',
-  description: 'Amana Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

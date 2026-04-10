@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code HE1 - Fix Guide',
-  description: 'Amana Microwave showing error code HE1? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

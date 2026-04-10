@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code E8 - Fix Guide',
-  description: 'Miele Dishwasher showing error code E8? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

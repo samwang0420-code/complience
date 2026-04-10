@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code PF - Fix Guide',
-  description: 'AEG Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

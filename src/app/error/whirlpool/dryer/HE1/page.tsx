@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dryer Error Code HE1 - Fix Guide',
-  description: 'Whirlpool Dryer showing error code HE1? Complete troubleshooting guide.',
+  description: 'Whirlpool Dryer showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

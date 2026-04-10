@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code E1 - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code E1? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

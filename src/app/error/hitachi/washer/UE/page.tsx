@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Washer Error Code UE - Fix Guide',
-  description: 'Hitachi Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Hitachi Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

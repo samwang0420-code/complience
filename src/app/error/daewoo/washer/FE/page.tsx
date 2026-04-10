@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code FE - Fix Guide',
-  description: 'Daewoo Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

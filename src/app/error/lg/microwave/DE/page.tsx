@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code DE - Fix Guide',
-  description: 'LG Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

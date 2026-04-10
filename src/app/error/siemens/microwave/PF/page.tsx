@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code PF - Fix Guide',
-  description: 'Siemens Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

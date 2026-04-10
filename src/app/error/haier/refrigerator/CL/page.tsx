@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code CL - Fix Guide',
-  description: 'Haier Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

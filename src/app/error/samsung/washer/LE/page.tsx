@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code LE - Fix Guide',
-  description: 'Samsung Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

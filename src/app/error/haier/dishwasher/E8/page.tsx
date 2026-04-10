@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code E8 - Fix Guide',
-  description: 'Haier Dishwasher showing error code E8? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

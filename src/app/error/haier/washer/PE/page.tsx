@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code PE - Fix Guide',
-  description: 'Haier Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

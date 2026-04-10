@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code LE - Fix Guide',
-  description: 'Toshiba Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

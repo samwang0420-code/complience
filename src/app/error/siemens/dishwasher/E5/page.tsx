@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code E5 - Fix Guide',
-  description: 'Siemens Dishwasher showing error code E5? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

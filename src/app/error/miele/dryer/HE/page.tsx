@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dryer Error Code HE - Fix Guide',
-  description: 'Miele Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Miele Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

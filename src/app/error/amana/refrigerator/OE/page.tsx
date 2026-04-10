@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code OE - Fix Guide',
-  description: 'Amana Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

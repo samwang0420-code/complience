@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code PF - Fix Guide',
-  description: 'Maytag Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

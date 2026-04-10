@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code E9 - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code E9? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

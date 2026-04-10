@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code LE - Fix Guide',
-  description: 'LG Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

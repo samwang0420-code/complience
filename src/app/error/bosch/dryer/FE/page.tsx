@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dryer Error Code FE - Fix Guide',
-  description: 'Bosch Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Bosch Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

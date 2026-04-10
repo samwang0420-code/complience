@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code E3 - Fix Guide',
-  description: 'Siemens Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

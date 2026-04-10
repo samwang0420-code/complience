@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code TE - Fix Guide',
-  description: 'Amana Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

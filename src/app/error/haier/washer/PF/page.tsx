@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code PF - Fix Guide',
-  description: 'Haier Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

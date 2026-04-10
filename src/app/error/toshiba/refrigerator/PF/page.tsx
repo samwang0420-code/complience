@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code PF - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

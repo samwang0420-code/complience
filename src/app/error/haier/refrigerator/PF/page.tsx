@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code PF - Fix Guide',
-  description: 'Haier Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

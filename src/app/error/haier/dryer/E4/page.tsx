@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code E4 - Fix Guide',
-  description: 'Haier Dryer showing error code E4? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

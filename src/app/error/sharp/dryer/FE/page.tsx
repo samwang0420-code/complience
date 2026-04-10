@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code FE - Fix Guide',
-  description: 'Sharp Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

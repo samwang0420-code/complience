@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code IE - Fix Guide',
-  description: 'AEG Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

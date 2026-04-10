@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Microwave Error Code DE - Fix Guide',
-  description: 'KitchenAid Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'KitchenAid Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

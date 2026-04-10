@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code LE - Fix Guide',
-  description: 'AEG Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code CL - Fix Guide',
-  description: 'AEG Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

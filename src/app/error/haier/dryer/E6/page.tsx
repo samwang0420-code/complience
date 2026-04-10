@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code E6 - Fix Guide',
-  description: 'Haier Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

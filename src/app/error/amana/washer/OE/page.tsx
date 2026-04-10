@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code OE - Fix Guide',
-  description: 'Amana Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

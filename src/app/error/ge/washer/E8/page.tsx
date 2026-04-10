@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code E8 - Fix Guide',
-  description: 'GE Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

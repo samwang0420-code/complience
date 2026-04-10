@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code E6 - Fix Guide',
-  description: 'Siemens Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code UE - Fix Guide',
-  description: 'Daewoo Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

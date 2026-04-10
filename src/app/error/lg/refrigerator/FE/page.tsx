@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code FE - Fix Guide',
-  description: 'LG Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

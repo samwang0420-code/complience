@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code HE - Fix Guide',
-  description: 'AEG Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

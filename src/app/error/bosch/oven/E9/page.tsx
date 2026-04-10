@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code E9 - Fix Guide',
-  description: 'Bosch Oven showing error code E9? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

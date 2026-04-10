@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code LE - Fix Guide',
-  description: 'Siemens Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

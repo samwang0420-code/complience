@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code PF - Fix Guide',
-  description: 'Siemens Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

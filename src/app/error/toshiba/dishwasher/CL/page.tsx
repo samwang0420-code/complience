@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dishwasher Error Code CL - Fix Guide',
-  description: 'Toshiba Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Toshiba Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

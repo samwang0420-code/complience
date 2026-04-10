@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code HE - Fix Guide',
-  description: 'GE Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

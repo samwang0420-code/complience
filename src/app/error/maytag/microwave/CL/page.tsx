@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code CL - Fix Guide',
-  description: 'Maytag Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

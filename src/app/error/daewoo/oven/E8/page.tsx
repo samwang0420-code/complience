@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code E8 - Fix Guide',
-  description: 'Daewoo Oven showing error code E8? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

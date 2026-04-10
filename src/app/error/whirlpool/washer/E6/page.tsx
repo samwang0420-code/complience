@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code E6 - Fix Guide',
-  description: 'Whirlpool Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

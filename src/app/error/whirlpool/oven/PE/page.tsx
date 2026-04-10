@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code PE - Fix Guide',
-  description: 'Whirlpool Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

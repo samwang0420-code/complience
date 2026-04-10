@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dryer Error Code FE - Fix Guide',
-  description: 'Toshiba Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Toshiba Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

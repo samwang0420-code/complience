@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code CL - Fix Guide',
-  description: 'KitchenAid Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

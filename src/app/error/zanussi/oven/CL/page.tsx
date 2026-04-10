@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code CL - Fix Guide',
-  description: 'Zanussi Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

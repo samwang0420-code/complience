@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code FE - Fix Guide',
-  description: 'Panasonic Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

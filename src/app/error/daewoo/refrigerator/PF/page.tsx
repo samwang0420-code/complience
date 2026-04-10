@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code PF - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

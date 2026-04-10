@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code PF - Fix Guide',
-  description: 'Bosch Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

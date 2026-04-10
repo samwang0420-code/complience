@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code OE - Fix Guide',
-  description: 'Zanussi Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

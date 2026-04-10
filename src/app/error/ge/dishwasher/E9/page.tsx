@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code E9 - Fix Guide',
-  description: 'GE Dishwasher showing error code E9? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

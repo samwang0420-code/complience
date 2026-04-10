@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code TE - Fix Guide',
-  description: 'Kenmore Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

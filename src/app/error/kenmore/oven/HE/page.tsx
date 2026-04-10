@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code HE - Fix Guide',
-  description: 'Kenmore Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

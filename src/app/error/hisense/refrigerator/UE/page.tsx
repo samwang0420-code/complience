@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code UE - Fix Guide',
-  description: 'Hisense Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

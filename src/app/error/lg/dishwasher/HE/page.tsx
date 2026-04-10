@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code HE - Fix Guide',
-  description: 'LG Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

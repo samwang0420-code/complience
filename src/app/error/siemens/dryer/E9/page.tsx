@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code E9 - Fix Guide',
-  description: 'Siemens Dryer showing error code E9? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

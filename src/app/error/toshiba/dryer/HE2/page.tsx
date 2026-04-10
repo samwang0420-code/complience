@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dryer Error Code HE2 - Fix Guide',
-  description: 'Toshiba Dryer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Toshiba Dryer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

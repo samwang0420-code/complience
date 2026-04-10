@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code DE - Fix Guide',
-  description: 'Maytag Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

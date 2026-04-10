@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code DE - Fix Guide',
-  description: 'Whirlpool Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

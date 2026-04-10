@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code PF - Fix Guide',
-  description: 'KitchenAid Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

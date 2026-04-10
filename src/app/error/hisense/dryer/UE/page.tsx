@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code UE - Fix Guide',
-  description: 'Hisense Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

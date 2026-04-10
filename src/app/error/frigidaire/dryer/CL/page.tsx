@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dryer Error Code CL - Fix Guide',
-  description: 'Frigidaire Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Frigidaire Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

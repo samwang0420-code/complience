@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code FE - Fix Guide',
-  description: 'Samsung Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code HE - Fix Guide',
-  description: 'Miele Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

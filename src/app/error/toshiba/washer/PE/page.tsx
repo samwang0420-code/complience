@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code PE - Fix Guide',
-  description: 'Toshiba Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

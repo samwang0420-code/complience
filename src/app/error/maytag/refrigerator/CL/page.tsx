@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code CL - Fix Guide',
-  description: 'Maytag Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

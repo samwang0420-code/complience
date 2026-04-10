@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code UE - Fix Guide',
-  description: 'Haier Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

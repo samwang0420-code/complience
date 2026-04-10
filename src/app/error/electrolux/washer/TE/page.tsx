@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code TE - Fix Guide',
-  description: 'Electrolux Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code E8 - Fix Guide',
-  description: 'Zanussi Dryer showing error code E8? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

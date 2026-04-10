@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code PF - Fix Guide',
-  description: 'Toshiba Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

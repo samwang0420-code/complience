@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code PF - Fix Guide',
-  description: 'LG Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

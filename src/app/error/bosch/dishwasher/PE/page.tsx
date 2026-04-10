@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code PE - Fix Guide',
-  description: 'Bosch Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

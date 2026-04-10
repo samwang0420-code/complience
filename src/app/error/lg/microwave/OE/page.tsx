@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code OE - Fix Guide',
-  description: 'LG Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

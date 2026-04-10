@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dishwasher Error Code HE2 - Fix Guide',
-  description: 'Amana Dishwasher showing error code HE2? Complete troubleshooting guide.',
+  description: 'Amana Dishwasher showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

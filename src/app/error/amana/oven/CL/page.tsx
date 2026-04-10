@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code CL - Fix Guide',
-  description: 'Amana Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

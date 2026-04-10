@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code IE - Fix Guide',
-  description: 'Electrolux Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

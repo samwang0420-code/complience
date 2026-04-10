@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code TE - Fix Guide',
-  description: 'Daewoo Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

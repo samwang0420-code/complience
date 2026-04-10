@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code HE - Fix Guide',
-  description: 'KitchenAid Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

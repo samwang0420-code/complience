@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code TE - Fix Guide',
-  description: 'Panasonic Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

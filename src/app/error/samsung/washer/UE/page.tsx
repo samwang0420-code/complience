@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code UE - Fix Guide',
-  description: 'Samsung Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

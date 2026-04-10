@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code LE - Fix Guide',
-  description: 'GE Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code UE - Fix Guide',
-  description: 'Sharp Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

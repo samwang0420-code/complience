@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code E4 - Fix Guide',
-  description: 'Amana Dryer showing error code E4? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

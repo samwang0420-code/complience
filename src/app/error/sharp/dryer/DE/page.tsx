@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code DE - Fix Guide',
-  description: 'Sharp Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

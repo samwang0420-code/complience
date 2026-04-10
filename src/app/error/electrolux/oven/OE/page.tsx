@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code OE - Fix Guide',
-  description: 'Electrolux Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

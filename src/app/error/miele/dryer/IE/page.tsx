@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dryer Error Code IE - Fix Guide',
-  description: 'Miele Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Miele Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

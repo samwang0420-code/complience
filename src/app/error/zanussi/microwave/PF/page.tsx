@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code PF - Fix Guide',
-  description: 'Zanussi Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

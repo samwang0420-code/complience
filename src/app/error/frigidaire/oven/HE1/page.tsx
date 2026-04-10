@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Oven Error Code HE1 - Fix Guide',
-  description: 'Frigidaire Oven showing error code HE1? Complete troubleshooting guide.',
+  description: 'Frigidaire Oven showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Oven Error Code IE - Fix Guide',
-  description: 'LG Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'LG Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

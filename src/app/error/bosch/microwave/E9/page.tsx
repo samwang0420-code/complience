@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code E9 - Fix Guide',
-  description: 'Bosch Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code PE - Fix Guide',
-  description: 'Electrolux Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

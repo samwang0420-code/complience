@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code HE - Fix Guide',
-  description: 'Maytag Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

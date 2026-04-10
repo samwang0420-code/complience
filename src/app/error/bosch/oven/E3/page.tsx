@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code E3 - Fix Guide',
-  description: 'Bosch Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

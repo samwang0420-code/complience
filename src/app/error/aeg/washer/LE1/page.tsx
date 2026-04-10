@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code LE1 - Fix Guide',
-  description: 'AEG Washer showing error code LE1? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

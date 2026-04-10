@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code IE - Fix Guide',
-  description: 'Maytag Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code UE - Fix Guide',
-  description: 'AEG Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

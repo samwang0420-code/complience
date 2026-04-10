@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code E6 - Fix Guide',
-  description: 'LG Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

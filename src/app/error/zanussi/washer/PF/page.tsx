@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code PF - Fix Guide',
-  description: 'Zanussi Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

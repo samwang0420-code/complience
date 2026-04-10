@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code FE - Fix Guide',
-  description: 'Hisense Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

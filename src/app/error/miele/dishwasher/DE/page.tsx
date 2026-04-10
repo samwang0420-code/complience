@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code DE - Fix Guide',
-  description: 'Miele Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

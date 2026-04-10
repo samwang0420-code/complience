@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code E4 - Fix Guide',
-  description: 'Kenmore Dryer showing error code E4? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

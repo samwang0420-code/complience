@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code HE - Fix Guide',
-  description: 'AEG Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

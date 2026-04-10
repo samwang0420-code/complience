@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code PF - Fix Guide',
-  description: 'Daewoo Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

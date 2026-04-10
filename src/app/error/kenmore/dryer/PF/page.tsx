@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code PF - Fix Guide',
-  description: 'Kenmore Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

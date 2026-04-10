@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code IE - Fix Guide',
-  description: 'Daewoo Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

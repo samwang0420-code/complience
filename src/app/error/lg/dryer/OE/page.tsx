@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code OE - Fix Guide',
-  description: 'LG Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code E1 - Fix Guide',
-  description: 'Miele Washer showing error code E1? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

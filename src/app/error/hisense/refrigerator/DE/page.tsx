@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code DE - Fix Guide',
-  description: 'Hisense Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code TE - Fix Guide',
-  description: 'Electrolux Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

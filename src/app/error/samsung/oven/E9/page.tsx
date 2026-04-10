@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code E9 - Fix Guide',
-  description: 'Samsung Oven showing error code E9? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

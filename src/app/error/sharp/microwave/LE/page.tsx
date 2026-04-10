@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code LE - Fix Guide',
-  description: 'Sharp Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

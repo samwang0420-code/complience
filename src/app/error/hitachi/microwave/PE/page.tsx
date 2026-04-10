@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code PE - Fix Guide',
-  description: 'Hitachi Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

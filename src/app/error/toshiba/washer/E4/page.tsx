@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code E4 - Fix Guide',
-  description: 'Toshiba Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

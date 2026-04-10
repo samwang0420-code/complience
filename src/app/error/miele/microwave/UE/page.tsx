@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Microwave Error Code UE - Fix Guide',
-  description: 'Miele Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Miele Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

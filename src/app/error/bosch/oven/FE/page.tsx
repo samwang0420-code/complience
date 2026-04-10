@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code FE - Fix Guide',
-  description: 'Bosch Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Microwave Error Code LE1 - Fix Guide',
-  description: 'KitchenAid Microwave showing error code LE1? Complete troubleshooting guide.',
+  description: 'KitchenAid Microwave showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

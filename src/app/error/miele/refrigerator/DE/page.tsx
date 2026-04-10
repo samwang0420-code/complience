@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Refrigerator Error Code DE - Fix Guide',
-  description: 'Miele Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Miele Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

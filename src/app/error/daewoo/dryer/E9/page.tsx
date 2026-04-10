@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code E9 - Fix Guide',
-  description: 'Daewoo Dryer showing error code E9? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

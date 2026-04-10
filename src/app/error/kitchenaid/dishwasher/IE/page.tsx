@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code IE - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code TE - Fix Guide',
-  description: 'Sharp Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

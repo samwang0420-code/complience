@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code HE2 - Fix Guide',
-  description: 'Sharp Oven showing error code HE2? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code IE - Fix Guide',
-  description: 'Daewoo Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code HE - Fix Guide',
-  description: 'Amana Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

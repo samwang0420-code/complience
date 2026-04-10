@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code UE - Fix Guide',
-  description: 'Siemens Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

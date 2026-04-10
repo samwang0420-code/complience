@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code OE - Fix Guide',
-  description: 'Haier Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

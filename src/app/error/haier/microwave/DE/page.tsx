@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code DE - Fix Guide',
-  description: 'Haier Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

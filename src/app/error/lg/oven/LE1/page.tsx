@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Oven Error Code LE1 - Fix Guide',
-  description: 'LG Oven showing error code LE1? Complete troubleshooting guide.',
+  description: 'LG Oven showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code HE - Fix Guide',
-  description: 'Daewoo Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

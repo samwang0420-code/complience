@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code PE - Fix Guide',
-  description: 'Electrolux Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

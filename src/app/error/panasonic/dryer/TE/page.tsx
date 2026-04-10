@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dryer Error Code TE - Fix Guide',
-  description: 'Panasonic Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Panasonic Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

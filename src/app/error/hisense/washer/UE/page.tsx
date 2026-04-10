@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code UE - Fix Guide',
-  description: 'Hisense Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

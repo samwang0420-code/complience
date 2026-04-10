@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code E2 - Fix Guide',
-  description: 'Maytag Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

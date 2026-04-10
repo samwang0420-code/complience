@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code IE - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

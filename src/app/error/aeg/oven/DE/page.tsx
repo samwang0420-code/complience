@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code DE - Fix Guide',
-  description: 'AEG Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

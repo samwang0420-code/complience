@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code IE - Fix Guide',
-  description: 'Panasonic Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code E9 - Fix Guide',
-  description: 'GE Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

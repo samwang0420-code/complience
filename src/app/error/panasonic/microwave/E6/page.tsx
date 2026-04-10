@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code E6 - Fix Guide',
-  description: 'Panasonic Microwave showing error code E6? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

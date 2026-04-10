@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Washer Error Code E3 - Fix Guide',
-  description: 'Hitachi Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'Hitachi Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

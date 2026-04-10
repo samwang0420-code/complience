@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code PE - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

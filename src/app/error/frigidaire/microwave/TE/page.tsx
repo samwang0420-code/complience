@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code TE - Fix Guide',
-  description: 'Frigidaire Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code HE2 - Fix Guide',
-  description: 'Siemens Washer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

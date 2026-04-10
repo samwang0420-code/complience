@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code E8 - Fix Guide',
-  description: 'Panasonic Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

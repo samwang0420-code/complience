@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code E4 - Fix Guide',
-  description: 'Miele Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

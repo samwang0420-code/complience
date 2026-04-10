@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code HE1 - Fix Guide',
-  description: 'GE Refrigerator showing error code HE1? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

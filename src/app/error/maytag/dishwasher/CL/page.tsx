@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code CL - Fix Guide',
-  description: 'Maytag Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

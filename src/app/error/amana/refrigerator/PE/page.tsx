@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code PE - Fix Guide',
-  description: 'Amana Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

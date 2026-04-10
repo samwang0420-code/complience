@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code CL - Fix Guide',
-  description: 'Whirlpool Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

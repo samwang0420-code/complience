@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code IE - Fix Guide',
-  description: 'GE Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

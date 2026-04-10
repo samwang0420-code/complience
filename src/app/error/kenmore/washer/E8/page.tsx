@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code E8 - Fix Guide',
-  description: 'Kenmore Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

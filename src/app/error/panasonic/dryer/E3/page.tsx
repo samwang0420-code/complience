@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dryer Error Code E3 - Fix Guide',
-  description: 'Panasonic Dryer showing error code E3? Complete troubleshooting guide.',
+  description: 'Panasonic Dryer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

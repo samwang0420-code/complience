@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code CL - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

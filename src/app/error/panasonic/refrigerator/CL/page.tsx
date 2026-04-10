@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code CL - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

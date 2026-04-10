@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dishwasher Error Code DE - Fix Guide',
-  description: 'Amana Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Amana Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

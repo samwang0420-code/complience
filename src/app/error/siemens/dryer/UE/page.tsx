@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code UE - Fix Guide',
-  description: 'Siemens Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

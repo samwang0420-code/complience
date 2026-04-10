@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code CL - Fix Guide',
-  description: 'Sharp Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

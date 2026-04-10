@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code OE - Fix Guide',
-  description: 'AEG Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

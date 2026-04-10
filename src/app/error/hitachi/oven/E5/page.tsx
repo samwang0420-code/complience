@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code E5 - Fix Guide',
-  description: 'Hitachi Oven showing error code E5? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

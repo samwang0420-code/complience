@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code LE1 - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code LE1? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

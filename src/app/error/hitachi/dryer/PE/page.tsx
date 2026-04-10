@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code PE - Fix Guide',
-  description: 'Hitachi Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code TE - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

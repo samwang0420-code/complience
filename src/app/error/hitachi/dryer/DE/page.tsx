@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code DE - Fix Guide',
-  description: 'Hitachi Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

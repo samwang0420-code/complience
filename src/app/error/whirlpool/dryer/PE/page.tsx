@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dryer Error Code PE - Fix Guide',
-  description: 'Whirlpool Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

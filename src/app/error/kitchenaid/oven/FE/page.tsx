@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code FE - Fix Guide',
-  description: 'KitchenAid Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

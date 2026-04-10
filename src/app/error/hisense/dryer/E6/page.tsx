@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code E6 - Fix Guide',
-  description: 'Hisense Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

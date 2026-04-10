@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code FE - Fix Guide',
-  description: 'Daewoo Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

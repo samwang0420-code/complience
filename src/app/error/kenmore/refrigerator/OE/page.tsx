@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code OE - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

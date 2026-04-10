@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code FE - Fix Guide',
-  description: 'AEG Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

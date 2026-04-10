@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code UE - Fix Guide',
-  description: 'Electrolux Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

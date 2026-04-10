@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code E3 - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

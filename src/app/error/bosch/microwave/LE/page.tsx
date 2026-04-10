@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code LE - Fix Guide',
-  description: 'Bosch Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

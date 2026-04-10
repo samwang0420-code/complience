@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code PE - Fix Guide',
-  description: 'Sharp Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code TE - Fix Guide',
-  description: 'Bosch Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

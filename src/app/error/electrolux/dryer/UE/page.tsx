@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code UE - Fix Guide',
-  description: 'Electrolux Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Refrigerator Error Code FE - Fix Guide',
-  description: 'Miele Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Miele Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

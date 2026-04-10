@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code CL - Fix Guide',
-  description: 'Whirlpool Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

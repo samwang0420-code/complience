@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code UE - Fix Guide',
-  description: 'Toshiba Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

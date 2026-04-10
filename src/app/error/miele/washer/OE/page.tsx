@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code OE - Fix Guide',
-  description: 'Miele Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

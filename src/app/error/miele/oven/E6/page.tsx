@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code E6 - Fix Guide',
-  description: 'Miele Oven showing error code E6? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

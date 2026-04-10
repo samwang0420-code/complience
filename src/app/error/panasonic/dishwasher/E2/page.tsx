@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code E2 - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code E2? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

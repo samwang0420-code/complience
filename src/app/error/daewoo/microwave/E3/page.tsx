@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code E3 - Fix Guide',
-  description: 'Daewoo Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

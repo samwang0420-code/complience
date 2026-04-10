@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code OE - Fix Guide',
-  description: 'Hisense Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

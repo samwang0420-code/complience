@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code CL - Fix Guide',
-  description: 'Hisense Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

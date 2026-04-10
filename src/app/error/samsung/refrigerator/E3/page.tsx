@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Refrigerator Error Code E3 - Fix Guide',
-  description: 'Samsung Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Samsung Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

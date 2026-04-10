@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code E3 - Fix Guide',
-  description: 'Maytag Dishwasher showing error code E3? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

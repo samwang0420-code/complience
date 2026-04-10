@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code PE - Fix Guide',
-  description: 'Daewoo Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code IE - Fix Guide',
-  description: 'Daewoo Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

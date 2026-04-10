@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code OE - Fix Guide',
-  description: 'Siemens Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

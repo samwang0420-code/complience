@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code CL - Fix Guide',
-  description: 'Kenmore Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

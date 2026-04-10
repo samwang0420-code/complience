@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code OE - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

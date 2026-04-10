@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code CL - Fix Guide',
-  description: 'AEG Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

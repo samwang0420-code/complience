@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code PF - Fix Guide',
-  description: 'Amana Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

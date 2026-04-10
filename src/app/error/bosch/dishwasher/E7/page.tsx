@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code E7 - Fix Guide',
-  description: 'Bosch Dishwasher showing error code E7? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

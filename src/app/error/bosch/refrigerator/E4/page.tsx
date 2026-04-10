@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code E4 - Fix Guide',
-  description: 'Bosch Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

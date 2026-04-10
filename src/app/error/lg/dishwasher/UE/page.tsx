@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code UE - Fix Guide',
-  description: 'LG Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

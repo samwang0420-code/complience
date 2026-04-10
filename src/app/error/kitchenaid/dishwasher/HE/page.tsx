@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code HE - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

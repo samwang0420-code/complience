@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code E5 - Fix Guide',
-  description: 'Bosch Dishwasher showing error code E5? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

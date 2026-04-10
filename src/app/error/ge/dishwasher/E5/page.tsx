@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code E5 - Fix Guide',
-  description: 'GE Dishwasher showing error code E5? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

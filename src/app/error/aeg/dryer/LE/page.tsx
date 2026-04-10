@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code LE - Fix Guide',
-  description: 'AEG Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

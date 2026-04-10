@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code E6 - Fix Guide',
-  description: 'Haier Refrigerator showing error code E6? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

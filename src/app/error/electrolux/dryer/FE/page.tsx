@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code FE - Fix Guide',
-  description: 'Electrolux Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

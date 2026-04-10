@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code E7 - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code E7? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

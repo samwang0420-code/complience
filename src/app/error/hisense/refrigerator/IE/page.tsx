@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code IE - Fix Guide',
-  description: 'Hisense Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

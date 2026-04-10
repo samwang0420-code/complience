@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code E2 - Fix Guide',
-  description: 'Maytag Refrigerator showing error code E2? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

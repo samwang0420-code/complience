@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code TE - Fix Guide',
-  description: 'Hitachi Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

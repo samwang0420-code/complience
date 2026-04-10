@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code E3 - Fix Guide',
-  description: 'Frigidaire Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

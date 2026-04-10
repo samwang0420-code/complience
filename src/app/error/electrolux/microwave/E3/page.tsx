@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code E3 - Fix Guide',
-  description: 'Electrolux Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

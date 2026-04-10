@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code E7 - Fix Guide',
-  description: 'Daewoo Oven showing error code E7? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

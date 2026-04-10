@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code IE - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

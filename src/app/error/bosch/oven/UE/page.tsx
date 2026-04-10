@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code UE - Fix Guide',
-  description: 'Bosch Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

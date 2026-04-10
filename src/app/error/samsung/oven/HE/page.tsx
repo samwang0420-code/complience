@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code HE - Fix Guide',
-  description: 'Samsung Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

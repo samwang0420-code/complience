@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code HE - Fix Guide',
-  description: 'Bosch Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

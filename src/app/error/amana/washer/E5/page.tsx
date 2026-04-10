@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code E5 - Fix Guide',
-  description: 'Amana Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

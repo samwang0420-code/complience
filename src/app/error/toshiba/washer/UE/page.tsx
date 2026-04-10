@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code UE - Fix Guide',
-  description: 'Toshiba Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

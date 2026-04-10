@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code HE - Fix Guide',
-  description: 'Amana Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

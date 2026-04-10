@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code CL - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

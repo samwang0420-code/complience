@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code E2 - Fix Guide',
-  description: 'Daewoo Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

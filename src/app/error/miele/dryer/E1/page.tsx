@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dryer Error Code E1 - Fix Guide',
-  description: 'Miele Dryer showing error code E1? Complete troubleshooting guide.',
+  description: 'Miele Dryer showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

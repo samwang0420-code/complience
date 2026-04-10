@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code PE - Fix Guide',
-  description: 'LG Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

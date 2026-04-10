@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code HE2 - Fix Guide',
-  description: 'Amana Oven showing error code HE2? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

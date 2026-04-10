@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code CL - Fix Guide',
-  description: 'Hisense Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

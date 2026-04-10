@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code PE - Fix Guide',
-  description: 'AEG Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code HE2 - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code HE2? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

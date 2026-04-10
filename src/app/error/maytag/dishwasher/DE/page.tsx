@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code DE - Fix Guide',
-  description: 'Maytag Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

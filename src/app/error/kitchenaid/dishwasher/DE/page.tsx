@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code DE - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code UE - Fix Guide',
-  description: 'Siemens Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

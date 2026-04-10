@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code PF - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

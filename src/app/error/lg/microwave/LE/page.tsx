@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code LE - Fix Guide',
-  description: 'LG Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

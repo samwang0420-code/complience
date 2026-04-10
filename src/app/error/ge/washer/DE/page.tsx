@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code DE - Fix Guide',
-  description: 'GE Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

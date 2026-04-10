@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code OE - Fix Guide',
-  description: 'Samsung Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

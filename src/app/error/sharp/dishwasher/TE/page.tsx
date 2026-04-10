@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code TE - Fix Guide',
-  description: 'Sharp Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

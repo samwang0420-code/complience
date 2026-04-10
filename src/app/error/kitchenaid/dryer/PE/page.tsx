@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code PE - Fix Guide',
-  description: 'KitchenAid Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

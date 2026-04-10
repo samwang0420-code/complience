@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code E3 - Fix Guide',
-  description: 'Haier Dishwasher showing error code E3? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

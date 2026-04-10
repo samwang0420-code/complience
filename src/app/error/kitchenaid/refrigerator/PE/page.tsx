@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Refrigerator Error Code PE - Fix Guide',
-  description: 'KitchenAid Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'KitchenAid Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

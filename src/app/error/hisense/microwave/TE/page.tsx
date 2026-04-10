@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code TE - Fix Guide',
-  description: 'Hisense Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

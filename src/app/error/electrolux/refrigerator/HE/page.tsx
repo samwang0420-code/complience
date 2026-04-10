@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code HE - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

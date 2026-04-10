@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code PF - Fix Guide',
-  description: 'LG Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

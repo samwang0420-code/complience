@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code E2 - Fix Guide',
-  description: 'Panasonic Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

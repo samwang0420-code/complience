@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dryer Error Code UE - Fix Guide',
-  description: 'Miele Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Miele Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dishwasher Error Code IE - Fix Guide',
-  description: 'Amana Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Amana Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

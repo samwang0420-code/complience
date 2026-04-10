@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code E1 - Fix Guide',
-  description: 'Haier Dryer showing error code E1? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

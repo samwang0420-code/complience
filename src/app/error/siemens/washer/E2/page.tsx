@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code E2 - Fix Guide',
-  description: 'Siemens Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

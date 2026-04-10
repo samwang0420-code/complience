@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code E5 - Fix Guide',
-  description: 'Electrolux Dryer showing error code E5? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

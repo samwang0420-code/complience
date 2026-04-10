@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code DE - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

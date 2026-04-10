@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code E5 - Fix Guide',
-  description: 'Amana Oven showing error code E5? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

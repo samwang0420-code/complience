@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code E4 - Fix Guide',
-  description: 'GE Microwave showing error code E4? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

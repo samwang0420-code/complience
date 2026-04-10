@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code PF - Fix Guide',
-  description: 'Amana Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

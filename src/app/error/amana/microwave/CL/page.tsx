@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code CL - Fix Guide',
-  description: 'Amana Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

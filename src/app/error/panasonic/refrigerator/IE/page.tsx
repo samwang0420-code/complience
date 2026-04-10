@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code IE - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

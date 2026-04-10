@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code HE2 - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code HE2? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

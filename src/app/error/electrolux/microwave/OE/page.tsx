@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code OE - Fix Guide',
-  description: 'Electrolux Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code LE1 - Fix Guide',
-  description: 'LG Washer showing error code LE1? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

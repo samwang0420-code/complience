@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code PF - Fix Guide',
-  description: 'Sharp Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code E3 - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

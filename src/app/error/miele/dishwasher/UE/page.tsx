@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code UE - Fix Guide',
-  description: 'Miele Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

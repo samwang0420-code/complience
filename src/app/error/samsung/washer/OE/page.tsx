@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code OE - Fix Guide',
-  description: 'Samsung Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

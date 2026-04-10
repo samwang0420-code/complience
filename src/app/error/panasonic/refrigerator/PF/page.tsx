@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code PF - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

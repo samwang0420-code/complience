@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code CL - Fix Guide',
-  description: 'AEG Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

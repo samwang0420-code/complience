@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Oven Error Code OE - Fix Guide',
-  description: 'Haier Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Haier Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

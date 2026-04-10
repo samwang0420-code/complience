@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code LE - Fix Guide',
-  description: 'KitchenAid Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

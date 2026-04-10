@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Oven Error Code DE - Fix Guide',
-  description: 'Panasonic Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Panasonic Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code IE - Fix Guide',
-  description: 'KitchenAid Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

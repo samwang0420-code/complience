@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code PE - Fix Guide',
-  description: 'Siemens Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

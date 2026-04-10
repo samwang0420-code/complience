@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code PE - Fix Guide',
-  description: 'GE Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

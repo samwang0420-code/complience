@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code E5 - Fix Guide',
-  description: 'Frigidaire Microwave showing error code E5? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

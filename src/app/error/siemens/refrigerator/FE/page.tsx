@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code FE - Fix Guide',
-  description: 'Siemens Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

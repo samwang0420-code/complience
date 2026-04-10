@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code LE - Fix Guide',
-  description: 'Maytag Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

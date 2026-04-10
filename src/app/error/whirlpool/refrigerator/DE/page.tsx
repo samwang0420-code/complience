@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code DE - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

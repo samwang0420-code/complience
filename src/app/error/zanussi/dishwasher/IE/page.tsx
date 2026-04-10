@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code IE - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code OE - Fix Guide',
-  description: 'AEG Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

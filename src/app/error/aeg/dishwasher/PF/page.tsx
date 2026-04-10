@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code PF - Fix Guide',
-  description: 'AEG Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

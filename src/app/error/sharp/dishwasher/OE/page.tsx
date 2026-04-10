@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code OE - Fix Guide',
-  description: 'Sharp Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

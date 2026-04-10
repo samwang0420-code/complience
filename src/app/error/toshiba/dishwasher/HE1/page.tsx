@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dishwasher Error Code HE1 - Fix Guide',
-  description: 'Toshiba Dishwasher showing error code HE1? Complete troubleshooting guide.',
+  description: 'Toshiba Dishwasher showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

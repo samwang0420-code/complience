@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code HE2 - Fix Guide',
-  description: 'Maytag Washer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code OE - Fix Guide',
-  description: 'AEG Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

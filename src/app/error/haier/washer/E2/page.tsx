@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code E2 - Fix Guide',
-  description: 'Haier Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

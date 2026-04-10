@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code OE - Fix Guide',
-  description: 'Siemens Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

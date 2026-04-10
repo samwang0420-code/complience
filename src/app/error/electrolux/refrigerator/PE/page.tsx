@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code PE - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

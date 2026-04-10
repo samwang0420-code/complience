@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code TE - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

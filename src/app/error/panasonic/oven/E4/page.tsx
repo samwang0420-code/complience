@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Oven Error Code E4 - Fix Guide',
-  description: 'Panasonic Oven showing error code E4? Complete troubleshooting guide.',
+  description: 'Panasonic Oven showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

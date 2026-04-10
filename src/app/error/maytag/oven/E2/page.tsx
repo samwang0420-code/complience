@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code E2 - Fix Guide',
-  description: 'Maytag Oven showing error code E2? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

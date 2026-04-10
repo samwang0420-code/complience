@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code E2 - Fix Guide',
-  description: 'GE Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

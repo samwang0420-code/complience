@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code E2 - Fix Guide',
-  description: 'Frigidaire Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

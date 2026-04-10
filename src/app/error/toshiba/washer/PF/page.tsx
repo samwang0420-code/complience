@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code PF - Fix Guide',
-  description: 'Toshiba Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code IE - Fix Guide',
-  description: 'LG Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

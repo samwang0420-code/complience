@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code HE1 - Fix Guide',
-  description: 'Samsung Dishwasher showing error code HE1? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

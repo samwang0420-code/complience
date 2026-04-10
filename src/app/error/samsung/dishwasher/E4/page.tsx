@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code E4 - Fix Guide',
-  description: 'Samsung Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

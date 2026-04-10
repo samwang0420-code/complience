@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code UE - Fix Guide',
-  description: 'Kenmore Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

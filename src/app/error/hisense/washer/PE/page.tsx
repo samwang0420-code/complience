@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code PE - Fix Guide',
-  description: 'Hisense Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

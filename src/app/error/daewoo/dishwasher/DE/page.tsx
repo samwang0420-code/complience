@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code DE - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

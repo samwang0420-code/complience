@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code E4 - Fix Guide',
-  description: 'Miele Oven showing error code E4? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

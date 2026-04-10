@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code LE1 - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code LE1? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

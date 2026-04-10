@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code E3 - Fix Guide',
-  description: 'Sharp Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

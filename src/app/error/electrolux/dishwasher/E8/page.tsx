@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code E8 - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code E8? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

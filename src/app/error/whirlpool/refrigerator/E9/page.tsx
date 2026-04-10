@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code E9 - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code E9? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

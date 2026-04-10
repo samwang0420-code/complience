@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code UE - Fix Guide',
-  description: 'Bosch Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

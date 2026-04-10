@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code HE - Fix Guide',
-  description: 'Hitachi Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

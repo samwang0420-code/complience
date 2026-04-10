@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code OE - Fix Guide',
-  description: 'Whirlpool Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

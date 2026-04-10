@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code DE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code PE - Fix Guide',
-  description: 'GE Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

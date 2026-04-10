@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code FE - Fix Guide',
-  description: 'Daewoo Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

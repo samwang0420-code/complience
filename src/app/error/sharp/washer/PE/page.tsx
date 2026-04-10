@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code PE - Fix Guide',
-  description: 'Sharp Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

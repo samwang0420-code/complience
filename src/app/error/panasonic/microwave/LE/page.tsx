@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code LE - Fix Guide',
-  description: 'Panasonic Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

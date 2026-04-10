@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code CL - Fix Guide',
-  description: 'Hisense Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

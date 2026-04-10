@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code OE - Fix Guide',
-  description: 'Kenmore Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

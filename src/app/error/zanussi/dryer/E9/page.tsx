@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code E9 - Fix Guide',
-  description: 'Zanussi Dryer showing error code E9? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

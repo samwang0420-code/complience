@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code IE - Fix Guide',
-  description: 'LG Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

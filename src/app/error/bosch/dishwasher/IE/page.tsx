@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code IE - Fix Guide',
-  description: 'Bosch Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

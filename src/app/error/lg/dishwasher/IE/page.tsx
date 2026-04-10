@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code IE - Fix Guide',
-  description: 'LG Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

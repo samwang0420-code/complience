@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code DE - Fix Guide',
-  description: 'Hitachi Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

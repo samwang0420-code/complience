@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code E9 - Fix Guide',
-  description: 'Kenmore Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

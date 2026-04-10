@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code E3 - Fix Guide',
-  description: 'Zanussi Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code UE - Fix Guide',
-  description: 'Daewoo Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

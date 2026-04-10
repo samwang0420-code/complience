@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code E5 - Fix Guide',
-  description: 'Electrolux Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

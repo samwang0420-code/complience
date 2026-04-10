@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code PE - Fix Guide',
-  description: 'AEG Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code E3 - Fix Guide',
-  description: 'Sharp Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

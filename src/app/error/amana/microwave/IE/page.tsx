@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code IE - Fix Guide',
-  description: 'Amana Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

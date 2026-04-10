@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code HE - Fix Guide',
-  description: 'Miele Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

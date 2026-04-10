@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code UE - Fix Guide',
-  description: 'Maytag Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

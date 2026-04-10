@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code HE - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

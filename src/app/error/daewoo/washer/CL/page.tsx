@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code CL - Fix Guide',
-  description: 'Daewoo Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code LE1 - Fix Guide',
-  description: 'Haier Dishwasher showing error code LE1? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

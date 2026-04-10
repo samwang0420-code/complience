@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code PE - Fix Guide',
-  description: 'Siemens Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

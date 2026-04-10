@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code OE - Fix Guide',
-  description: 'Maytag Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

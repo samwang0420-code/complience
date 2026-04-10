@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code CL - Fix Guide',
-  description: 'Hisense Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

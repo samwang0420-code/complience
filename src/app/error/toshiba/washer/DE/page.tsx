@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code DE - Fix Guide',
-  description: 'Toshiba Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

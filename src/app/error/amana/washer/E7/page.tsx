@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code E7 - Fix Guide',
-  description: 'Amana Washer showing error code E7? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code LE - Fix Guide',
-  description: 'Amana Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code UE - Fix Guide',
-  description: 'GE Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

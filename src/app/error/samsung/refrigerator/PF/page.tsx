@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Refrigerator Error Code PF - Fix Guide',
-  description: 'Samsung Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Samsung Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code E5 - Fix Guide',
-  description: 'AEG Refrigerator showing error code E5? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

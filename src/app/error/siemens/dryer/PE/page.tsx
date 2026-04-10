@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code PE - Fix Guide',
-  description: 'Siemens Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

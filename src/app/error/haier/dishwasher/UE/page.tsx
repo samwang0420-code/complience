@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code UE - Fix Guide',
-  description: 'Haier Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

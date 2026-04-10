@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code E6 - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code E6? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

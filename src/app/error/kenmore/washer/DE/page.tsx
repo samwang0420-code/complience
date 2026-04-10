@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code DE - Fix Guide',
-  description: 'Kenmore Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

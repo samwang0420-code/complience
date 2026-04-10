@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Microwave Error Code PE - Fix Guide',
-  description: 'KitchenAid Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'KitchenAid Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

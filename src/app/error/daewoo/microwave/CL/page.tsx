@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code CL - Fix Guide',
-  description: 'Daewoo Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

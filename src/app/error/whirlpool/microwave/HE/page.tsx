@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code HE - Fix Guide',
-  description: 'Whirlpool Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

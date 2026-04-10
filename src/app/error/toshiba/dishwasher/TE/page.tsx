@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dishwasher Error Code TE - Fix Guide',
-  description: 'Toshiba Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Toshiba Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

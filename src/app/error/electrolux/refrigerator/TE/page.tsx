@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code TE - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

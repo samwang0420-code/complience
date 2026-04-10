@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code E5 - Fix Guide',
-  description: 'LG Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

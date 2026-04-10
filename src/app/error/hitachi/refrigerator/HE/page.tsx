@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code HE - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

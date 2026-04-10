@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code FE - Fix Guide',
-  description: 'Daewoo Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

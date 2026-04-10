@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code OE - Fix Guide',
-  description: 'Hitachi Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

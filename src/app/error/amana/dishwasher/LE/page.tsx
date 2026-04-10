@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dishwasher Error Code LE - Fix Guide',
-  description: 'Amana Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Amana Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

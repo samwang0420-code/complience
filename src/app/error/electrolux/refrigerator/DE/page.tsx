@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code DE - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

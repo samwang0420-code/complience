@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code DE - Fix Guide',
-  description: 'Zanussi Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

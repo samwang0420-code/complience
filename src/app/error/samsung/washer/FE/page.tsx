@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code FE - Fix Guide',
-  description: 'Samsung Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

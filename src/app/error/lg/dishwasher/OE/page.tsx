@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code OE - Fix Guide',
-  description: 'LG Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

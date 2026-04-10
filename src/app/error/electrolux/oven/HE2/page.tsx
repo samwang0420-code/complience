@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code HE2 - Fix Guide',
-  description: 'Electrolux Oven showing error code HE2? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

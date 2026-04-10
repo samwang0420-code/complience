@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Microwave Error Code E6 - Fix Guide',
-  description: 'Miele Microwave showing error code E6? Complete troubleshooting guide.',
+  description: 'Miele Microwave showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

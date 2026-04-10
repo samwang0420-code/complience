@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Oven Error Code UE - Fix Guide',
-  description: 'Panasonic Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Panasonic Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

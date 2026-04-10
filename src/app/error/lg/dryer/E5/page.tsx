@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code E5 - Fix Guide',
-  description: 'LG Dryer showing error code E5? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Microwave Error Code HE1 - Fix Guide',
-  description: 'KitchenAid Microwave showing error code HE1? Complete troubleshooting guide.',
+  description: 'KitchenAid Microwave showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

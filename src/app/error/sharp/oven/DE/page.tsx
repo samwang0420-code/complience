@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code DE - Fix Guide',
-  description: 'Sharp Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

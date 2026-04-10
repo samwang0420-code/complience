@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code DE - Fix Guide',
-  description: 'AEG Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

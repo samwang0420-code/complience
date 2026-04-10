@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code LE1 - Fix Guide',
-  description: 'Siemens Microwave showing error code LE1? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

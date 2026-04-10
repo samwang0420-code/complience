@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code HE - Fix Guide',
-  description: 'Whirlpool Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

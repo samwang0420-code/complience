@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code PF - Fix Guide',
-  description: 'Maytag Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

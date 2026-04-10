@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code TE - Fix Guide',
-  description: 'Siemens Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

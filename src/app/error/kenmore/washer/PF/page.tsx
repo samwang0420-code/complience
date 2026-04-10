@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code PF - Fix Guide',
-  description: 'Kenmore Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

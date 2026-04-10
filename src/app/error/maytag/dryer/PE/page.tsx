@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code PE - Fix Guide',
-  description: 'Maytag Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

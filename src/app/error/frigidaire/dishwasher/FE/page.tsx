@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code FE - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code FE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

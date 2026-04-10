@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code E8 - Fix Guide',
-  description: 'Hisense Oven showing error code E8? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

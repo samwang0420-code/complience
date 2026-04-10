@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code FE - Fix Guide',
-  description: 'Miele Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

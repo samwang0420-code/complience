@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code OE - Fix Guide',
-  description: 'Hitachi Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

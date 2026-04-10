@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code E6 - Fix Guide',
-  description: 'LG Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

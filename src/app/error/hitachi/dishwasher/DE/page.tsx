@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code DE - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

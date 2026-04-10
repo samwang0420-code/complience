@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code UE - Fix Guide',
-  description: 'Maytag Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

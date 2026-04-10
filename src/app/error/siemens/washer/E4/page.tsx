@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code E4 - Fix Guide',
-  description: 'Siemens Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

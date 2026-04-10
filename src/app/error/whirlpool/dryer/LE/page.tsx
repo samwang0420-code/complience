@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dryer Error Code LE - Fix Guide',
-  description: 'Whirlpool Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

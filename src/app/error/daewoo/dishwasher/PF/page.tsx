@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code PF - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

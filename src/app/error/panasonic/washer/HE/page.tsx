@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code HE - Fix Guide',
-  description: 'Panasonic Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

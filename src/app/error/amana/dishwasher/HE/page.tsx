@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dishwasher Error Code HE - Fix Guide',
-  description: 'Amana Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Amana Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

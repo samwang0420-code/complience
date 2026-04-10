@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code HE - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

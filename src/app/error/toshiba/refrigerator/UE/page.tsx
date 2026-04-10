@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code UE - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

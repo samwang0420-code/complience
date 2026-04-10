@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code IE - Fix Guide',
-  description: 'Hisense Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

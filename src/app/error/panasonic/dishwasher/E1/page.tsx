@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code E1 - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code E1? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

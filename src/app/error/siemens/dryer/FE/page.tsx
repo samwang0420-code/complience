@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code FE - Fix Guide',
-  description: 'Siemens Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

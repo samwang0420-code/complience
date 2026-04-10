@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code UE - Fix Guide',
-  description: 'Hitachi Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code IE - Fix Guide',
-  description: 'Whirlpool Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code PF - Fix Guide',
-  description: 'Amana Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

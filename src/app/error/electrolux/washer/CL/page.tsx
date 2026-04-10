@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code CL - Fix Guide',
-  description: 'Electrolux Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

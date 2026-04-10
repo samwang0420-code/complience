@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code DE - Fix Guide',
-  description: 'Bosch Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

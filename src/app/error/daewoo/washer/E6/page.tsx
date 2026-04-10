@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code E6 - Fix Guide',
-  description: 'Daewoo Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

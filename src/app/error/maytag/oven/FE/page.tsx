@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code FE - Fix Guide',
-  description: 'Maytag Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

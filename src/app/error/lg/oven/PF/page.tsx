@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Oven Error Code PF - Fix Guide',
-  description: 'LG Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'LG Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code HE - Fix Guide',
-  description: 'Electrolux Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

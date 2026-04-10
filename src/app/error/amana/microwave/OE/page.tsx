@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code OE - Fix Guide',
-  description: 'Amana Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

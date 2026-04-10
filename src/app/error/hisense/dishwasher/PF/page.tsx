@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code PF - Fix Guide',
-  description: 'Hisense Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

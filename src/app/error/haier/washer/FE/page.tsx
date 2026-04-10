@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code FE - Fix Guide',
-  description: 'Haier Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code E4 - Fix Guide',
-  description: 'Panasonic Microwave showing error code E4? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

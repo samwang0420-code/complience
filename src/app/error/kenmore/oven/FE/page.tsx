@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code FE - Fix Guide',
-  description: 'Kenmore Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

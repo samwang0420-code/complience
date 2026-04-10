@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code UE - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

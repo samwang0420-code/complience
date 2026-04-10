@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code E1 - Fix Guide',
-  description: 'KitchenAid Oven showing error code E1? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

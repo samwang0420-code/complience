@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code DE - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

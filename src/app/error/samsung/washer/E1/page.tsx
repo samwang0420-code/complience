@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code E1 - Fix Guide',
-  description: 'Samsung Washer showing error code E1? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

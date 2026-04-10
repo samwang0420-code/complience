@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code FE - Fix Guide',
-  description: 'Sharp Dishwasher showing error code FE? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

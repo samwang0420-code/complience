@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code PE - Fix Guide',
-  description: 'Amana Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

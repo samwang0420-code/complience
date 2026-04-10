@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code LE - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

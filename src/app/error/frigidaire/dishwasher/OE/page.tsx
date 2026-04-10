@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code OE - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code E6 - Fix Guide',
-  description: 'Sharp Microwave showing error code E6? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

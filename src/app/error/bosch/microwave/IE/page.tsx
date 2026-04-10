@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code IE - Fix Guide',
-  description: 'Bosch Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

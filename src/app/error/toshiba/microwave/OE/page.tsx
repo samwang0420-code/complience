@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code OE - Fix Guide',
-  description: 'Toshiba Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

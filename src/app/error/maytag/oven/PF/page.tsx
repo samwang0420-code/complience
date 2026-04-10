@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code PF - Fix Guide',
-  description: 'Maytag Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

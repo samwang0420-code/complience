@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code PE - Fix Guide',
-  description: 'Hisense Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code DE - Fix Guide',
-  description: 'Amana Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

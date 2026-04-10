@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code TE - Fix Guide',
-  description: 'Bosch Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

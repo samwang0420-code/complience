@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code DE - Fix Guide',
-  description: 'LG Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

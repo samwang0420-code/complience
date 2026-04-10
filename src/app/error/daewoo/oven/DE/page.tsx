@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code DE - Fix Guide',
-  description: 'Daewoo Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

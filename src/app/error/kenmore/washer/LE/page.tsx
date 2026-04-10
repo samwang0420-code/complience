@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code LE - Fix Guide',
-  description: 'Kenmore Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

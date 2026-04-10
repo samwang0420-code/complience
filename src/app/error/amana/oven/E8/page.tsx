@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code E8 - Fix Guide',
-  description: 'Amana Oven showing error code E8? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

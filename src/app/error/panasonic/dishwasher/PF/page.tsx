@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code PF - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

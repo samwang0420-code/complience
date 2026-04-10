@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code E8 - Fix Guide',
-  description: 'Samsung Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

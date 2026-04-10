@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code CL - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

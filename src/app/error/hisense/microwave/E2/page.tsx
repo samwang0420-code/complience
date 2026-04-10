@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code E2 - Fix Guide',
-  description: 'Hisense Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

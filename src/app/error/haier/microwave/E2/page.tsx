@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code E2 - Fix Guide',
-  description: 'Haier Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

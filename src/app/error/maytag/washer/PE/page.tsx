@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code PE - Fix Guide',
-  description: 'Maytag Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

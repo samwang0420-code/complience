@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code E8 - Fix Guide',
-  description: 'GE Dishwasher showing error code E8? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

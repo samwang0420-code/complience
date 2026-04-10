@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code CL - Fix Guide',
-  description: 'Kenmore Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

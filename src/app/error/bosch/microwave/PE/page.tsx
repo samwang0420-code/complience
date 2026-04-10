@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code PE - Fix Guide',
-  description: 'Bosch Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

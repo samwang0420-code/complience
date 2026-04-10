@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code E7 - Fix Guide',
-  description: 'Hitachi Dryer showing error code E7? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

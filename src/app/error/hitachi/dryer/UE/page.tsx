@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code UE - Fix Guide',
-  description: 'Hitachi Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code E8 - Fix Guide',
-  description: 'Amana Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

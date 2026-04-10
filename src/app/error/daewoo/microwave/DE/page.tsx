@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code DE - Fix Guide',
-  description: 'Daewoo Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

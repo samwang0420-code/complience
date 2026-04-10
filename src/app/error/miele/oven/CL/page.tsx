@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code CL - Fix Guide',
-  description: 'Miele Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code CL - Fix Guide',
-  description: 'Kenmore Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

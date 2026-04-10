@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code HE1 - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code HE1? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

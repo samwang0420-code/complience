@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code TE - Fix Guide',
-  description: 'Sharp Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

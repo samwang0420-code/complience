@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code E3 - Fix Guide',
-  description: 'Zanussi Dryer showing error code E3? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

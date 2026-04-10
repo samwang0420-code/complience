@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code OE - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

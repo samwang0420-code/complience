@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code E3 - Fix Guide',
-  description: 'Miele Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

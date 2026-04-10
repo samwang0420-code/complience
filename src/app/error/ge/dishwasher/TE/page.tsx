@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code TE - Fix Guide',
-  description: 'GE Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

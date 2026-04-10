@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code IE - Fix Guide',
-  description: 'Panasonic Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

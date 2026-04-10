@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code E2 - Fix Guide',
-  description: 'Samsung Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

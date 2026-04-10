@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code UE - Fix Guide',
-  description: 'Maytag Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

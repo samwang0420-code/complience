@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code TE - Fix Guide',
-  description: 'Maytag Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

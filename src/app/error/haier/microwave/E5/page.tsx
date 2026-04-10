@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code E5 - Fix Guide',
-  description: 'Haier Microwave showing error code E5? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

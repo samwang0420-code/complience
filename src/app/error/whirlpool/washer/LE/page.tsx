@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code LE - Fix Guide',
-  description: 'Whirlpool Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

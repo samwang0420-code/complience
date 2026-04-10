@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code UE - Fix Guide',
-  description: 'AEG Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

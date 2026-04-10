@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code E8 - Fix Guide',
-  description: 'Haier Dryer showing error code E8? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

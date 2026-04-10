@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Oven Error Code LE1 - Fix Guide',
-  description: 'GE Oven showing error code LE1? Complete troubleshooting guide.',
+  description: 'GE Oven showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code IE - Fix Guide',
-  description: 'KitchenAid Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

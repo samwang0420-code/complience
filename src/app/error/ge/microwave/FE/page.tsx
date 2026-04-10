@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code FE - Fix Guide',
-  description: 'GE Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

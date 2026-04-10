@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code UE - Fix Guide',
-  description: 'Miele Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

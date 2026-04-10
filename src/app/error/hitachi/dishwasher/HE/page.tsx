@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code HE - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

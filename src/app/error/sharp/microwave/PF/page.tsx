@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code PF - Fix Guide',
-  description: 'Sharp Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code IE - Fix Guide',
-  description: 'Maytag Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

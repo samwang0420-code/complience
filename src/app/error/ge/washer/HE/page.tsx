@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code HE - Fix Guide',
-  description: 'GE Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

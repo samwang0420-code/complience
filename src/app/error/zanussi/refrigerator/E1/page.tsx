@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code E1 - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code E1? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

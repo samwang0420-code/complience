@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code E8 - Fix Guide',
-  description: 'Miele Oven showing error code E8? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code E4 - Fix Guide',
-  description: 'GE Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code HE - Fix Guide',
-  description: 'Miele Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

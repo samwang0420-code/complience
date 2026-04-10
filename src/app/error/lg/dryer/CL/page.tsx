@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code CL - Fix Guide',
-  description: 'LG Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

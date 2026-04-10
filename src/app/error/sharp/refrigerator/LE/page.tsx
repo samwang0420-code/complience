@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code LE - Fix Guide',
-  description: 'Sharp Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

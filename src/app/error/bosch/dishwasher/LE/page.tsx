@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code LE - Fix Guide',
-  description: 'Bosch Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

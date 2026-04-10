@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code TE - Fix Guide',
-  description: 'GE Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

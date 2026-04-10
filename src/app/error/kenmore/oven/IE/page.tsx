@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code IE - Fix Guide',
-  description: 'Kenmore Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

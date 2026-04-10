@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code IE - Fix Guide',
-  description: 'Bosch Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

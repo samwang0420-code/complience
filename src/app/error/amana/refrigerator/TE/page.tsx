@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code TE - Fix Guide',
-  description: 'Amana Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

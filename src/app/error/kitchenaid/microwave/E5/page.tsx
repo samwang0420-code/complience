@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Microwave Error Code E5 - Fix Guide',
-  description: 'KitchenAid Microwave showing error code E5? Complete troubleshooting guide.',
+  description: 'KitchenAid Microwave showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

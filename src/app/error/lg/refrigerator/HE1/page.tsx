@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code HE1 - Fix Guide',
-  description: 'LG Refrigerator showing error code HE1? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

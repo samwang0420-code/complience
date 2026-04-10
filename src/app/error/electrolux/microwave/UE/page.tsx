@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code UE - Fix Guide',
-  description: 'Electrolux Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

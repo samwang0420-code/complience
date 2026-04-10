@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code OE - Fix Guide',
-  description: 'Hisense Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

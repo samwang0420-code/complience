@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code HE - Fix Guide',
-  description: 'Sharp Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code DE - Fix Guide',
-  description: 'AEG Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

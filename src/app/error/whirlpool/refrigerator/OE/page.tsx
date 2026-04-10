@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code OE - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

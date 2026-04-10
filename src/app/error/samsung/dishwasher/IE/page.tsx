@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code IE - Fix Guide',
-  description: 'Samsung Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

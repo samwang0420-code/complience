@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code E7 - Fix Guide',
-  description: 'LG Dryer showing error code E7? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

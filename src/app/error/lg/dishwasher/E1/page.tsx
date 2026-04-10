@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code E1 - Fix Guide',
-  description: 'LG Dishwasher showing error code E1? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

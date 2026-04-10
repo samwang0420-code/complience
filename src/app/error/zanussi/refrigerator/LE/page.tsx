@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code LE - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

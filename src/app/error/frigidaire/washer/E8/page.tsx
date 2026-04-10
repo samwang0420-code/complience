@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code E8 - Fix Guide',
-  description: 'Frigidaire Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

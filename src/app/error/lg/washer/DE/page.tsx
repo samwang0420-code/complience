@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code DE - Fix Guide',
-  description: 'LG Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

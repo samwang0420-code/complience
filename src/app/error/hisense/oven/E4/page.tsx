@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code E4 - Fix Guide',
-  description: 'Hisense Oven showing error code E4? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

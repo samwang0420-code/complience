@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code HE - Fix Guide',
-  description: 'Siemens Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

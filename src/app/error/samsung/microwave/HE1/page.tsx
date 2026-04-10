@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code HE1 - Fix Guide',
-  description: 'Samsung Microwave showing error code HE1? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

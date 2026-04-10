@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Washer Error Code PE - Fix Guide',
-  description: 'Hitachi Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Hitachi Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

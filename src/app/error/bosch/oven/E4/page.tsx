@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code E4 - Fix Guide',
-  description: 'Bosch Oven showing error code E4? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code OE - Fix Guide',
-  description: 'AEG Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

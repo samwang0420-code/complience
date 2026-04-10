@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code E4 - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

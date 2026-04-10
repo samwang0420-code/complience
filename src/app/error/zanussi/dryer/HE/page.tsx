@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code HE - Fix Guide',
-  description: 'Zanussi Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

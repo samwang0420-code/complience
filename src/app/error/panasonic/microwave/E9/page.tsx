@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code E9 - Fix Guide',
-  description: 'Panasonic Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

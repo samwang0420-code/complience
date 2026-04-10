@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code FE - Fix Guide',
-  description: 'Electrolux Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

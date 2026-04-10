@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code LE - Fix Guide',
-  description: 'Samsung Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

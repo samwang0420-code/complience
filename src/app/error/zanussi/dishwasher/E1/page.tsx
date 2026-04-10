@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code E1 - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code E1? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

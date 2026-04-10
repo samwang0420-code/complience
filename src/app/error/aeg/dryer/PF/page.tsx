@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code PF - Fix Guide',
-  description: 'AEG Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code LE1 - Fix Guide',
-  description: 'Haier Microwave showing error code LE1? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

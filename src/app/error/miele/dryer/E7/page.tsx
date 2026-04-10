@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dryer Error Code E7 - Fix Guide',
-  description: 'Miele Dryer showing error code E7? Complete troubleshooting guide.',
+  description: 'Miele Dryer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

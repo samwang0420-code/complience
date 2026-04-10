@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code E9 - Fix Guide',
-  description: 'Kenmore Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

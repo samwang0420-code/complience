@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code E5 - Fix Guide',
-  description: 'Samsung Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

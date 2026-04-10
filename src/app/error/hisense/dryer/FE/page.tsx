@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code FE - Fix Guide',
-  description: 'Hisense Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

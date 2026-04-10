@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code DE - Fix Guide',
-  description: 'Hisense Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

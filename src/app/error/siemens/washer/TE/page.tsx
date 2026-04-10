@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code TE - Fix Guide',
-  description: 'Siemens Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

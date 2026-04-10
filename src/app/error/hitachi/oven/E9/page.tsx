@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code E9 - Fix Guide',
-  description: 'Hitachi Oven showing error code E9? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code E1 - Fix Guide',
-  description: 'Bosch Microwave showing error code E1? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code HE - Fix Guide',
-  description: 'Zanussi Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

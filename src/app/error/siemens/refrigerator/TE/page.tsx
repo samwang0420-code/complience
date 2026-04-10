@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code TE - Fix Guide',
-  description: 'Siemens Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

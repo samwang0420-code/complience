@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Oven Error Code E2 - Fix Guide',
-  description: 'Panasonic Oven showing error code E2? Complete troubleshooting guide.',
+  description: 'Panasonic Oven showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

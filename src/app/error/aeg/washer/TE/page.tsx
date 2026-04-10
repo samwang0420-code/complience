@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code TE - Fix Guide',
-  description: 'AEG Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

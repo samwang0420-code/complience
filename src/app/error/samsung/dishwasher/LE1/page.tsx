@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code LE1 - Fix Guide',
-  description: 'Samsung Dishwasher showing error code LE1? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

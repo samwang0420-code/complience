@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code PE - Fix Guide',
-  description: 'Hisense Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

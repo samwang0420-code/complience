@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code E4 - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

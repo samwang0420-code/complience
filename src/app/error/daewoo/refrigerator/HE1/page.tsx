@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code HE1 - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code HE1? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

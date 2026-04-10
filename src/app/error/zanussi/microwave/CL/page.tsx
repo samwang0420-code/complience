@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code CL - Fix Guide',
-  description: 'Zanussi Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

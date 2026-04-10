@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code HE1 - Fix Guide',
-  description: 'KitchenAid Washer showing error code HE1? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

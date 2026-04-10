@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code DE - Fix Guide',
-  description: 'Hitachi Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

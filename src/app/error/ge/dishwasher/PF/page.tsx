@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code PF - Fix Guide',
-  description: 'GE Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

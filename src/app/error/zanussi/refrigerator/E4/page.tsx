@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code E4 - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

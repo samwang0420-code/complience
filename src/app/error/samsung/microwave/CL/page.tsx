@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code CL - Fix Guide',
-  description: 'Samsung Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

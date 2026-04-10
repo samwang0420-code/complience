@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code PF - Fix Guide',
-  description: 'Siemens Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

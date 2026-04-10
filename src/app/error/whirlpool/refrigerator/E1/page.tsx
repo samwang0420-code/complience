@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code E1 - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code E1? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

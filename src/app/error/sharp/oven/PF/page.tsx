@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code PF - Fix Guide',
-  description: 'Sharp Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

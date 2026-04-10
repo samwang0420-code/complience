@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code TE - Fix Guide',
-  description: 'AEG Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

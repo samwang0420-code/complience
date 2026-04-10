@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code E2 - Fix Guide',
-  description: 'AEG Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

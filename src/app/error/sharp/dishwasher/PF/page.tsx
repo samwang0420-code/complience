@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code PF - Fix Guide',
-  description: 'Sharp Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

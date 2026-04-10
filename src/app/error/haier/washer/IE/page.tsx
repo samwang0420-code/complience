@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code IE - Fix Guide',
-  description: 'Haier Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

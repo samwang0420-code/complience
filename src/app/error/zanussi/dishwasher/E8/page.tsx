@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code E8 - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code E8? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

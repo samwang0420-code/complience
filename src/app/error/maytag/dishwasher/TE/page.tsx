@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code TE - Fix Guide',
-  description: 'Maytag Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

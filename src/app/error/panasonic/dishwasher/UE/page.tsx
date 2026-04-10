@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code UE - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

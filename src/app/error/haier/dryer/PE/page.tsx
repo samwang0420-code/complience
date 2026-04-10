@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code PE - Fix Guide',
-  description: 'Haier Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

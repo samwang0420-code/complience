@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code CL - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

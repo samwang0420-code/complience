@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code E2 - Fix Guide',
-  description: 'GE Refrigerator showing error code E2? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

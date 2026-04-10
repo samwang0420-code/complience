@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code DE - Fix Guide',
-  description: 'Zanussi Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

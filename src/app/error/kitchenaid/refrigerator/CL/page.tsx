@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Refrigerator Error Code CL - Fix Guide',
-  description: 'KitchenAid Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'KitchenAid Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

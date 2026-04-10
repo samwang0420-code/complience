@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code E6 - Fix Guide',
-  description: 'Hisense Refrigerator showing error code E6? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

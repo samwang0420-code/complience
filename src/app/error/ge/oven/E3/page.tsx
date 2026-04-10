@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Oven Error Code E3 - Fix Guide',
-  description: 'GE Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'GE Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

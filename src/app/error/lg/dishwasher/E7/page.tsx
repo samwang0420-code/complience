@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code E7 - Fix Guide',
-  description: 'LG Dishwasher showing error code E7? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

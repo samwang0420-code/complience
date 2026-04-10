@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code E2 - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code E2? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

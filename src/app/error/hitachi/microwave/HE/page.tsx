@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code HE - Fix Guide',
-  description: 'Hitachi Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

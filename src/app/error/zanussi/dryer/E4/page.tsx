@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code E4 - Fix Guide',
-  description: 'Zanussi Dryer showing error code E4? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

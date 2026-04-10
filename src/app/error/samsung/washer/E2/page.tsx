@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code E2 - Fix Guide',
-  description: 'Samsung Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

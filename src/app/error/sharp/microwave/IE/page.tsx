@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code IE - Fix Guide',
-  description: 'Sharp Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

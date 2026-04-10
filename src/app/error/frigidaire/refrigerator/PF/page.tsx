@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code PF - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dryer Error Code DE - Fix Guide',
-  description: 'Panasonic Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Panasonic Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

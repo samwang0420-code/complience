@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code IE - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

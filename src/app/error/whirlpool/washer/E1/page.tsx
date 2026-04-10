@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code E1 - Fix Guide',
-  description: 'Whirlpool Washer showing error code E1? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

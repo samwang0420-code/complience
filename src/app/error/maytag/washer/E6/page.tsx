@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code E6 - Fix Guide',
-  description: 'Maytag Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

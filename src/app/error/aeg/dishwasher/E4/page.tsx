@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code E4 - Fix Guide',
-  description: 'AEG Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

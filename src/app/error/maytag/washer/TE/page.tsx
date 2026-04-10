@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code TE - Fix Guide',
-  description: 'Maytag Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

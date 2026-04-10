@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code CL - Fix Guide',
-  description: 'Maytag Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

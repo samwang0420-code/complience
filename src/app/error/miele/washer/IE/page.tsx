@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code IE - Fix Guide',
-  description: 'Miele Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

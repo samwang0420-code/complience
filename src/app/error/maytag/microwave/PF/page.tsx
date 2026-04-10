@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code PF - Fix Guide',
-  description: 'Maytag Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

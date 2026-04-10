@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code E9 - Fix Guide',
-  description: 'Siemens Dishwasher showing error code E9? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code HE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

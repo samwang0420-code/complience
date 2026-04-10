@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code DE - Fix Guide',
-  description: 'Toshiba Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

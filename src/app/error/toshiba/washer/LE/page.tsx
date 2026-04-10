@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code LE - Fix Guide',
-  description: 'Toshiba Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

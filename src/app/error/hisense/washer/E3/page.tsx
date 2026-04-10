@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code E3 - Fix Guide',
-  description: 'Hisense Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

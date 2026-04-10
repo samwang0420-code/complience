@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dryer Error Code PF - Fix Guide',
-  description: 'Bosch Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Bosch Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

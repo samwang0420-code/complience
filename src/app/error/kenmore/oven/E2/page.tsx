@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code E2 - Fix Guide',
-  description: 'Kenmore Oven showing error code E2? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

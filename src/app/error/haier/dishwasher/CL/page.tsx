@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code CL - Fix Guide',
-  description: 'Haier Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

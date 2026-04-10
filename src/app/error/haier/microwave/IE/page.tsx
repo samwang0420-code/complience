@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code IE - Fix Guide',
-  description: 'Haier Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

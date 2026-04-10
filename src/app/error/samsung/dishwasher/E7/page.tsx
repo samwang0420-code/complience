@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code E7 - Fix Guide',
-  description: 'Samsung Dishwasher showing error code E7? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code CL - Fix Guide',
-  description: 'Zanussi Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

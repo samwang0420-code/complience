@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Refrigerator Error Code PE - Fix Guide',
-  description: 'Samsung Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Samsung Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

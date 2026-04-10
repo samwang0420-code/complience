@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code DE - Fix Guide',
-  description: 'Kenmore Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

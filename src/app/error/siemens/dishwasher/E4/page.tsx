@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code E4 - Fix Guide',
-  description: 'Siemens Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

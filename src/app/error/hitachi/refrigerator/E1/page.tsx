@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code E1 - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code E1? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

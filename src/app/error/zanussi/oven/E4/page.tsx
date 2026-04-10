@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code E4 - Fix Guide',
-  description: 'Zanussi Oven showing error code E4? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code LE - Fix Guide',
-  description: 'Sharp Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

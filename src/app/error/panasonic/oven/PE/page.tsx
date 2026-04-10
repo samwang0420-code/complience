@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Oven Error Code PE - Fix Guide',
-  description: 'Panasonic Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Panasonic Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

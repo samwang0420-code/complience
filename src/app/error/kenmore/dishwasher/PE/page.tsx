@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dishwasher Error Code PE - Fix Guide',
-  description: 'Kenmore Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Kenmore Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

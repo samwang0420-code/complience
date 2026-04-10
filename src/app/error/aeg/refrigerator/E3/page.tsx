@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code E3 - Fix Guide',
-  description: 'AEG Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

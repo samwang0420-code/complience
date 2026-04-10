@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code PE - Fix Guide',
-  description: 'Zanussi Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

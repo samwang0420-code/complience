@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code CL - Fix Guide',
-  description: 'Maytag Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

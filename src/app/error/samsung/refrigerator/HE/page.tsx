@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Refrigerator Error Code HE - Fix Guide',
-  description: 'Samsung Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Samsung Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

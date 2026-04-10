@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code E9 - Fix Guide',
-  description: 'Siemens Oven showing error code E9? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

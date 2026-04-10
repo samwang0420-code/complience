@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code CL - Fix Guide',
-  description: 'Kenmore Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

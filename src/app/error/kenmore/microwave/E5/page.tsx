@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code E5 - Fix Guide',
-  description: 'Kenmore Microwave showing error code E5? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

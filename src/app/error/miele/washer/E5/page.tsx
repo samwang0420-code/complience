@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code E5 - Fix Guide',
-  description: 'Miele Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

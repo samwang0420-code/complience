@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dryer Error Code TE - Fix Guide',
-  description: 'Frigidaire Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code CL - Fix Guide',
-  description: 'Toshiba Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

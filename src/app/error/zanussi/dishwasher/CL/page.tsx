@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code CL - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

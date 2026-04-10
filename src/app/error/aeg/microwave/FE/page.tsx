@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code FE - Fix Guide',
-  description: 'AEG Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

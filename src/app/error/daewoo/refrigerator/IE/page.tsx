@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code IE - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

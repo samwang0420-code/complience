@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code E7 - Fix Guide',
-  description: 'Panasonic Microwave showing error code E7? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

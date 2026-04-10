@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code DE - Fix Guide',
-  description: 'Whirlpool Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

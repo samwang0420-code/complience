@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code UE - Fix Guide',
-  description: 'Kenmore Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

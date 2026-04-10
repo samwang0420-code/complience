@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code FE - Fix Guide',
-  description: 'Electrolux Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

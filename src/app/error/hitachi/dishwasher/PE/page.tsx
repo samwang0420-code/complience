@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code PE - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

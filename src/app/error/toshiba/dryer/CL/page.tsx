@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dryer Error Code CL - Fix Guide',
-  description: 'Toshiba Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Toshiba Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

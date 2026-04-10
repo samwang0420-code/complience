@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dryer Error Code LE - Fix Guide',
-  description: 'Toshiba Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Toshiba Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

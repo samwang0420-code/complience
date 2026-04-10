@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code LE - Fix Guide',
-  description: 'Siemens Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

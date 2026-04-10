@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code FE - Fix Guide',
-  description: 'Sharp Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

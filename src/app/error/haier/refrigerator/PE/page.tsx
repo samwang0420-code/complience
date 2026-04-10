@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code PE - Fix Guide',
-  description: 'Haier Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

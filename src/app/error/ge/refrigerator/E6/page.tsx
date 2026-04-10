@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code E6 - Fix Guide',
-  description: 'GE Refrigerator showing error code E6? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code PF - Fix Guide',
-  description: 'Sharp Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

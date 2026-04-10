@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code DE - Fix Guide',
-  description: 'Daewoo Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

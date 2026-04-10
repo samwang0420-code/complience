@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code UE - Fix Guide',
-  description: 'Sharp Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

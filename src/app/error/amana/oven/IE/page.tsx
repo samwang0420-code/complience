@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code IE - Fix Guide',
-  description: 'Amana Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

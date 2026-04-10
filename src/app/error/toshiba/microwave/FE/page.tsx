@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code FE - Fix Guide',
-  description: 'Toshiba Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

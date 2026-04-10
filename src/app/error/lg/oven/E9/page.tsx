@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Oven Error Code E9 - Fix Guide',
-  description: 'LG Oven showing error code E9? Complete troubleshooting guide.',
+  description: 'LG Oven showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

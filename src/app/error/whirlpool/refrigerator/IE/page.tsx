@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code IE - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dryer Error Code FE - Fix Guide',
-  description: 'Whirlpool Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

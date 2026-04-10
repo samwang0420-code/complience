@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code FE - Fix Guide',
-  description: 'Toshiba Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

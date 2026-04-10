@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code PE - Fix Guide',
-  description: 'AEG Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

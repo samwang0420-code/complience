@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code HE - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

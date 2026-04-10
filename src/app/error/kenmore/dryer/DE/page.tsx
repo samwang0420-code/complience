@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code DE - Fix Guide',
-  description: 'Kenmore Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

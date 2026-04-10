@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code TE - Fix Guide',
-  description: 'Whirlpool Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

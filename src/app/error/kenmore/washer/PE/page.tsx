@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code PE - Fix Guide',
-  description: 'Kenmore Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

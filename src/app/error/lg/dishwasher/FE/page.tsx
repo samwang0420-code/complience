@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code FE - Fix Guide',
-  description: 'LG Dishwasher showing error code FE? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

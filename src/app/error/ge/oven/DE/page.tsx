@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Oven Error Code DE - Fix Guide',
-  description: 'GE Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'GE Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

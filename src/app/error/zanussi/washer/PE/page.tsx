@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code PE - Fix Guide',
-  description: 'Zanussi Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

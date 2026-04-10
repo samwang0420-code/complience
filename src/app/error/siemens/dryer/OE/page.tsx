@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code OE - Fix Guide',
-  description: 'Siemens Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

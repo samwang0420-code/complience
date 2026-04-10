@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dishwasher Error Code LE1 - Fix Guide',
-  description: 'Toshiba Dishwasher showing error code LE1? Complete troubleshooting guide.',
+  description: 'Toshiba Dishwasher showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

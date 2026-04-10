@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code E2 - Fix Guide',
-  description: 'GE Dishwasher showing error code E2? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

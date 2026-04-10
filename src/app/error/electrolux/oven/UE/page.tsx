@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code UE - Fix Guide',
-  description: 'Electrolux Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

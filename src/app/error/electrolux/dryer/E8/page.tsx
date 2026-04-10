@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code E8 - Fix Guide',
-  description: 'Electrolux Dryer showing error code E8? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

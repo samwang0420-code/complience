@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code IE - Fix Guide',
-  description: 'Kenmore Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code TE - Fix Guide',
-  description: 'Amana Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

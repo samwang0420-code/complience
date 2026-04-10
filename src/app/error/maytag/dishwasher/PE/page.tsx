@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code PE - Fix Guide',
-  description: 'Maytag Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

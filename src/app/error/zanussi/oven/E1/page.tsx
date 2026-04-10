@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code E1 - Fix Guide',
-  description: 'Zanussi Oven showing error code E1? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

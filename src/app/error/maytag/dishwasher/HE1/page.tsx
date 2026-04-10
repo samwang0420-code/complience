@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dishwasher Error Code HE1 - Fix Guide',
-  description: 'Maytag Dishwasher showing error code HE1? Complete troubleshooting guide.',
+  description: 'Maytag Dishwasher showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

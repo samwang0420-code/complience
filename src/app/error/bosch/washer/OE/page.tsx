@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code OE - Fix Guide',
-  description: 'Bosch Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

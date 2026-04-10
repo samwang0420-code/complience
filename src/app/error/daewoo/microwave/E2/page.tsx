@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code E2 - Fix Guide',
-  description: 'Daewoo Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

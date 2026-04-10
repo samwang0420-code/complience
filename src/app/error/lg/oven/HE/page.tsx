@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Oven Error Code HE - Fix Guide',
-  description: 'LG Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'LG Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code E4 - Fix Guide',
-  description: 'Samsung Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

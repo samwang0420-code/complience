@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code OE - Fix Guide',
-  description: 'Kenmore Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

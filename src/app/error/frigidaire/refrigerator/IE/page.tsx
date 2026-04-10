@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code IE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

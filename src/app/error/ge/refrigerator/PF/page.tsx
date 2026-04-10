@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code PF - Fix Guide',
-  description: 'GE Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

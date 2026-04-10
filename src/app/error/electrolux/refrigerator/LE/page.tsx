@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code LE - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

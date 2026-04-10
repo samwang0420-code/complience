@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code LE - Fix Guide',
-  description: 'Amana Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code E8 - Fix Guide',
-  description: 'Maytag Refrigerator showing error code E8? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

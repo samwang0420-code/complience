@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code CL - Fix Guide',
-  description: 'Panasonic Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

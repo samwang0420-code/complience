@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code DE - Fix Guide',
-  description: 'KitchenAid Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

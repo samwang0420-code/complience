@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code E2 - Fix Guide',
-  description: 'Bosch Dishwasher showing error code E2? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

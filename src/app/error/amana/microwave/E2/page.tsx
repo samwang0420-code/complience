@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code E2 - Fix Guide',
-  description: 'Amana Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

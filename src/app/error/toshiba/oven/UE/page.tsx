@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code UE - Fix Guide',
-  description: 'Toshiba Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

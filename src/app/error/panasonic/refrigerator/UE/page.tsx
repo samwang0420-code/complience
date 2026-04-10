@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code UE - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

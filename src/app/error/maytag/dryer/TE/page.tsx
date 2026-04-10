@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code TE - Fix Guide',
-  description: 'Maytag Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

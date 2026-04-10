@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code HE - Fix Guide',
-  description: 'Maytag Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

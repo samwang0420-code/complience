@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code UE - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

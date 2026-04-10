@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code E8 - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code E8? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

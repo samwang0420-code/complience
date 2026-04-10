@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code E6 - Fix Guide',
-  description: 'Amana Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

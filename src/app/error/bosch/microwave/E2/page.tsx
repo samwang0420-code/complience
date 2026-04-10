@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code E2 - Fix Guide',
-  description: 'Bosch Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

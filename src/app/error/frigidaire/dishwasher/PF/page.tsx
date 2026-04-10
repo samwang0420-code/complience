@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code PF - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

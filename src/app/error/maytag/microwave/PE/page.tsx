@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code PE - Fix Guide',
-  description: 'Maytag Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code OE - Fix Guide',
-  description: 'KitchenAid Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

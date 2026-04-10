@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code IE - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

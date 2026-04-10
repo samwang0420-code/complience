@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code HE2 - Fix Guide',
-  description: 'Siemens Refrigerator showing error code HE2? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

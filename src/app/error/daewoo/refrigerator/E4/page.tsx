@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code E4 - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

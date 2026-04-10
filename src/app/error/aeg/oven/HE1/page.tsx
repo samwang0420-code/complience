@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code HE1 - Fix Guide',
-  description: 'AEG Oven showing error code HE1? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

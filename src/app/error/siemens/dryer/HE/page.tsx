@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code HE - Fix Guide',
-  description: 'Siemens Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

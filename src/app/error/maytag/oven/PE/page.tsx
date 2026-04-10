@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code PE - Fix Guide',
-  description: 'Maytag Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

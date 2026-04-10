@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code TE - Fix Guide',
-  description: 'AEG Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

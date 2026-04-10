@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code LE - Fix Guide',
-  description: 'Daewoo Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code E9 - Fix Guide',
-  description: 'Haier Refrigerator showing error code E9? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

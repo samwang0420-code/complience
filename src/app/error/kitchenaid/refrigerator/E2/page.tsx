@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Refrigerator Error Code E2 - Fix Guide',
-  description: 'KitchenAid Refrigerator showing error code E2? Complete troubleshooting guide.',
+  description: 'KitchenAid Refrigerator showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

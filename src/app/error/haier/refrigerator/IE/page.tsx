@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code IE - Fix Guide',
-  description: 'Haier Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

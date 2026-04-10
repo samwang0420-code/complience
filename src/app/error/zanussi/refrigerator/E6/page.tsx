@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code E6 - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code E6? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

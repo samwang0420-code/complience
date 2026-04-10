@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dryer Error Code E2 - Fix Guide',
-  description: 'Panasonic Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Panasonic Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

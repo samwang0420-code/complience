@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code E8 - Fix Guide',
-  description: 'Sharp Dryer showing error code E8? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

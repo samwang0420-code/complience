@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code UE - Fix Guide',
-  description: 'LG Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

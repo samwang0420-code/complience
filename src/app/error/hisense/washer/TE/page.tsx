@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code TE - Fix Guide',
-  description: 'Hisense Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

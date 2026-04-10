@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code HE - Fix Guide',
-  description: 'Bosch Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

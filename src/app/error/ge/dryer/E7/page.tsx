@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code E7 - Fix Guide',
-  description: 'GE Dryer showing error code E7? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code E9 - Fix Guide',
-  description: 'Frigidaire Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

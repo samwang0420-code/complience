@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code TE - Fix Guide',
-  description: 'LG Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

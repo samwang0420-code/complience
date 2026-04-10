@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code DE - Fix Guide',
-  description: 'Panasonic Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

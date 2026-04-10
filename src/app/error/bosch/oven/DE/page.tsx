@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code DE - Fix Guide',
-  description: 'Bosch Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

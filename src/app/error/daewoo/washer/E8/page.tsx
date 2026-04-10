@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code E8 - Fix Guide',
-  description: 'Daewoo Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

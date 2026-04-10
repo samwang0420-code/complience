@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Oven Error Code E7 - Fix Guide',
-  description: 'Frigidaire Oven showing error code E7? Complete troubleshooting guide.',
+  description: 'Frigidaire Oven showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

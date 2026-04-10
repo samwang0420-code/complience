@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code E2 - Fix Guide',
-  description: 'Kenmore Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

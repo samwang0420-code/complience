@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code IE - Fix Guide',
-  description: 'Hisense Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

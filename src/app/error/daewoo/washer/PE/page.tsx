@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code PE - Fix Guide',
-  description: 'Daewoo Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

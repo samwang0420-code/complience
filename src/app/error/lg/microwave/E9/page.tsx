@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code E9 - Fix Guide',
-  description: 'LG Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

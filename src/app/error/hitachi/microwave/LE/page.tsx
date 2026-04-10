@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code LE - Fix Guide',
-  description: 'Hitachi Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

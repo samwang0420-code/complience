@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code DE - Fix Guide',
-  description: 'Amana Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

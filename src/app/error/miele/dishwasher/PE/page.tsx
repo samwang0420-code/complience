@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code PE - Fix Guide',
-  description: 'Miele Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

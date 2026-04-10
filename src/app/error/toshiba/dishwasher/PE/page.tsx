@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dishwasher Error Code PE - Fix Guide',
-  description: 'Toshiba Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Toshiba Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

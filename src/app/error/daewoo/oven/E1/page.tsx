@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code E1 - Fix Guide',
-  description: 'Daewoo Oven showing error code E1? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

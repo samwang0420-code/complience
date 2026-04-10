@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code CL - Fix Guide',
-  description: 'Amana Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

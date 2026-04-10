@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code E2 - Fix Guide',
-  description: 'Electrolux Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

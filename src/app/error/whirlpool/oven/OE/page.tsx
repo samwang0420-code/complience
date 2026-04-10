@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code OE - Fix Guide',
-  description: 'Whirlpool Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

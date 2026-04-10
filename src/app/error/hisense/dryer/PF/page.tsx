@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code PF - Fix Guide',
-  description: 'Hisense Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

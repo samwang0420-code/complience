@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code DE - Fix Guide',
-  description: 'Bosch Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

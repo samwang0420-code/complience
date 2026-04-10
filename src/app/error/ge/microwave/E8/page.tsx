@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code E8 - Fix Guide',
-  description: 'GE Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

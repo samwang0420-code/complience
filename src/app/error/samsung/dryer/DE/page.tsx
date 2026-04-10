@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code DE - Fix Guide',
-  description: 'Samsung Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

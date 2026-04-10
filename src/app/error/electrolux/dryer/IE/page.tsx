@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code IE - Fix Guide',
-  description: 'Electrolux Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

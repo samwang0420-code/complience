@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code E9 - Fix Guide',
-  description: 'KitchenAid Dryer showing error code E9? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

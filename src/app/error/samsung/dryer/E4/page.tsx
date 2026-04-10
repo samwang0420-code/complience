@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code E4 - Fix Guide',
-  description: 'Samsung Dryer showing error code E4? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

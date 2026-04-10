@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code PF - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

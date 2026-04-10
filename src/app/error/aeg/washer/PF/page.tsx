@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code PF - Fix Guide',
-  description: 'AEG Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

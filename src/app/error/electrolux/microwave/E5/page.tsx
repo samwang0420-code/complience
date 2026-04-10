@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code E5 - Fix Guide',
-  description: 'Electrolux Microwave showing error code E5? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

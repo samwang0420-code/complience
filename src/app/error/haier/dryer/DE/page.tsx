@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code DE - Fix Guide',
-  description: 'Haier Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code LE - Fix Guide',
-  description: 'Electrolux Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

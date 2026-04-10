@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code E2 - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code E2? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

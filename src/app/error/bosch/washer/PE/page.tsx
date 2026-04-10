@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code PE - Fix Guide',
-  description: 'Bosch Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

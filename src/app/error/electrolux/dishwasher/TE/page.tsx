@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code TE - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

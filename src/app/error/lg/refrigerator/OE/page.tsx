@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code OE - Fix Guide',
-  description: 'LG Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

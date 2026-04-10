@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code DE - Fix Guide',
-  description: 'GE Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

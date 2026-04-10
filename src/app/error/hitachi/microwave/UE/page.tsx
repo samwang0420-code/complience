@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code UE - Fix Guide',
-  description: 'Hitachi Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

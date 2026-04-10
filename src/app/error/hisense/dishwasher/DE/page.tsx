@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code DE - Fix Guide',
-  description: 'Hisense Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

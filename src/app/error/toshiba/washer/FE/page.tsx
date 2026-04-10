@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code FE - Fix Guide',
-  description: 'Toshiba Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

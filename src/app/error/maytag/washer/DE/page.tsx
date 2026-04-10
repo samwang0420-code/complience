@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code DE - Fix Guide',
-  description: 'Maytag Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

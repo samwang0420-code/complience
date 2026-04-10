@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code PE - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

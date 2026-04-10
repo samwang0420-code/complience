@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code E3 - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

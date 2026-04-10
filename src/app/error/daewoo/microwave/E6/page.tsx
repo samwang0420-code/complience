@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code E6 - Fix Guide',
-  description: 'Daewoo Microwave showing error code E6? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

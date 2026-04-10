@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code E6 - Fix Guide',
-  description: 'Hitachi Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code E1 - Fix Guide',
-  description: 'Kenmore Washer showing error code E1? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

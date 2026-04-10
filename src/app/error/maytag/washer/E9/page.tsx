@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code E9 - Fix Guide',
-  description: 'Maytag Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

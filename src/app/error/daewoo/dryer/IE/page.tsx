@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code IE - Fix Guide',
-  description: 'Daewoo Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

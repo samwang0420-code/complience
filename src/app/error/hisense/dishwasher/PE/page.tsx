@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code PE - Fix Guide',
-  description: 'Hisense Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

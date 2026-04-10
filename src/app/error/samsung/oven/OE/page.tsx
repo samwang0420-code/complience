@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code OE - Fix Guide',
-  description: 'Samsung Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

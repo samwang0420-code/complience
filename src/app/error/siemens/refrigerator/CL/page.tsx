@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code CL - Fix Guide',
-  description: 'Siemens Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code IE - Fix Guide',
-  description: 'Maytag Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

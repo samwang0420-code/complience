@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code E4 - Fix Guide',
-  description: 'KitchenAid Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

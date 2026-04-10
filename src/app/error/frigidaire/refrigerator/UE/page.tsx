@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code UE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code DE - Fix Guide',
-  description: 'Amana Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

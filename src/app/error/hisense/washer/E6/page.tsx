@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code E6 - Fix Guide',
-  description: 'Hisense Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

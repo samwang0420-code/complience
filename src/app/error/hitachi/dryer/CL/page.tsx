@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code CL - Fix Guide',
-  description: 'Hitachi Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

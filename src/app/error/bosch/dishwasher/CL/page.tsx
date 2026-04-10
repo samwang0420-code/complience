@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code CL - Fix Guide',
-  description: 'Bosch Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

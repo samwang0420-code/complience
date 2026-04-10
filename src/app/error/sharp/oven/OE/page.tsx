@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code OE - Fix Guide',
-  description: 'Sharp Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

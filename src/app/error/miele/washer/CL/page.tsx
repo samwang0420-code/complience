@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code CL - Fix Guide',
-  description: 'Miele Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

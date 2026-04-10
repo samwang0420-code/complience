@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code E3 - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code E3? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

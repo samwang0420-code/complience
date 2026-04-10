@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code E6 - Fix Guide',
-  description: 'Electrolux Microwave showing error code E6? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

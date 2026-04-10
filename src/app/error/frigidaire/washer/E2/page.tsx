@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code E2 - Fix Guide',
-  description: 'Frigidaire Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

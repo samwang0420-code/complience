@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dryer Error Code TE - Fix Guide',
-  description: 'Sharp Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Sharp Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

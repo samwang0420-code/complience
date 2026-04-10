@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code TE - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

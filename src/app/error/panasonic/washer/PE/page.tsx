@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code PE - Fix Guide',
-  description: 'Panasonic Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code E3 - Fix Guide',
-  description: 'GE Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

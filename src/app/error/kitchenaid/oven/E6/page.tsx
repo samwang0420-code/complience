@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code E6 - Fix Guide',
-  description: 'KitchenAid Oven showing error code E6? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

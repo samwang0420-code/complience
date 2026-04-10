@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Oven Error Code E5 - Fix Guide',
-  description: 'Miele Oven showing error code E5? Complete troubleshooting guide.',
+  description: 'Miele Oven showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

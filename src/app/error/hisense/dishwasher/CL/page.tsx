@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code CL - Fix Guide',
-  description: 'Hisense Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code E3 - Fix Guide',
-  description: 'GE Dishwasher showing error code E3? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

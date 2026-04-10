@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code DE - Fix Guide',
-  description: 'Frigidaire Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

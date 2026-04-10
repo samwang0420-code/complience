@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code HE1 - Fix Guide',
-  description: 'Siemens Oven showing error code HE1? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

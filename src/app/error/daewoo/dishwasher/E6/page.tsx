@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code E6 - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code E6? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

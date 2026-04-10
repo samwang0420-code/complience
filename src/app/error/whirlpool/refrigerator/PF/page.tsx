@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code PF - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

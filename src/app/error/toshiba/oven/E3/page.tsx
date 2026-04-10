@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code E3 - Fix Guide',
-  description: 'Toshiba Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

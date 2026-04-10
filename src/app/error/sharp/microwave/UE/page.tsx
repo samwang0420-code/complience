@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code UE - Fix Guide',
-  description: 'Sharp Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

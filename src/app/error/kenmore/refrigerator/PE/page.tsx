@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code PE - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

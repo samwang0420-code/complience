@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code PE - Fix Guide',
-  description: 'Samsung Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

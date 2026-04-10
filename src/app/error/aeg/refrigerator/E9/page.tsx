@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code E9 - Fix Guide',
-  description: 'AEG Refrigerator showing error code E9? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

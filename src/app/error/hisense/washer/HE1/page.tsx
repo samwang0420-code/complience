@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code HE1 - Fix Guide',
-  description: 'Hisense Washer showing error code HE1? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

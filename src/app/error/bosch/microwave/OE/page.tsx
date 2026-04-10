@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code OE - Fix Guide',
-  description: 'Bosch Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

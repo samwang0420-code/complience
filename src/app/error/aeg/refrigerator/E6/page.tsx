@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code E6 - Fix Guide',
-  description: 'AEG Refrigerator showing error code E6? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

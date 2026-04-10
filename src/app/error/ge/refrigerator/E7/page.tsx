@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code E7 - Fix Guide',
-  description: 'GE Refrigerator showing error code E7? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

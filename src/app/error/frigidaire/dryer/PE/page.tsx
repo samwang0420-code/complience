@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dryer Error Code PE - Fix Guide',
-  description: 'Frigidaire Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

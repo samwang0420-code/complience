@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code E4 - Fix Guide',
-  description: 'Bosch Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code E9 - Fix Guide',
-  description: 'Kenmore Dryer showing error code E9? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

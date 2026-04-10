@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code E9 - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code E9? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

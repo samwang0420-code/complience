@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code DE - Fix Guide',
-  description: 'Samsung Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

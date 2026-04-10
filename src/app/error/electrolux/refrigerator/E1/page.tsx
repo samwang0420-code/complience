@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code E1 - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code E1? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

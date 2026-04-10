@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code PE - Fix Guide',
-  description: 'Frigidaire Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

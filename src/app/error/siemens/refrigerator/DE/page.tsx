@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code DE - Fix Guide',
-  description: 'Siemens Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

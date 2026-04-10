@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code FE - Fix Guide',
-  description: 'Kenmore Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

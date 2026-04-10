@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code HE - Fix Guide',
-  description: 'LG Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Washer Error Code FE - Fix Guide',
-  description: 'Hitachi Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Hitachi Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

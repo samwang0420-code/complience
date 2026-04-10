@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code DE - Fix Guide',
-  description: 'Sharp Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

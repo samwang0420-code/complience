@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code CL - Fix Guide',
-  description: 'Toshiba Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

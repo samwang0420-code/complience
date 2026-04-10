@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code PF - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

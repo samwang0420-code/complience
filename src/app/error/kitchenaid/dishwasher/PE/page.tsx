@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code PE - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

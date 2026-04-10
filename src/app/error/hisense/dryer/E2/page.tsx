@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code E2 - Fix Guide',
-  description: 'Hisense Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

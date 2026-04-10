@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code FE - Fix Guide',
-  description: 'Hitachi Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

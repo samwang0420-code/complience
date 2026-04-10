@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code OE - Fix Guide',
-  description: 'GE Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

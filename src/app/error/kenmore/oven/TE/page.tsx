@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code TE - Fix Guide',
-  description: 'Kenmore Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

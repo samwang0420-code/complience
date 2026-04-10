@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code E4 - Fix Guide',
-  description: 'AEG Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

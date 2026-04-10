@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code E1 - Fix Guide',
-  description: 'Zanussi Microwave showing error code E1? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

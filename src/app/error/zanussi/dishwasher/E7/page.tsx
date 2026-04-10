@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code E7 - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code E7? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

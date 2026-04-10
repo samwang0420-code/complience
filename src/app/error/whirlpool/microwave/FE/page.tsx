@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code FE - Fix Guide',
-  description: 'Whirlpool Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

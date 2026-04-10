@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code HE - Fix Guide',
-  description: 'LG Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

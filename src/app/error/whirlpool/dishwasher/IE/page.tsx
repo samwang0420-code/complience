@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code IE - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

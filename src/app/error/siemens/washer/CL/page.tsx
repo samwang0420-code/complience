@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code CL - Fix Guide',
-  description: 'Siemens Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

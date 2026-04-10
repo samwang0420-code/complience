@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code TE - Fix Guide',
-  description: 'Whirlpool Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

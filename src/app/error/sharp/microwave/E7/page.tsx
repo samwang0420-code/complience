@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code E7 - Fix Guide',
-  description: 'Sharp Microwave showing error code E7? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

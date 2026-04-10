@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code HE2 - Fix Guide',
-  description: 'Hisense Dishwasher showing error code HE2? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

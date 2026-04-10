@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code LE - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

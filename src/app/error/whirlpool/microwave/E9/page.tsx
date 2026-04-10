@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code E9 - Fix Guide',
-  description: 'Whirlpool Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

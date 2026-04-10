@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code LE1 - Fix Guide',
-  description: 'GE Dryer showing error code LE1? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

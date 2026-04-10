@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code LE1 - Fix Guide',
-  description: 'Bosch Refrigerator showing error code LE1? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

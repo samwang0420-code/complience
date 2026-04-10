@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code IE - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

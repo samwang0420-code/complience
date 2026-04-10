@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code TE - Fix Guide',
-  description: 'Samsung Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

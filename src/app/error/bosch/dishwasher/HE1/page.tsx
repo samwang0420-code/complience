@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code HE1 - Fix Guide',
-  description: 'Bosch Dishwasher showing error code HE1? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

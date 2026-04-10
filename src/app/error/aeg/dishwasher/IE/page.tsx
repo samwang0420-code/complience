@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code IE - Fix Guide',
-  description: 'AEG Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

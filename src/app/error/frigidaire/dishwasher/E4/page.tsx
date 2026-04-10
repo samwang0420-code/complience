@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code E4 - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

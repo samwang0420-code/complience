@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code LE1 - Fix Guide',
-  description: 'Hisense Microwave showing error code LE1? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

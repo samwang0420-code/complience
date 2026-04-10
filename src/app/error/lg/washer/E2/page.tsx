@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code E2 - Fix Guide',
-  description: 'LG Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code E5 - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code E5? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

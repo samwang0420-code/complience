@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code E2 - Fix Guide',
-  description: 'AEG Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

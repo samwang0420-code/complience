@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Microwave Error Code E6 - Fix Guide',
-  description: 'GE Microwave showing error code E6? Complete troubleshooting guide.',
+  description: 'GE Microwave showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

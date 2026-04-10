@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code OE - Fix Guide',
-  description: 'GE Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

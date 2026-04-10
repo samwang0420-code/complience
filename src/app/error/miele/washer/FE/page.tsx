@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code FE - Fix Guide',
-  description: 'Miele Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

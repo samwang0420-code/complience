@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code E3 - Fix Guide',
-  description: 'Daewoo Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

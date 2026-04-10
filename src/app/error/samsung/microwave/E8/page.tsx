@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code E8 - Fix Guide',
-  description: 'Samsung Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

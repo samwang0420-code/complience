@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code IE - Fix Guide',
-  description: 'LG Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

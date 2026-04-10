@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code TE - Fix Guide',
-  description: 'Samsung Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

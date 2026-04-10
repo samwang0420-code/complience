@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code CL - Fix Guide',
-  description: 'KitchenAid Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

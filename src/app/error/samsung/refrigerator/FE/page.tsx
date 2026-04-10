@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Refrigerator Error Code FE - Fix Guide',
-  description: 'Samsung Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Samsung Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

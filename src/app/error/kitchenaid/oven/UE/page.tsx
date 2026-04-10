@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code UE - Fix Guide',
-  description: 'KitchenAid Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

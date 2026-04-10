@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code E7 - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code E7? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

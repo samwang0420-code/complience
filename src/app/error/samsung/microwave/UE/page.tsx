@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code UE - Fix Guide',
-  description: 'Samsung Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

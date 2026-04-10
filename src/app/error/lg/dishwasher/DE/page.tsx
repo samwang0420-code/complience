@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code DE - Fix Guide',
-  description: 'LG Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

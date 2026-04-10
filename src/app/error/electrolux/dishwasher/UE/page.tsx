@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code UE - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

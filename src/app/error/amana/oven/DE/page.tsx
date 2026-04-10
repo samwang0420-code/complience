@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code DE - Fix Guide',
-  description: 'Amana Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

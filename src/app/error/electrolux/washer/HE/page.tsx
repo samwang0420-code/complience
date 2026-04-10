@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code HE - Fix Guide',
-  description: 'Electrolux Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

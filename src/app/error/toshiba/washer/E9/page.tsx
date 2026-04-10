@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code E9 - Fix Guide',
-  description: 'Toshiba Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

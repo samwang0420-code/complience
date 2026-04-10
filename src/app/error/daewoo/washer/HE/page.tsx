@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code HE - Fix Guide',
-  description: 'Daewoo Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

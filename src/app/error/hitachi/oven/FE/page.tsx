@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code FE - Fix Guide',
-  description: 'Hitachi Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

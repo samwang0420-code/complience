@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code IE - Fix Guide',
-  description: 'Siemens Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

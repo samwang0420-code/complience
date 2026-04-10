@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code CL - Fix Guide',
-  description: 'AEG Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

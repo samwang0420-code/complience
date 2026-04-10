@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Refrigerator Error Code OE - Fix Guide',
-  description: 'KitchenAid Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'KitchenAid Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code IE - Fix Guide',
-  description: 'Hitachi Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

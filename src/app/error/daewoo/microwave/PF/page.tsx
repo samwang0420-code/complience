@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code PF - Fix Guide',
-  description: 'Daewoo Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

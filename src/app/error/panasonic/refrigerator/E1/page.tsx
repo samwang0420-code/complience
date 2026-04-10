@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code E1 - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code E1? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

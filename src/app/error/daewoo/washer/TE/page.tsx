@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code TE - Fix Guide',
-  description: 'Daewoo Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

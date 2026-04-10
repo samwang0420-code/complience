@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code CL - Fix Guide',
-  description: 'LG Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

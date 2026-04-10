@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code E9 - Fix Guide',
-  description: 'Amana Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

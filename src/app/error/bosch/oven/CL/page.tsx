@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code CL - Fix Guide',
-  description: 'Bosch Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

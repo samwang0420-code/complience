@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code PE - Fix Guide',
-  description: 'Toshiba Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code PF - Fix Guide',
-  description: 'LG Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

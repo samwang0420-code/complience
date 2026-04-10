@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code CL - Fix Guide',
-  description: 'Electrolux Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

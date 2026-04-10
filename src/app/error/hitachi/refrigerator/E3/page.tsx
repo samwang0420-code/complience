@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code E3 - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

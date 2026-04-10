@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code HE - Fix Guide',
-  description: 'Whirlpool Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

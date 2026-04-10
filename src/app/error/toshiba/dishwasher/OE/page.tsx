@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dishwasher Error Code OE - Fix Guide',
-  description: 'Toshiba Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Toshiba Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

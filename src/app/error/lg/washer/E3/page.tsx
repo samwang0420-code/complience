@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code E3 - Fix Guide',
-  description: 'LG Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

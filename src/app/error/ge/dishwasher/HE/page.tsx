@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code HE - Fix Guide',
-  description: 'GE Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

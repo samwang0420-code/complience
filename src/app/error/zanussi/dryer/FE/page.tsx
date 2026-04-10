@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code FE - Fix Guide',
-  description: 'Zanussi Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code PE - Fix Guide',
-  description: 'LG Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

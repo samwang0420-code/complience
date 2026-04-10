@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code LE1 - Fix Guide',
-  description: 'Kenmore Oven showing error code LE1? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

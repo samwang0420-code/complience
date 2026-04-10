@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code E4 - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

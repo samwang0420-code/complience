@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code LE - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

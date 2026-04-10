@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code FE - Fix Guide',
-  description: 'Zanussi Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

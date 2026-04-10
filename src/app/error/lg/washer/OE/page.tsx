@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code OE - Fix Guide',
-  description: 'LG Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

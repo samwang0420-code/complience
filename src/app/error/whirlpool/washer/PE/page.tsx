@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code PE - Fix Guide',
-  description: 'Whirlpool Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code OE - Fix Guide',
-  description: 'AEG Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

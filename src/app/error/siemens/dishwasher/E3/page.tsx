@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code E3 - Fix Guide',
-  description: 'Siemens Dishwasher showing error code E3? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

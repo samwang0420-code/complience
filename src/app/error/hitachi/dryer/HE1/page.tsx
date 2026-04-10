@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code HE1 - Fix Guide',
-  description: 'Hitachi Dryer showing error code HE1? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Microwave Error Code E2 - Fix Guide',
-  description: 'KitchenAid Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'KitchenAid Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

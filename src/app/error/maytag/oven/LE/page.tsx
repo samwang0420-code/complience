@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code LE - Fix Guide',
-  description: 'Maytag Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code E4 - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code LE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

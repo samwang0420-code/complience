@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code E3 - Fix Guide',
-  description: 'GE Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

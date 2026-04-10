@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code PF - Fix Guide',
-  description: 'Maytag Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code E8 - Fix Guide',
-  description: 'Panasonic Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

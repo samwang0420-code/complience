@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code TE - Fix Guide',
-  description: 'Hitachi Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

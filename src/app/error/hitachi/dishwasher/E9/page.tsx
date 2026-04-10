@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code E9 - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code E9? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

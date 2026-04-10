@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code E9 - Fix Guide',
-  description: 'Frigidaire Microwave showing error code E9? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

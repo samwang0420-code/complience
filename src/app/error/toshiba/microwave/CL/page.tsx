@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code CL - Fix Guide',
-  description: 'Toshiba Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

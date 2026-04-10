@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code IE - Fix Guide',
-  description: 'Sharp Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

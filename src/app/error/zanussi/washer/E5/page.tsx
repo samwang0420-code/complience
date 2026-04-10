@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code E5 - Fix Guide',
-  description: 'Zanussi Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

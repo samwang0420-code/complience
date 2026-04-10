@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code E2 - Fix Guide',
-  description: 'Hisense Oven showing error code E2? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

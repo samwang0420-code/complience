@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Washer Error Code HE2 - Fix Guide',
-  description: 'Hitachi Washer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Hitachi Washer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

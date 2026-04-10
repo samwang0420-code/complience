@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code HE - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code HE2 - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code HE2? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

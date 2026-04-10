@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code OE - Fix Guide',
-  description: 'Amana Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

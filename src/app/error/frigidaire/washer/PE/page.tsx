@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code PE - Fix Guide',
-  description: 'Frigidaire Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

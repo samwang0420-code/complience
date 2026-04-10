@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code PE - Fix Guide',
-  description: 'LG Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

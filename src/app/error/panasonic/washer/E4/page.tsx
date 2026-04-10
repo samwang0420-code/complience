@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code E4 - Fix Guide',
-  description: 'Panasonic Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

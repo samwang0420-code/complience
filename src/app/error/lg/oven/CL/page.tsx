@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Oven Error Code CL - Fix Guide',
-  description: 'LG Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'LG Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

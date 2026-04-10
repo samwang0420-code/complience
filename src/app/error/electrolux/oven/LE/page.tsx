@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code LE - Fix Guide',
-  description: 'Electrolux Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

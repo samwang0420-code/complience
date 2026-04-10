@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Refrigerator Error Code HE1 - Fix Guide',
-  description: 'KitchenAid Refrigerator showing error code HE1? Complete troubleshooting guide.',
+  description: 'KitchenAid Refrigerator showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

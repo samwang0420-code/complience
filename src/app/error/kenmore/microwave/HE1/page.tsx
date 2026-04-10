@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code HE1 - Fix Guide',
-  description: 'Kenmore Microwave showing error code HE1? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

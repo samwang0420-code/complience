@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code HE - Fix Guide',
-  description: 'Haier Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

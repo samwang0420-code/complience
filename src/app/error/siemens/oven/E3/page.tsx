@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code E3 - Fix Guide',
-  description: 'Siemens Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

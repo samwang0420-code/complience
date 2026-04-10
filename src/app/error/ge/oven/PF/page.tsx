@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Oven Error Code PF - Fix Guide',
-  description: 'GE Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'GE Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

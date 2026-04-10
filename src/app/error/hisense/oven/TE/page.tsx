@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code TE - Fix Guide',
-  description: 'Hisense Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

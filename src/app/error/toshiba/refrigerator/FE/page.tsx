@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code FE - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code UE - Fix Guide',
-  description: 'LG Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

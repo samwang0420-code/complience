@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code E4 - Fix Guide',
-  description: 'Electrolux Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

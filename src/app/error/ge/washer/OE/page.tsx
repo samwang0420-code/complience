@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code OE - Fix Guide',
-  description: 'GE Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

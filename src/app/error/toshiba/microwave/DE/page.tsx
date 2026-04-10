@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code DE - Fix Guide',
-  description: 'Toshiba Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

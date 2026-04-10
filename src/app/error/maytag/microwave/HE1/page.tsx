@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code HE1 - Fix Guide',
-  description: 'Maytag Microwave showing error code HE1? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

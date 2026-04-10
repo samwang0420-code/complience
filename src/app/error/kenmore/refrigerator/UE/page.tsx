@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code UE - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

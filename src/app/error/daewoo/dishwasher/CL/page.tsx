@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code CL - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

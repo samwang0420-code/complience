@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code E5 - Fix Guide',
-  description: 'Toshiba Oven showing error code E5? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

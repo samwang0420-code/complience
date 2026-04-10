@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code E6 - Fix Guide',
-  description: 'Miele Dishwasher showing error code E6? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code E2 - Fix Guide',
-  description: 'Samsung Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

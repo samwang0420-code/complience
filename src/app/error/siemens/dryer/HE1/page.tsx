@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code HE1 - Fix Guide',
-  description: 'Siemens Dryer showing error code HE1? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

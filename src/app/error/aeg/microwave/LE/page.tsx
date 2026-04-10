@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code LE - Fix Guide',
-  description: 'AEG Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

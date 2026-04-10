@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code E5 - Fix Guide',
-  description: 'Sharp Dishwasher showing error code E5? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

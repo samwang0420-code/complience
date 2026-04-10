@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code HE2 - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code HE2? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

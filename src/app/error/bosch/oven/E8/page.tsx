@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code E8 - Fix Guide',
-  description: 'Bosch Oven showing error code E8? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code CL - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

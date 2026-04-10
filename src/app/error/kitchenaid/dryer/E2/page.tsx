@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code E2 - Fix Guide',
-  description: 'KitchenAid Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

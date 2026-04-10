@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code PE - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

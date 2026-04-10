@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code HE - Fix Guide',
-  description: 'Haier Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

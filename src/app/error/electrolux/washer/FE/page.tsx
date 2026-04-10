@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code FE - Fix Guide',
-  description: 'Electrolux Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

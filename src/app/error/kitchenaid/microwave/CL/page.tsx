@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Microwave Error Code CL - Fix Guide',
-  description: 'KitchenAid Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'KitchenAid Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

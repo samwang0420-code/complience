@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code HE - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

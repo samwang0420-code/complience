@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code PF - Fix Guide',
-  description: 'Hitachi Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

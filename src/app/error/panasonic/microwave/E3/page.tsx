@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code E3 - Fix Guide',
-  description: 'Panasonic Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

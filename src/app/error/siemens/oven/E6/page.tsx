@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code E6 - Fix Guide',
-  description: 'Siemens Oven showing error code E6? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

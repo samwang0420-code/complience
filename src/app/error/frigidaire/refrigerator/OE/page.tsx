@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code OE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

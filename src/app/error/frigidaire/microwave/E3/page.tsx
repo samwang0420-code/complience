@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code E3 - Fix Guide',
-  description: 'Frigidaire Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

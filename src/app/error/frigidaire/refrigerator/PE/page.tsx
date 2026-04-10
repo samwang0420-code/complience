@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code PE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

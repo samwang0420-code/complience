@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code UE - Fix Guide',
-  description: 'AEG Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

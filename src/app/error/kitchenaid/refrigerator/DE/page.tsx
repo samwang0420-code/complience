@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Refrigerator Error Code DE - Fix Guide',
-  description: 'KitchenAid Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'KitchenAid Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

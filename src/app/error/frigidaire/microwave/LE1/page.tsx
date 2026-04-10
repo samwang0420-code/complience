@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code LE1 - Fix Guide',
-  description: 'Frigidaire Microwave showing error code LE1? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

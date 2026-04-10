@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code IE - Fix Guide',
-  description: 'GE Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

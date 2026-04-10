@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code E4 - Fix Guide',
-  description: 'Hisense Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

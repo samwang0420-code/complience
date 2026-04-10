@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code LE - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

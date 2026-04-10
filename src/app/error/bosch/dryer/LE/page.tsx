@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dryer Error Code LE - Fix Guide',
-  description: 'Bosch Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Bosch Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code E4 - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

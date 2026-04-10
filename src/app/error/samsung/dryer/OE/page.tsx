@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code OE - Fix Guide',
-  description: 'Samsung Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

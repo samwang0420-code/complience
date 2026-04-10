@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code PF - Fix Guide',
-  description: 'Hisense Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

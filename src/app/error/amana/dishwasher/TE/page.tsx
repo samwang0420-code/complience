@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dishwasher Error Code TE - Fix Guide',
-  description: 'Amana Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Amana Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

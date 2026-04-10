@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code DE - Fix Guide',
-  description: 'Sharp Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

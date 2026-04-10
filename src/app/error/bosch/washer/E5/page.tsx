@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code E5 - Fix Guide',
-  description: 'Bosch Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

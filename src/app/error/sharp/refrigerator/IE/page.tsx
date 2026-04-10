@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code IE - Fix Guide',
-  description: 'Sharp Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

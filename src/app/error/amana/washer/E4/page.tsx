@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code E4 - Fix Guide',
-  description: 'Amana Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

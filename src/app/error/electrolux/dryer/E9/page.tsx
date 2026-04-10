@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code E9 - Fix Guide',
-  description: 'Electrolux Dryer showing error code E9? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

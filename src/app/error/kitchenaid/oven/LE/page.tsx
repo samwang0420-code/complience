@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code LE - Fix Guide',
-  description: 'KitchenAid Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

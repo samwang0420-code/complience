@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code IE - Fix Guide',
-  description: 'Miele Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

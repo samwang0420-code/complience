@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code IE - Fix Guide',
-  description: 'Siemens Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

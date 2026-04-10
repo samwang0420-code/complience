@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dryer Error Code DE - Fix Guide',
-  description: 'Frigidaire Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

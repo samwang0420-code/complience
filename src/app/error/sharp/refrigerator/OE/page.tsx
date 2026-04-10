@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code OE - Fix Guide',
-  description: 'Sharp Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

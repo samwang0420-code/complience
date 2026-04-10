@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code IE - Fix Guide',
-  description: 'Sharp Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

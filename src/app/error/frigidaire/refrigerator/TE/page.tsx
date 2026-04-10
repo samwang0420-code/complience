@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Refrigerator Error Code TE - Fix Guide',
-  description: 'Frigidaire Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Frigidaire Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

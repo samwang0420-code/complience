@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code HE - Fix Guide',
-  description: 'Siemens Dishwasher showing error code HE? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

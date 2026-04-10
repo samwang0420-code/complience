@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code FE - Fix Guide',
-  description: 'Bosch Dishwasher showing error code FE? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

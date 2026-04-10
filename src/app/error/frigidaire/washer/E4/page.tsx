@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code E4 - Fix Guide',
-  description: 'Frigidaire Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

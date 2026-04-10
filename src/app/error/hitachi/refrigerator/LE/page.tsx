@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code LE - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

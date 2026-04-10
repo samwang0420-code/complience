@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code HE - Fix Guide',
-  description: 'AEG Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

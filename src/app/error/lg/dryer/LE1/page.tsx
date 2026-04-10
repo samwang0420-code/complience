@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code LE1 - Fix Guide',
-  description: 'LG Dryer showing error code LE1? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

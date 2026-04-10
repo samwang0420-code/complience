@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code HE1 - Fix Guide',
-  description: 'Panasonic Microwave showing error code HE1? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

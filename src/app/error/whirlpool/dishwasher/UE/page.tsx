@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code UE - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

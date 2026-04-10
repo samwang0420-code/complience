@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code UE - Fix Guide',
-  description: 'Zanussi Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

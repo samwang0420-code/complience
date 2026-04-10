@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dishwasher Error Code FE - Fix Guide',
-  description: 'Kenmore Dishwasher showing error code FE? Complete troubleshooting guide.',
+  description: 'Kenmore Dishwasher showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

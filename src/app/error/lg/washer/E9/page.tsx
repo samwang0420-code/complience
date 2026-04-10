@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code E9 - Fix Guide',
-  description: 'LG Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

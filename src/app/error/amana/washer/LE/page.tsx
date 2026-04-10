@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code LE - Fix Guide',
-  description: 'Amana Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

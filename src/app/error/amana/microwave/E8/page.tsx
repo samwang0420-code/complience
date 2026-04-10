@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code E8 - Fix Guide',
-  description: 'Amana Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

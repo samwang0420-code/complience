@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code IE - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

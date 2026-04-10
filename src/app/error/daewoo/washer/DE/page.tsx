@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code DE - Fix Guide',
-  description: 'Daewoo Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

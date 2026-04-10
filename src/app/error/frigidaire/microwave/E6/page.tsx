@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code E6 - Fix Guide',
-  description: 'Frigidaire Microwave showing error code E6? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

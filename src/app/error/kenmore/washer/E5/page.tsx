@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code E5 - Fix Guide',
-  description: 'Kenmore Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

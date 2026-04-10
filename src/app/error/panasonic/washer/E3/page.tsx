@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code E3 - Fix Guide',
-  description: 'Panasonic Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

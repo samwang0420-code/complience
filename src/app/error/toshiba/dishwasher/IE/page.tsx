@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dishwasher Error Code IE - Fix Guide',
-  description: 'Toshiba Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Toshiba Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

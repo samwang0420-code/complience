@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code PF - Fix Guide',
-  description: 'Panasonic Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

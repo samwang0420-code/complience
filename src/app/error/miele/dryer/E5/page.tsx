@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dryer Error Code E5 - Fix Guide',
-  description: 'Miele Dryer showing error code E5? Complete troubleshooting guide.',
+  description: 'Miele Dryer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

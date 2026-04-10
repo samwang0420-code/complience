@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code OE - Fix Guide',
-  description: 'Amana Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

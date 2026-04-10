@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code UE - Fix Guide',
-  description: 'LG Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

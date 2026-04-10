@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code PF - Fix Guide',
-  description: 'LG Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

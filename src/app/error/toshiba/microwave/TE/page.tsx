@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code TE - Fix Guide',
-  description: 'Toshiba Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

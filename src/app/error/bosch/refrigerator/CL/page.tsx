@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code CL - Fix Guide',
-  description: 'Bosch Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

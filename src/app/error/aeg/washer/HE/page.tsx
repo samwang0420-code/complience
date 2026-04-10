@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code HE - Fix Guide',
-  description: 'AEG Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

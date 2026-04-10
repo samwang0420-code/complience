@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code E3 - Fix Guide',
-  description: 'Toshiba Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

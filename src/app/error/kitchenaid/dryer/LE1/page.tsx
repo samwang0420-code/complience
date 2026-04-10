@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code LE1 - Fix Guide',
-  description: 'KitchenAid Dryer showing error code LE1? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

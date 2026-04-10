@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code FE - Fix Guide',
-  description: 'Kenmore Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

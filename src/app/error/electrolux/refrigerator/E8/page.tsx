@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code E8 - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code E8? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

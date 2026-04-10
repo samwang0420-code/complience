@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code IE - Fix Guide',
-  description: 'Maytag Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

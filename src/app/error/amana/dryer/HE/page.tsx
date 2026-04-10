@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code HE - Fix Guide',
-  description: 'Amana Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

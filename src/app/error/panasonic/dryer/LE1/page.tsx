@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dryer Error Code LE1 - Fix Guide',
-  description: 'Panasonic Dryer showing error code LE1? Complete troubleshooting guide.',
+  description: 'Panasonic Dryer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

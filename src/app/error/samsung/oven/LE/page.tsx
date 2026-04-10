@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code LE - Fix Guide',
-  description: 'Samsung Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

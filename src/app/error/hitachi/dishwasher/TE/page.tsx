@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code TE - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

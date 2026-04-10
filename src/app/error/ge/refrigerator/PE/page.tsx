@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code PE - Fix Guide',
-  description: 'GE Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

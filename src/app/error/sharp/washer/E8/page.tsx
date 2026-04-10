@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code E8 - Fix Guide',
-  description: 'Sharp Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

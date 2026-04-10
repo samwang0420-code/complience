@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code PF - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

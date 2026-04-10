@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dryer Error Code HE - Fix Guide',
-  description: 'Bosch Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Bosch Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

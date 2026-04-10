@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Washer Error Code E4 - Fix Guide',
-  description: 'GE Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'GE Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

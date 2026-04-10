@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code PF - Fix Guide',
-  description: 'Hisense Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

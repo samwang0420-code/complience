@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code DE - Fix Guide',
-  description: 'Frigidaire Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Oven Error Code UE - Fix Guide',
-  description: 'Frigidaire Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Frigidaire Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

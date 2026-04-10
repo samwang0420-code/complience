@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code CL - Fix Guide',
-  description: 'Hitachi Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

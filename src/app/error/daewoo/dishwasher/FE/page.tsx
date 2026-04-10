@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code FE - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code FE? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code HE2 - Fix Guide',
-  description: 'Frigidaire Washer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code LE1 - Fix Guide',
-  description: 'Maytag Washer showing error code LE1? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

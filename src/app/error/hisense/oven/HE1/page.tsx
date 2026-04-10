@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code HE1 - Fix Guide',
-  description: 'Hisense Oven showing error code HE1? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

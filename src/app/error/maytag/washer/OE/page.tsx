@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code OE - Fix Guide',
-  description: 'Maytag Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

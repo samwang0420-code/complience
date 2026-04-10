@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Refrigerator Error Code LE - Fix Guide',
-  description: 'Siemens Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Siemens Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

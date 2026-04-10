@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code LE1 - Fix Guide',
-  description: 'Hitachi Dryer showing error code LE1? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

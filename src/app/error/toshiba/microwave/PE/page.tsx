@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code PE - Fix Guide',
-  description: 'Toshiba Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

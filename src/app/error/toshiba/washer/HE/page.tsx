@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code HE - Fix Guide',
-  description: 'Toshiba Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

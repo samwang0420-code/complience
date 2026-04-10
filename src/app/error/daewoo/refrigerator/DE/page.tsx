@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code DE - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

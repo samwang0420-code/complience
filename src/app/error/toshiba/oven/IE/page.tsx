@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Oven Error Code IE - Fix Guide',
-  description: 'Toshiba Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Toshiba Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

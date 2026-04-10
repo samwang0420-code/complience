@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code FE - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

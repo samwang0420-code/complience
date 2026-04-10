@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code HE2 - Fix Guide',
-  description: 'Electrolux Washer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

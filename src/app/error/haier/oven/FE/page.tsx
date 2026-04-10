@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Oven Error Code FE - Fix Guide',
-  description: 'Haier Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Haier Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

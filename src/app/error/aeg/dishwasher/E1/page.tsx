@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dishwasher Error Code E1 - Fix Guide',
-  description: 'AEG Dishwasher showing error code E1? Complete troubleshooting guide.',
+  description: 'AEG Dishwasher showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

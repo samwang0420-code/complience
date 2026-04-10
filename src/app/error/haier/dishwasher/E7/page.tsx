@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code E7 - Fix Guide',
-  description: 'Haier Dishwasher showing error code E7? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

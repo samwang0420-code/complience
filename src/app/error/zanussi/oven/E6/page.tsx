@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code E6 - Fix Guide',
-  description: 'Zanussi Oven showing error code E6? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

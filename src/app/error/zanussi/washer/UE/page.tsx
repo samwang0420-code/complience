@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code UE - Fix Guide',
-  description: 'Zanussi Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

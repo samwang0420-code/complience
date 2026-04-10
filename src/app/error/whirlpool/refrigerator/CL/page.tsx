@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code CL - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

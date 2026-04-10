@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code PE - Fix Guide',
-  description: 'Sharp Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

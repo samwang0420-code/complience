@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code E8 - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code E8? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

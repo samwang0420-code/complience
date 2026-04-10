@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code E8 - Fix Guide',
-  description: 'AEG Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

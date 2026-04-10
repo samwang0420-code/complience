@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code OE - Fix Guide',
-  description: 'Bosch Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

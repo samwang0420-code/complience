@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code TE - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

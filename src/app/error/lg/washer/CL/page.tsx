@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code CL - Fix Guide',
-  description: 'LG Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

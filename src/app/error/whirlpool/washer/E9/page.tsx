@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Washer Error Code E9 - Fix Guide',
-  description: 'Whirlpool Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Whirlpool Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

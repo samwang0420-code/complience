@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Microwave Error Code HE - Fix Guide',
-  description: 'Frigidaire Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Frigidaire Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

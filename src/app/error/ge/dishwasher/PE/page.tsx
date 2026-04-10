@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code PE - Fix Guide',
-  description: 'GE Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

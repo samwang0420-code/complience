@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code E3 - Fix Guide',
-  description: 'LG Dishwasher showing error code E3? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

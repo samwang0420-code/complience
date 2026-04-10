@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Washer Error Code IE - Fix Guide',
-  description: 'Hitachi Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Hitachi Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code TE - Fix Guide',
-  description: 'Siemens Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

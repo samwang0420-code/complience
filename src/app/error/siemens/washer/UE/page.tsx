@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code UE - Fix Guide',
-  description: 'Siemens Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code LE - Fix Guide',
-  description: 'Maytag Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

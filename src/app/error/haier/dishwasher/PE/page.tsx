@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code PE - Fix Guide',
-  description: 'Haier Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

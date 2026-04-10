@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dryer Error Code E5 - Fix Guide',
-  description: 'Panasonic Dryer showing error code E5? Complete troubleshooting guide.',
+  description: 'Panasonic Dryer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Oven Error Code FE - Fix Guide',
-  description: 'Sharp Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Sharp Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

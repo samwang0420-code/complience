@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code FE - Fix Guide',
-  description: 'AEG Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

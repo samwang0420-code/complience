@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code E2 - Fix Guide',
-  description: 'Kenmore Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code PF - Fix Guide',
-  description: 'KitchenAid Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

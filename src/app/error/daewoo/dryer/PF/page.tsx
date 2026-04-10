@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code PF - Fix Guide',
-  description: 'Daewoo Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

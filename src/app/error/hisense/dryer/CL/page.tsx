@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code CL - Fix Guide',
-  description: 'Hisense Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

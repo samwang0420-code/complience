@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dishwasher Error Code E9 - Fix Guide',
-  description: 'Haier Dishwasher showing error code E9? Complete troubleshooting guide.',
+  description: 'Haier Dishwasher showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

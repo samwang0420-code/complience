@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code E2 - Fix Guide',
-  description: 'Samsung Dishwasher showing error code E2? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

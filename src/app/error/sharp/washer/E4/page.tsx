@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code E4 - Fix Guide',
-  description: 'Sharp Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

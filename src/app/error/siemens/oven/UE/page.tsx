@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code UE - Fix Guide',
-  description: 'Siemens Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

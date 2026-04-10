@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Microwave Error Code DE - Fix Guide',
-  description: 'Miele Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Miele Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

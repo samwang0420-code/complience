@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code FE - Fix Guide',
-  description: 'Maytag Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

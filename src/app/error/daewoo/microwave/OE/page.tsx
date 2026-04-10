@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code OE - Fix Guide',
-  description: 'Daewoo Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

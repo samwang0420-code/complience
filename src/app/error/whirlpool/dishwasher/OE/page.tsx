@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code OE - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

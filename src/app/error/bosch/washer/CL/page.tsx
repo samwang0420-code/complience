@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Washer Error Code CL - Fix Guide',
-  description: 'Bosch Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Bosch Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

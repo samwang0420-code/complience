@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code LE - Fix Guide',
-  description: 'Hisense Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

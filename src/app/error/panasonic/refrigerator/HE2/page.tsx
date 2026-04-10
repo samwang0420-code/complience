@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code HE2 - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code HE2? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code HE - Fix Guide',
-  description: 'Kenmore Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

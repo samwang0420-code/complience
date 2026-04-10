@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code TE - Fix Guide',
-  description: 'Samsung Dryer showing error code TE? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

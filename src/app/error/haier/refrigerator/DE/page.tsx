@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code DE - Fix Guide',
-  description: 'Haier Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

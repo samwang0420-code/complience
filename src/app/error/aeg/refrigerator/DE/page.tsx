@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code DE - Fix Guide',
-  description: 'AEG Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

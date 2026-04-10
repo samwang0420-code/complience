@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code TE - Fix Guide',
-  description: 'Kenmore Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

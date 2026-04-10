@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code UE - Fix Guide',
-  description: 'Amana Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

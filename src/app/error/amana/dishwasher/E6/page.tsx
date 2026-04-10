@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dishwasher Error Code E6 - Fix Guide',
-  description: 'Amana Dishwasher showing error code E6? Complete troubleshooting guide.',
+  description: 'Amana Dishwasher showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

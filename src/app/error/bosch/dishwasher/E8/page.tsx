@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dishwasher Error Code E8 - Fix Guide',
-  description: 'Bosch Dishwasher showing error code E8? Complete troubleshooting guide.',
+  description: 'Bosch Dishwasher showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

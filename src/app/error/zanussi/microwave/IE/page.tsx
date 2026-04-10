@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code IE - Fix Guide',
-  description: 'Zanussi Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

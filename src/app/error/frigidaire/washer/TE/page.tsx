@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code TE - Fix Guide',
-  description: 'Frigidaire Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

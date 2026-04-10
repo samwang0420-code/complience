@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Microwave Error Code OE - Fix Guide',
-  description: 'Panasonic Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Panasonic Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

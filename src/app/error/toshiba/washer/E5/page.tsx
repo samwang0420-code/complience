@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code E5 - Fix Guide',
-  description: 'Toshiba Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

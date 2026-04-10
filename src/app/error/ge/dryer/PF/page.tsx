@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code PF - Fix Guide',
-  description: 'GE Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

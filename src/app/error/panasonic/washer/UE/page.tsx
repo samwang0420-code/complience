@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code UE - Fix Guide',
-  description: 'Panasonic Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

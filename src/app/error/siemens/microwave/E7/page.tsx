@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code E7 - Fix Guide',
-  description: 'Siemens Microwave showing error code E7? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

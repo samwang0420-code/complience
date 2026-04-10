@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code E2 - Fix Guide',
-  description: 'Toshiba Washer showing error code E2? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

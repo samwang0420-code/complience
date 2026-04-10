@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code DE - Fix Guide',
-  description: 'Kenmore Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

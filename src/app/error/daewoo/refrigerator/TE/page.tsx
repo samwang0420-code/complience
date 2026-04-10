@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Refrigerator Error Code TE - Fix Guide',
-  description: 'Daewoo Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Daewoo Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

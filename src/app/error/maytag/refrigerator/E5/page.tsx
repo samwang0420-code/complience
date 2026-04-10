@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code E5 - Fix Guide',
-  description: 'Maytag Refrigerator showing error code E5? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

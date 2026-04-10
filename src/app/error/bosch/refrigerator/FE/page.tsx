@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code FE - Fix Guide',
-  description: 'Bosch Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

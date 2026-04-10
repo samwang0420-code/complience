@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code PF - Fix Guide',
-  description: 'AEG Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

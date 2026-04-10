@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code E5 - Fix Guide',
-  description: 'Maytag Dryer showing error code E5? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

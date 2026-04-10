@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code E8 - Fix Guide',
-  description: 'Daewoo Dryer showing error code E8? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

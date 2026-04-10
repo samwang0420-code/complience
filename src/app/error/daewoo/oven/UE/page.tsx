@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code UE - Fix Guide',
-  description: 'Daewoo Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

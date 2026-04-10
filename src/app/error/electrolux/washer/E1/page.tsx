@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code E1 - Fix Guide',
-  description: 'Electrolux Washer showing error code E1? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

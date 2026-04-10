@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Refrigerator Error Code HE - Fix Guide',
-  description: 'Sharp Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Sharp Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

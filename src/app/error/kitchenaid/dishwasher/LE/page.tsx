@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code LE - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

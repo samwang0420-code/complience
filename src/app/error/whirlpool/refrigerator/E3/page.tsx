@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code E3 - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

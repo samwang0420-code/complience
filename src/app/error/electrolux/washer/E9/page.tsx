@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code E9 - Fix Guide',
-  description: 'Electrolux Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

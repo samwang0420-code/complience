@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code PE - Fix Guide',
-  description: 'Amana Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

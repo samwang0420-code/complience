@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code PF - Fix Guide',
-  description: 'Samsung Dryer showing error code PF? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

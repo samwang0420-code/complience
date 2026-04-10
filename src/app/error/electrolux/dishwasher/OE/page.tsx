@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code OE - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

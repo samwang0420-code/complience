@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dryer Error Code E2 - Fix Guide',
-  description: 'LG Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'LG Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code PE - Fix Guide',
-  description: 'Hitachi Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

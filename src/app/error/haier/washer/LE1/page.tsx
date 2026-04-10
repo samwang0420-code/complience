@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code LE1 - Fix Guide',
-  description: 'Haier Washer showing error code LE1? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

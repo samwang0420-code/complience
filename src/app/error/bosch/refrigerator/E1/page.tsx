@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code E1 - Fix Guide',
-  description: 'Bosch Refrigerator showing error code E1? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

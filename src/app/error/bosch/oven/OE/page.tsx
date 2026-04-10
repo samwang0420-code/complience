@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code OE - Fix Guide',
-  description: 'Bosch Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

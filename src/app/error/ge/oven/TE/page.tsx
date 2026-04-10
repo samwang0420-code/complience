@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Oven Error Code TE - Fix Guide',
-  description: 'GE Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'GE Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code TE - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

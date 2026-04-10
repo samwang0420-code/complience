@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code LE - Fix Guide',
-  description: 'AEG Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code LE - Fix Guide',
-  description: 'Zanussi Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

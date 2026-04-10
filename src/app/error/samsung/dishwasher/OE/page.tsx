@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code OE - Fix Guide',
-  description: 'Samsung Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

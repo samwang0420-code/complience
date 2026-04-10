@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code IE - Fix Guide',
-  description: 'Bosch Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

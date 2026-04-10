@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code UE - Fix Guide',
-  description: 'Hisense Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

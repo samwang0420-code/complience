@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code E4 - Fix Guide',
-  description: 'Whirlpool Microwave showing error code E4? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

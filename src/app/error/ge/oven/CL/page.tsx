@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Oven Error Code CL - Fix Guide',
-  description: 'GE Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'GE Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

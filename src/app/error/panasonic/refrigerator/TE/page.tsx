@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code TE - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

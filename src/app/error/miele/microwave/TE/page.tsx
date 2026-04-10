@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Microwave Error Code TE - Fix Guide',
-  description: 'Miele Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Miele Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

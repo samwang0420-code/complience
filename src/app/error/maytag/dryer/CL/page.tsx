@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Dryer Error Code CL - Fix Guide',
-  description: 'Maytag Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Maytag Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

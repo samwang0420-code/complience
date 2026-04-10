@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code OE - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dishwasher Error Code E8 - Fix Guide',
-  description: 'Whirlpool Dishwasher showing error code E8? Complete troubleshooting guide.',
+  description: 'Whirlpool Dishwasher showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

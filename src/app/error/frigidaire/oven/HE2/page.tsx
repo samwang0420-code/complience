@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Oven Error Code HE2 - Fix Guide',
-  description: 'Frigidaire Oven showing error code HE2? Complete troubleshooting guide.',
+  description: 'Frigidaire Oven showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

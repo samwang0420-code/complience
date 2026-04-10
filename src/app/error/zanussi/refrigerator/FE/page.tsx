@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code FE - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

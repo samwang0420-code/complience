@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code E4 - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code LE - Fix Guide',
-  description: 'Sharp Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

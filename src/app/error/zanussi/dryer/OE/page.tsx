@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code OE - Fix Guide',
-  description: 'Zanussi Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

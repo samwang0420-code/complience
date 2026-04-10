@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Microwave Error Code HE - Fix Guide',
-  description: 'Toshiba Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Toshiba Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

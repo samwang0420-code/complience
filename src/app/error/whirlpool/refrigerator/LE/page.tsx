@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code LE - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

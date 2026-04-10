@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code OE - Fix Guide',
-  description: 'Daewoo Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

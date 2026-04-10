@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code UE - Fix Guide',
-  description: 'Samsung Dishwasher showing error code UE? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

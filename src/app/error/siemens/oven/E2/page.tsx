@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code E2 - Fix Guide',
-  description: 'Siemens Oven showing error code E2? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

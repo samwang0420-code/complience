@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dryer Error Code E6 - Fix Guide',
-  description: 'Siemens Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'Siemens Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

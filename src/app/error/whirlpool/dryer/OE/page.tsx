@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dryer Error Code OE - Fix Guide',
-  description: 'Whirlpool Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

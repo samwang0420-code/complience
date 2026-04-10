@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code IE - Fix Guide',
-  description: 'Siemens Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

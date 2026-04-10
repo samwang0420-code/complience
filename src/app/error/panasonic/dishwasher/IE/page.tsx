@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Dishwasher Error Code IE - Fix Guide',
-  description: 'Panasonic Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Panasonic Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

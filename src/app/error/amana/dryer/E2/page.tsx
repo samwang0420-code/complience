@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code E2 - Fix Guide',
-  description: 'Amana Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

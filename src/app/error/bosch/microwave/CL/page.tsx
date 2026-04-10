@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code CL - Fix Guide',
-  description: 'Bosch Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

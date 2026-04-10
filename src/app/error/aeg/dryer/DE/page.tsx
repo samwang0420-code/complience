@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code DE - Fix Guide',
-  description: 'AEG Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

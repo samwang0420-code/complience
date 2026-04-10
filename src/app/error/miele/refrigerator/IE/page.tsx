@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Refrigerator Error Code IE - Fix Guide',
-  description: 'Miele Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Miele Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

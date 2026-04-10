@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code PE - Fix Guide',
-  description: 'Samsung Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

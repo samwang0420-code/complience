@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code CL - Fix Guide',
-  description: 'Amana Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

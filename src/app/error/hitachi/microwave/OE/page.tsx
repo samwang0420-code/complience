@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code OE - Fix Guide',
-  description: 'Hitachi Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

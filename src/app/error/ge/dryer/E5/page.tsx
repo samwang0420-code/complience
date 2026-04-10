@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code E5 - Fix Guide',
-  description: 'GE Dryer showing error code E5? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

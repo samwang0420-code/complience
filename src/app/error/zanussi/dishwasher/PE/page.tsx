@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code PE - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

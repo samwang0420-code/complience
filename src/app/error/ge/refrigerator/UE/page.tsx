@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code UE - Fix Guide',
-  description: 'GE Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code TE - Fix Guide',
-  description: 'Sharp Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

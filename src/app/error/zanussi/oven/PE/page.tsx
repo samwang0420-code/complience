@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code PE - Fix Guide',
-  description: 'Zanussi Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

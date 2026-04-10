@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Washer Error Code E7 - Fix Guide',
-  description: 'Panasonic Washer showing error code E7? Complete troubleshooting guide.',
+  description: 'Panasonic Washer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

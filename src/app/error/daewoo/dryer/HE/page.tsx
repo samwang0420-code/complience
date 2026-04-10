@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code HE - Fix Guide',
-  description: 'Daewoo Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

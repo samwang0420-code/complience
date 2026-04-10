@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dryer Error Code DE - Fix Guide',
-  description: 'Whirlpool Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Whirlpool Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

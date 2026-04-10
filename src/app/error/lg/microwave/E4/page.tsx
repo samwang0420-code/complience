@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code E4 - Fix Guide',
-  description: 'LG Microwave showing error code E4? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

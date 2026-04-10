@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code OE - Fix Guide',
-  description: 'Kenmore Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code OE - Fix Guide',
-  description: 'Toshiba Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

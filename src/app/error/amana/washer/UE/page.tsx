@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code UE - Fix Guide',
-  description: 'Amana Washer showing error code UE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

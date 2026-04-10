@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code E4 - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code E4? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

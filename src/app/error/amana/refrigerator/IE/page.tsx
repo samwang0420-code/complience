@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code IE - Fix Guide',
-  description: 'Amana Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Oven Error Code CL - Fix Guide',
-  description: 'Frigidaire Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Frigidaire Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

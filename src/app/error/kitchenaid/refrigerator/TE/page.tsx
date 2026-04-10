@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Refrigerator Error Code TE - Fix Guide',
-  description: 'KitchenAid Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'KitchenAid Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

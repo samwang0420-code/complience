@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code CL - Fix Guide',
-  description: 'Siemens Oven showing error code CL? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

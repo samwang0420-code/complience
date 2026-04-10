@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dishwasher Error Code PE - Fix Guide',
-  description: 'Daewoo Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Daewoo Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

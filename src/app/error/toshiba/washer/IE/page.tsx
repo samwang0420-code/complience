@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Washer Error Code IE - Fix Guide',
-  description: 'Toshiba Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Toshiba Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

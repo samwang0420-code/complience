@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dryer Error Code E7 - Fix Guide',
-  description: 'Hisense Dryer showing error code E7? Complete troubleshooting guide.',
+  description: 'Hisense Dryer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

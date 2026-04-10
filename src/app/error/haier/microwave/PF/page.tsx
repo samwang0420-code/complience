@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code PF - Fix Guide',
-  description: 'Haier Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Dryer Error Code E5 - Fix Guide',
-  description: 'Haier Dryer showing error code E5? Complete troubleshooting guide.',
+  description: 'Haier Dryer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code E8 - Fix Guide',
-  description: 'LG Washer showing error code E8? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

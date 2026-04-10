@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Refrigerator Error Code LE - Fix Guide',
-  description: 'Panasonic Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Panasonic Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

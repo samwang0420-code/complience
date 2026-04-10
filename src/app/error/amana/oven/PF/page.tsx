@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code PF - Fix Guide',
-  description: 'Amana Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

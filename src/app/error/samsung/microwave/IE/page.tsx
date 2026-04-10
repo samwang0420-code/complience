@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code IE - Fix Guide',
-  description: 'Samsung Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

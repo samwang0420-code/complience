@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code PE - Fix Guide',
-  description: 'Zanussi Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

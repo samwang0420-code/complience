@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code UE - Fix Guide',
-  description: 'Kenmore Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

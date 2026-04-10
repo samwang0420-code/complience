@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code TE - Fix Guide',
-  description: 'Zanussi Microwave showing error code TE? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

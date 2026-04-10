@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code HE1 - Fix Guide',
-  description: 'Haier Refrigerator showing error code HE1? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

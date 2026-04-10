@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code E5 - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code E5? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

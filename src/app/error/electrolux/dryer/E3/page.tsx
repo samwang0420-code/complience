@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code E3 - Fix Guide',
-  description: 'Electrolux Dryer showing error code E3? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Microwave Error Code E3 - Fix Guide',
-  description: 'Maytag Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Maytag Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

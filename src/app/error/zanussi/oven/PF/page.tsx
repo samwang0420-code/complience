@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code PF - Fix Guide',
-  description: 'Zanussi Oven showing error code PF? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Oven Error Code HE1 - Fix Guide',
-  description: 'Haier Oven showing error code HE1? Complete troubleshooting guide.',
+  description: 'Haier Oven showing error code HE1? Troubleshooting guide.',
 }
 
 export default function Page() {

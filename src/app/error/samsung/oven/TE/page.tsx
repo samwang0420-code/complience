@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code TE - Fix Guide',
-  description: 'Samsung Oven showing error code TE? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

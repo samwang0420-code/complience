@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code IE - Fix Guide',
-  description: 'Sharp Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

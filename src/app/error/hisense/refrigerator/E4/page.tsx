@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code E4 - Fix Guide',
-  description: 'Hisense Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code PF - Fix Guide',
-  description: 'Electrolux Microwave showing error code PF? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

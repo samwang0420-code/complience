@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code DE - Fix Guide',
-  description: 'Haier Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

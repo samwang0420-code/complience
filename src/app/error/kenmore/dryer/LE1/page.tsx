@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dryer Error Code LE1 - Fix Guide',
-  description: 'Kenmore Dryer showing error code LE1? Complete troubleshooting guide.',
+  description: 'Kenmore Dryer showing error code LE1? Troubleshooting guide.',
 }
 
 export default function Page() {

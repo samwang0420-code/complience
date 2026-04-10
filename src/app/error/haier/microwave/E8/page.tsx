@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code E8 - Fix Guide',
-  description: 'Haier Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

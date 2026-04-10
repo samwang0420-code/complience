@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code OE - Fix Guide',
-  description: 'GE Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

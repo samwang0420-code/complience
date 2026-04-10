@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code LE - Fix Guide',
-  description: 'AEG Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code FE - Fix Guide',
-  description: 'Amana Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

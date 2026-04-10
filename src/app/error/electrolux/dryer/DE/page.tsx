@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code DE - Fix Guide',
-  description: 'Electrolux Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code PF - Fix Guide',
-  description: 'Hisense Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

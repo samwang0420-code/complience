@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code PE - Fix Guide',
-  description: 'Haier Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

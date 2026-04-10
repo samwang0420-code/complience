@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code E2 - Fix Guide',
-  description: 'GE Dryer showing error code E2? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

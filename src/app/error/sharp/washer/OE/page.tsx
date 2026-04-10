@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code OE - Fix Guide',
-  description: 'Sharp Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

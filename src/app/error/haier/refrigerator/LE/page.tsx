@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Refrigerator Error Code LE - Fix Guide',
-  description: 'Haier Refrigerator showing error code LE? Complete troubleshooting guide.',
+  description: 'Haier Refrigerator showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

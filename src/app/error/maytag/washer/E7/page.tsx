@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code E7 - Fix Guide',
-  description: 'Maytag Washer showing error code E7? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

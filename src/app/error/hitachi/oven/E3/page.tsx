@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code E3 - Fix Guide',
-  description: 'Hitachi Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

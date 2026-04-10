@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code HE - Fix Guide',
-  description: 'GE Dryer showing error code HE? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

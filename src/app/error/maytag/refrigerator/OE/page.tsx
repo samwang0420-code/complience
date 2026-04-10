@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code OE - Fix Guide',
-  description: 'Maytag Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

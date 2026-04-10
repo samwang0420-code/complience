@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code CL - Fix Guide',
-  description: 'Haier Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

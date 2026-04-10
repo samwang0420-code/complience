@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code IE - Fix Guide',
-  description: 'Hitachi Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

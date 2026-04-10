@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dryer Error Code UE - Fix Guide',
-  description: 'KitchenAid Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'KitchenAid Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

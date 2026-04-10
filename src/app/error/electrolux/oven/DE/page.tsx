@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Oven Error Code DE - Fix Guide',
-  description: 'Electrolux Oven showing error code DE? Complete troubleshooting guide.',
+  description: 'Electrolux Oven showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

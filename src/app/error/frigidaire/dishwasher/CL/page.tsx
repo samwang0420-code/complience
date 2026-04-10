@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Dishwasher Error Code CL - Fix Guide',
-  description: 'Frigidaire Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Frigidaire Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

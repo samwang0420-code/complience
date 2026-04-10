@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code PE - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code PE? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

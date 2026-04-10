@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code DE - Fix Guide',
-  description: 'KitchenAid Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

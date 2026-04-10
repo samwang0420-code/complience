@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Microwave Error Code E5 - Fix Guide',
-  description: 'Daewoo Microwave showing error code E5? Complete troubleshooting guide.',
+  description: 'Daewoo Microwave showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Oven Error Code E6 - Fix Guide',
-  description: 'Samsung Oven showing error code E6? Complete troubleshooting guide.',
+  description: 'Samsung Oven showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

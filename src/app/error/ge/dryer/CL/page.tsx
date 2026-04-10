@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dryer Error Code CL - Fix Guide',
-  description: 'GE Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'GE Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

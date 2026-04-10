@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code PF - Fix Guide',
-  description: 'AEG Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

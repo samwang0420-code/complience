@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Washer Error Code E3 - Fix Guide',
-  description: 'Maytag Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'Maytag Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

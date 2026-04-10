@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code E6 - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code E6? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

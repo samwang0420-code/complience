@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code HE - Fix Guide',
-  description: 'Zanussi Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

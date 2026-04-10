@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code PE - Fix Guide',
-  description: 'Daewoo Dryer showing error code PE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

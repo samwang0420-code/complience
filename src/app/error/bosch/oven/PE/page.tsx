@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code PE - Fix Guide',
-  description: 'Bosch Oven showing error code PE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code E3 - Fix Guide',
-  description: 'Bosch Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

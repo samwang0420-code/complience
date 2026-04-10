@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code HE - Fix Guide',
-  description: 'Maytag Refrigerator showing error code HE? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

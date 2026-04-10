@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code HE2 - Fix Guide',
-  description: 'Samsung Washer showing error code HE2? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

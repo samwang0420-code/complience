@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code E7 - Fix Guide',
-  description: 'Electrolux Washer showing error code E7? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

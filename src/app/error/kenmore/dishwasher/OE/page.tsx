@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dishwasher Error Code OE - Fix Guide',
-  description: 'Kenmore Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Kenmore Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

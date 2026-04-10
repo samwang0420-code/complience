@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code UE - Fix Guide',
-  description: 'AEG Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

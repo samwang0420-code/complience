@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code E5 - Fix Guide',
-  description: 'Frigidaire Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

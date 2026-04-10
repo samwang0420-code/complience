@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code LE - Fix Guide',
-  description: 'Whirlpool Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

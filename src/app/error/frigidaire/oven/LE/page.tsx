@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Oven Error Code LE - Fix Guide',
-  description: 'Frigidaire Oven showing error code LE? Complete troubleshooting guide.',
+  description: 'Frigidaire Oven showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

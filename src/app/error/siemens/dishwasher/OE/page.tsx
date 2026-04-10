@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Dishwasher Error Code OE - Fix Guide',
-  description: 'Siemens Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Siemens Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

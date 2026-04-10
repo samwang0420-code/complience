@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Oven Error Code OE - Fix Guide',
-  description: 'Kenmore Oven showing error code OE? Complete troubleshooting guide.',
+  description: 'Kenmore Oven showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

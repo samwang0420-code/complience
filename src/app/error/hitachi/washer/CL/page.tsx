@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Washer Error Code CL - Fix Guide',
-  description: 'Hitachi Washer showing error code CL? Complete troubleshooting guide.',
+  description: 'Hitachi Washer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

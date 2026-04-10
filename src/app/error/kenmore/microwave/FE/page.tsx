@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Microwave Error Code FE - Fix Guide',
-  description: 'Kenmore Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Kenmore Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

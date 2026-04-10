@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dishwasher Error Code PF - Fix Guide',
-  description: 'Electrolux Dishwasher showing error code PF? Complete troubleshooting guide.',
+  description: 'Electrolux Dishwasher showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

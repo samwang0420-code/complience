@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code LE - Fix Guide',
-  description: 'Daewoo Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

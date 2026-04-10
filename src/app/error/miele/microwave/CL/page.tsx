@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Microwave Error Code CL - Fix Guide',
-  description: 'Miele Microwave showing error code CL? Complete troubleshooting guide.',
+  description: 'Miele Microwave showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

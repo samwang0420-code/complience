@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code IE - Fix Guide',
-  description: 'Bosch Refrigerator showing error code IE? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

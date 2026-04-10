@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dryer Error Code E3 - Fix Guide',
-  description: 'Hitachi Dryer showing error code E3? Complete troubleshooting guide.',
+  description: 'Hitachi Dryer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

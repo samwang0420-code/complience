@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code DE - Fix Guide',
-  description: 'Zanussi Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

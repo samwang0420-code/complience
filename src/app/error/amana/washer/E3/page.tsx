@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code E3 - Fix Guide',
-  description: 'Amana Washer showing error code E3? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

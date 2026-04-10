@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code FE - Fix Guide',
-  description: 'Zanussi Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

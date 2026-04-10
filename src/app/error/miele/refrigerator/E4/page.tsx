@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Refrigerator Error Code E4 - Fix Guide',
-  description: 'Miele Refrigerator showing error code E4? Complete troubleshooting guide.',
+  description: 'Miele Refrigerator showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

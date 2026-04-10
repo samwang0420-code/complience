@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code E3 - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code E3? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

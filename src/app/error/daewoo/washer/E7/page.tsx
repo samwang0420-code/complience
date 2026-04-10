@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Washer Error Code E7 - Fix Guide',
-  description: 'Daewoo Washer showing error code E7? Complete troubleshooting guide.',
+  description: 'Daewoo Washer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

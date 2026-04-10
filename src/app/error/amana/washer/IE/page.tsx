@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Washer Error Code IE - Fix Guide',
-  description: 'Amana Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Amana Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

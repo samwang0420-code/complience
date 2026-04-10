@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Oven Error Code FE - Fix Guide',
-  description: 'Amana Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Amana Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

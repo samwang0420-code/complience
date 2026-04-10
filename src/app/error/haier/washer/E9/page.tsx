@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Washer Error Code E9 - Fix Guide',
-  description: 'Haier Washer showing error code E9? Complete troubleshooting guide.',
+  description: 'Haier Washer showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

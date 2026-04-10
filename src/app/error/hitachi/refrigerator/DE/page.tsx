@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Refrigerator Error Code DE - Fix Guide',
-  description: 'Hitachi Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Hitachi Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

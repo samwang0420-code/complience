@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code IE - Fix Guide',
-  description: 'Electrolux Microwave showing error code IE? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

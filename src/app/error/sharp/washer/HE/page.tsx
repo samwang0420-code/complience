@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Washer Error Code HE - Fix Guide',
-  description: 'Sharp Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Sharp Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

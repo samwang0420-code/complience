@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code PE - Fix Guide',
-  description: 'Siemens Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

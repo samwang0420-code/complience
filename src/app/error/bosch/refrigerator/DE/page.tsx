@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Refrigerator Error Code DE - Fix Guide',
-  description: 'Bosch Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Bosch Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

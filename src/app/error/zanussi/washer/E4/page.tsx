@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code E4 - Fix Guide',
-  description: 'Zanussi Washer showing error code E4? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code E4? Troubleshooting guide.',
 }
 
 export default function Page() {

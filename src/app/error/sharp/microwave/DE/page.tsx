@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code DE - Fix Guide',
-  description: 'Sharp Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

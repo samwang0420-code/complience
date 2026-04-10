@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code FE - Fix Guide',
-  description: 'Bosch Microwave showing error code FE? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code LE - Fix Guide',
-  description: 'Miele Washer showing error code LE? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

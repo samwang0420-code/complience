@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Dishwasher Error Code DE - Fix Guide',
-  description: 'GE Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'GE Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

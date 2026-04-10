@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Oven Error Code HE - Fix Guide',
-  description: 'Bosch Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Bosch Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

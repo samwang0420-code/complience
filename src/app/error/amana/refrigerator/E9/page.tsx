@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code E9 - Fix Guide',
-  description: 'Amana Refrigerator showing error code E9? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code E9? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code E6 - Fix Guide',
-  description: 'AEG Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

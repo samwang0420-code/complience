@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code E5 - Fix Guide',
-  description: 'Zanussi Oven showing error code E5? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

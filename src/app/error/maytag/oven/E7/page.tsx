@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Oven Error Code E7 - Fix Guide',
-  description: 'Maytag Oven showing error code E7? Complete troubleshooting guide.',
+  description: 'Maytag Oven showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code E5 - Fix Guide',
-  description: 'KitchenAid Washer showing error code E5? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

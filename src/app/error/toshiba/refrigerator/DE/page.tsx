@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Refrigerator Error Code DE - Fix Guide',
-  description: 'Toshiba Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Toshiba Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

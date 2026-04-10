@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code PE - Fix Guide',
-  description: 'Samsung Washer showing error code PE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

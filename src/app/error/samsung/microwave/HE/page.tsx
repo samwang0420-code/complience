@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Microwave Error Code HE - Fix Guide',
-  description: 'Samsung Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'Samsung Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

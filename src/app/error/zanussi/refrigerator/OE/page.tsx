@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code OE - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code OE? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

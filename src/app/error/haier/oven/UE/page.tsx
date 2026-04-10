@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Oven Error Code UE - Fix Guide',
-  description: 'Haier Oven showing error code UE? Complete troubleshooting guide.',
+  description: 'Haier Oven showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code HE - Fix Guide',
-  description: 'Samsung Washer showing error code HE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code E8 - Fix Guide',
-  description: 'Zanussi Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

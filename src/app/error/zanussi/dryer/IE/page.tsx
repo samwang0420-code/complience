@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dryer Error Code IE - Fix Guide',
-  description: 'Zanussi Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Zanussi Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

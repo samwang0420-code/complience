@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Microwave Error Code E5 - Fix Guide',
-  description: 'Sharp Microwave showing error code E5? Complete troubleshooting guide.',
+  description: 'Sharp Microwave showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

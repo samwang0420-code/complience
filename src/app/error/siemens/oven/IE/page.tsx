@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code IE - Fix Guide',
-  description: 'Siemens Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code IE - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

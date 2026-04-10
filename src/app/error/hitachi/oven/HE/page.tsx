@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Oven Error Code HE - Fix Guide',
-  description: 'Hitachi Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Hitachi Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

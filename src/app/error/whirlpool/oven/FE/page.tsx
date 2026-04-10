@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Oven Error Code FE - Fix Guide',
-  description: 'Whirlpool Oven showing error code FE? Complete troubleshooting guide.',
+  description: 'Whirlpool Oven showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

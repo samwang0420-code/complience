@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Oven Error Code HE2 - Fix Guide',
-  description: 'KitchenAid Oven showing error code HE2? Complete troubleshooting guide.',
+  description: 'KitchenAid Oven showing error code HE2? Troubleshooting guide.',
 }
 
 export default function Page() {

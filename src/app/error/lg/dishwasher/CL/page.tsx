@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Dishwasher Error Code CL - Fix Guide',
-  description: 'LG Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'LG Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

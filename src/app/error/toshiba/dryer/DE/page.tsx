@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Toshiba Dryer Error Code DE - Fix Guide',
-  description: 'Toshiba Dryer showing error code DE? Complete troubleshooting guide.',
+  description: 'Toshiba Dryer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

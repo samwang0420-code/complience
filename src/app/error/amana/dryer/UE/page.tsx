@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Dryer Error Code UE - Fix Guide',
-  description: 'Amana Dryer showing error code UE? Complete troubleshooting guide.',
+  description: 'Amana Dryer showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

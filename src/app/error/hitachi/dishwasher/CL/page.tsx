@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Dishwasher Error Code CL - Fix Guide',
-  description: 'Hitachi Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Hitachi Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code IE - Fix Guide',
-  description: 'Hisense Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

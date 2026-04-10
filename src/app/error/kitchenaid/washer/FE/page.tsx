@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code FE - Fix Guide',
-  description: 'KitchenAid Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

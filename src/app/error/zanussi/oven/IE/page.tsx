@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Oven Error Code IE - Fix Guide',
-  description: 'Zanussi Oven showing error code IE? Complete troubleshooting guide.',
+  description: 'Zanussi Oven showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

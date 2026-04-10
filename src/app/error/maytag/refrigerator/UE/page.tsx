@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Maytag Refrigerator Error Code UE - Fix Guide',
-  description: 'Maytag Refrigerator showing error code UE? Complete troubleshooting guide.',
+  description: 'Maytag Refrigerator showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

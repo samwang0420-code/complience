@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Oven Error Code E3 - Fix Guide',
-  description: 'AEG Oven showing error code E3? Complete troubleshooting guide.',
+  description: 'AEG Oven showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

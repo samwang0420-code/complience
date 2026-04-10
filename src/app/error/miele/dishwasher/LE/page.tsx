@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Dishwasher Error Code LE - Fix Guide',
-  description: 'Miele Dishwasher showing error code LE? Complete troubleshooting guide.',
+  description: 'Miele Dishwasher showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

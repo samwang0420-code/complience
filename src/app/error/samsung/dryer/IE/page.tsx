@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code IE - Fix Guide',
-  description: 'Samsung Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

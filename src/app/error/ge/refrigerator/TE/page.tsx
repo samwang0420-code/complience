@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GE Refrigerator Error Code TE - Fix Guide',
-  description: 'GE Refrigerator showing error code TE? Complete troubleshooting guide.',
+  description: 'GE Refrigerator showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

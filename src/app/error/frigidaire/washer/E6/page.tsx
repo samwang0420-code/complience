@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code E6 - Fix Guide',
-  description: 'Frigidaire Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

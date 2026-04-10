@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Refrigerator Error Code FE - Fix Guide',
-  description: 'Hisense Refrigerator showing error code FE? Complete troubleshooting guide.',
+  description: 'Hisense Refrigerator showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

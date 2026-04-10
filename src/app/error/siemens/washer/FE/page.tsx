@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Washer Error Code FE - Fix Guide',
-  description: 'Siemens Washer showing error code FE? Complete troubleshooting guide.',
+  description: 'Siemens Washer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

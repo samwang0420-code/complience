@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hitachi Microwave Error Code E3 - Fix Guide',
-  description: 'Hitachi Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Hitachi Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

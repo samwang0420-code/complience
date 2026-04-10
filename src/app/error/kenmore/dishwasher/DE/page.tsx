@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dishwasher Error Code DE - Fix Guide',
-  description: 'Kenmore Dishwasher showing error code DE? Complete troubleshooting guide.',
+  description: 'Kenmore Dishwasher showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

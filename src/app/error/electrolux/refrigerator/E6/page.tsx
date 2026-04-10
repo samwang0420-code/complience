@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Refrigerator Error Code E6 - Fix Guide',
-  description: 'Electrolux Refrigerator showing error code E6? Complete troubleshooting guide.',
+  description: 'Electrolux Refrigerator showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

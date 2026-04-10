@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code E6 - Fix Guide',
-  description: 'Zanussi Washer showing error code E6? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code DE - Fix Guide',
-  description: 'Samsung Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

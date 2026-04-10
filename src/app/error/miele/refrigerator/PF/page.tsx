@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Refrigerator Error Code PF - Fix Guide',
-  description: 'Miele Refrigerator showing error code PF? Complete troubleshooting guide.',
+  description: 'Miele Refrigerator showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Washer Error Code PF - Fix Guide',
-  description: 'LG Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'LG Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

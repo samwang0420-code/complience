@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Miele Washer Error Code E7 - Fix Guide',
-  description: 'Miele Washer showing error code E7? Complete troubleshooting guide.',
+  description: 'Miele Washer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code TE - Fix Guide',
-  description: 'Zanussi Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

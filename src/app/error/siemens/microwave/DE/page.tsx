@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Microwave Error Code DE - Fix Guide',
-  description: 'Siemens Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Siemens Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

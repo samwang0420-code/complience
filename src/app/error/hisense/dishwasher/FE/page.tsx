@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Dishwasher Error Code FE - Fix Guide',
-  description: 'Hisense Dishwasher showing error code FE? Complete troubleshooting guide.',
+  description: 'Hisense Dishwasher showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

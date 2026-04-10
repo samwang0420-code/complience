@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Dryer Error Code CL - Fix Guide',
-  description: 'AEG Dryer showing error code CL? Complete troubleshooting guide.',
+  description: 'AEG Dryer showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

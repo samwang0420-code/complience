@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Refrigerator Error Code PE - Fix Guide',
-  description: 'Zanussi Refrigerator showing error code PE? Complete troubleshooting guide.',
+  description: 'Zanussi Refrigerator showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

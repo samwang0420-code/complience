@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code E1 - Fix Guide',
-  description: 'Sharp Dishwasher showing error code E1? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

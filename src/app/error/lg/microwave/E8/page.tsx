@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code E8 - Fix Guide',
-  description: 'LG Microwave showing error code E8? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code E8? Troubleshooting guide.',
 }
 
 export default function Page() {

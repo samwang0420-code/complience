@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Microwave Error Code PE - Fix Guide',
-  description: 'LG Microwave showing error code PE? Complete troubleshooting guide.',
+  description: 'LG Microwave showing error code PE? Troubleshooting guide.',
 }
 
 export default function Page() {

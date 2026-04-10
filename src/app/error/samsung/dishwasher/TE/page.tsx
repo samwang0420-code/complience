@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dishwasher Error Code TE - Fix Guide',
-  description: 'Samsung Dishwasher showing error code TE? Complete troubleshooting guide.',
+  description: 'Samsung Dishwasher showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

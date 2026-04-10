@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code PF - Fix Guide',
-  description: 'KitchenAid Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

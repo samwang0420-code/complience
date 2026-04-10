@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Siemens Oven Error Code E5 - Fix Guide',
-  description: 'Siemens Oven showing error code E5? Complete troubleshooting guide.',
+  description: 'Siemens Oven showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

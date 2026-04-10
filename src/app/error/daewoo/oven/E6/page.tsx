@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Oven Error Code E6 - Fix Guide',
-  description: 'Daewoo Oven showing error code E6? Complete troubleshooting guide.',
+  description: 'Daewoo Oven showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

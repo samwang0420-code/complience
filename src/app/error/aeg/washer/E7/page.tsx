@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code E7 - Fix Guide',
-  description: 'AEG Washer showing error code E7? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

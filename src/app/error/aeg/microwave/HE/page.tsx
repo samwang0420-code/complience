@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Microwave Error Code HE - Fix Guide',
-  description: 'AEG Microwave showing error code HE? Complete troubleshooting guide.',
+  description: 'AEG Microwave showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

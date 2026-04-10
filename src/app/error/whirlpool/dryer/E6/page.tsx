@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Dryer Error Code E6 - Fix Guide',
-  description: 'Whirlpool Dryer showing error code E6? Complete troubleshooting guide.',
+  description: 'Whirlpool Dryer showing error code E6? Troubleshooting guide.',
 }
 
 export default function Page() {

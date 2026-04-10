@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Washer Error Code OE - Fix Guide',
-  description: 'Hisense Washer showing error code OE? Complete troubleshooting guide.',
+  description: 'Hisense Washer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

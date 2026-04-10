@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Microwave Error Code LE - Fix Guide',
-  description: 'Zanussi Microwave showing error code LE? Complete troubleshooting guide.',
+  description: 'Zanussi Microwave showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

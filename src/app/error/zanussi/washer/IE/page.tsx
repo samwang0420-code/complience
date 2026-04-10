@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Washer Error Code IE - Fix Guide',
-  description: 'Zanussi Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Zanussi Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

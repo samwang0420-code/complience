@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Washer Error Code PF - Fix Guide',
-  description: 'Samsung Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Samsung Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

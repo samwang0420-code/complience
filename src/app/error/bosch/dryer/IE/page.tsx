@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Dryer Error Code IE - Fix Guide',
-  description: 'Bosch Dryer showing error code IE? Complete troubleshooting guide.',
+  description: 'Bosch Dryer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

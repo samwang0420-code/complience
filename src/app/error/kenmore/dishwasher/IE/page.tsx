@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Dishwasher Error Code IE - Fix Guide',
-  description: 'Kenmore Dishwasher showing error code IE? Complete troubleshooting guide.',
+  description: 'Kenmore Dishwasher showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

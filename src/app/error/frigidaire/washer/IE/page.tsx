@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Frigidaire Washer Error Code IE - Fix Guide',
-  description: 'Frigidaire Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Frigidaire Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

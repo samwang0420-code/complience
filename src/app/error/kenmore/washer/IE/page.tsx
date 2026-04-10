@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Washer Error Code IE - Fix Guide',
-  description: 'Kenmore Washer showing error code IE? Complete troubleshooting guide.',
+  description: 'Kenmore Washer showing error code IE? Troubleshooting guide.',
 }
 
 export default function Page() {

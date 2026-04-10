@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Microwave Error Code E2 - Fix Guide',
-  description: 'Whirlpool Microwave showing error code E2? Complete troubleshooting guide.',
+  description: 'Whirlpool Microwave showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

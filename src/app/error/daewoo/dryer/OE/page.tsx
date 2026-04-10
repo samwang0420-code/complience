@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Daewoo Dryer Error Code OE - Fix Guide',
-  description: 'Daewoo Dryer showing error code OE? Complete troubleshooting guide.',
+  description: 'Daewoo Dryer showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Bosch Microwave Error Code DE - Fix Guide',
-  description: 'Bosch Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Bosch Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

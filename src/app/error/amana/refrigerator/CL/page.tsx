@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Refrigerator Error Code CL - Fix Guide',
-  description: 'Amana Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'Amana Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

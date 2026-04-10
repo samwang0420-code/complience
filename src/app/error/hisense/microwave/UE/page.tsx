@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Microwave Error Code UE - Fix Guide',
-  description: 'Hisense Microwave showing error code UE? Complete troubleshooting guide.',
+  description: 'Hisense Microwave showing error code UE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Dryer Error Code LE - Fix Guide',
-  description: 'Electrolux Dryer showing error code LE? Complete troubleshooting guide.',
+  description: 'Electrolux Dryer showing error code LE? Troubleshooting guide.',
 }
 
 export default function Page() {

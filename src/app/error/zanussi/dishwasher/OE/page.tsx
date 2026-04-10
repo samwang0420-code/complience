@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Zanussi Dishwasher Error Code OE - Fix Guide',
-  description: 'Zanussi Dishwasher showing error code OE? Complete troubleshooting guide.',
+  description: 'Zanussi Dishwasher showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

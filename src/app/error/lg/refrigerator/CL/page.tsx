@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'LG Refrigerator Error Code CL - Fix Guide',
-  description: 'LG Refrigerator showing error code CL? Complete troubleshooting guide.',
+  description: 'LG Refrigerator showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Washer Error Code PF - Fix Guide',
-  description: 'Electrolux Washer showing error code PF? Complete troubleshooting guide.',
+  description: 'Electrolux Washer showing error code PF? Troubleshooting guide.',
 }
 
 export default function Page() {

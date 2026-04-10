@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Whirlpool Refrigerator Error Code E2 - Fix Guide',
-  description: 'Whirlpool Refrigerator showing error code E2? Complete troubleshooting guide.',
+  description: 'Whirlpool Refrigerator showing error code E2? Troubleshooting guide.',
 }
 
 export default function Page() {

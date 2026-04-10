@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Samsung Dryer Error Code FE - Fix Guide',
-  description: 'Samsung Dryer showing error code FE? Complete troubleshooting guide.',
+  description: 'Samsung Dryer showing error code FE? Troubleshooting guide.',
 }
 
 export default function Page() {

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Kenmore Refrigerator Error Code DE - Fix Guide',
-  description: 'Kenmore Refrigerator showing error code DE? Complete troubleshooting guide.',
+  description: 'Kenmore Refrigerator showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

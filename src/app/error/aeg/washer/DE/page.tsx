@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Washer Error Code DE - Fix Guide',
-  description: 'AEG Washer showing error code DE? Complete troubleshooting guide.',
+  description: 'AEG Washer showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

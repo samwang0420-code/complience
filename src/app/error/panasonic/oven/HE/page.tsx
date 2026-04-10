@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Oven Error Code HE - Fix Guide',
-  description: 'Panasonic Oven showing error code HE? Complete troubleshooting guide.',
+  description: 'Panasonic Oven showing error code HE? Troubleshooting guide.',
 }
 
 export default function Page() {

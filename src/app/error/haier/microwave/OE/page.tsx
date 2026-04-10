@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Haier Microwave Error Code OE - Fix Guide',
-  description: 'Haier Microwave showing error code OE? Complete troubleshooting guide.',
+  description: 'Haier Microwave showing error code OE? Troubleshooting guide.',
 }
 
 export default function Page() {

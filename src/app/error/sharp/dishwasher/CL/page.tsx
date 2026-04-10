@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sharp Dishwasher Error Code CL - Fix Guide',
-  description: 'Sharp Dishwasher showing error code CL? Complete troubleshooting guide.',
+  description: 'Sharp Dishwasher showing error code CL? Troubleshooting guide.',
 }
 
 export default function Page() {

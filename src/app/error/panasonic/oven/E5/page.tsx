@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Panasonic Oven Error Code E5 - Fix Guide',
-  description: 'Panasonic Oven showing error code E5? Complete troubleshooting guide.',
+  description: 'Panasonic Oven showing error code E5? Troubleshooting guide.',
 }
 
 export default function Page() {

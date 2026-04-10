@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Electrolux Microwave Error Code DE - Fix Guide',
-  description: 'Electrolux Microwave showing error code DE? Complete troubleshooting guide.',
+  description: 'Electrolux Microwave showing error code DE? Troubleshooting guide.',
 }
 
 export default function Page() {

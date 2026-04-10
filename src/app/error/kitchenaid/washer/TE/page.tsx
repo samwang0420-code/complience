@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Washer Error Code TE - Fix Guide',
-  description: 'KitchenAid Washer showing error code TE? Complete troubleshooting guide.',
+  description: 'KitchenAid Washer showing error code TE? Troubleshooting guide.',
 }
 
 export default function Page() {

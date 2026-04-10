@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Amana Microwave Error Code E3 - Fix Guide',
-  description: 'Amana Microwave showing error code E3? Complete troubleshooting guide.',
+  description: 'Amana Microwave showing error code E3? Troubleshooting guide.',
 }
 
 export default function Page() {

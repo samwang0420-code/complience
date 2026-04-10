@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Hisense Oven Error Code E7 - Fix Guide',
-  description: 'Hisense Oven showing error code E7? Complete troubleshooting guide.',
+  description: 'Hisense Oven showing error code E7? Troubleshooting guide.',
 }
 
 export default function Page() {

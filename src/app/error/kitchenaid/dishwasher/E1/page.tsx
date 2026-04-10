@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'KitchenAid Dishwasher Error Code E1 - Fix Guide',
-  description: 'KitchenAid Dishwasher showing error code E1? Complete troubleshooting guide.',
+  description: 'KitchenAid Dishwasher showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {

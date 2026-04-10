@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'AEG Refrigerator Error Code E1 - Fix Guide',
-  description: 'AEG Refrigerator showing error code E1? Complete troubleshooting guide.',
+  description: 'AEG Refrigerator showing error code E1? Troubleshooting guide.',
 }
 
 export default function Page() {
