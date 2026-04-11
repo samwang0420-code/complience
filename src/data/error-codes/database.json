@@ -111036,10 +111036,10 @@
       }
     },
     {
-      "id": 3458,
+      "id": 4040,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-9719",
+      "model": "Goodman HVAC-5413",
       "code": "E03",
       "name": "Sensor Malfunction",
       "description": "Goodman Sensor Malfunction - Technical issue in Goodman hvac systems",
@@ -111055,11 +111055,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -111112,10 +111112,10 @@
       }
     },
     {
-      "id": 3460,
+      "id": 4043,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-6738",
+      "model": "Goodman HVAC-5812",
       "code": "F07",
       "name": "Position Error",
       "description": "Goodman Position Error - Technical issue in Goodman hvac systems",
@@ -111132,10 +111132,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2020",
+        "yearIntroduced": "2022",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -112670,10 +112670,10 @@
       }
     },
     {
-      "id": 3947,
+      "id": 4056,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-8851",
+      "model": "DMG MORI CNC-5459",
       "code": "U03",
       "name": "Operation Error",
       "description": "DMG MORI Operation Error - Technical issue in DMG MORI cnc systems",
@@ -112689,11 +112689,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2023",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -112860,10 +112860,10 @@
       }
     },
     {
-      "id": 3506,
+      "id": 4060,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-5775",
+      "model": "Fanuc ROBOTICS-3724",
       "code": "C04",
       "name": "Checksum Error",
       "description": "Fanuc Checksum Error - Technical issue in Fanuc robotics systems",
@@ -112879,11 +112879,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -113354,10 +113354,10 @@
       }
     },
     {
-      "id": 3962,
+      "id": 4042,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-1133",
+      "model": "Goodman HVAC-7957",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Goodman Calibration Error - Technical issue in Goodman hvac systems",
@@ -113374,10 +113374,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2020",
         "warranty": "1 year",
         "series": "GMSS",
         "features": [
@@ -113962,10 +113962,10 @@
       }
     },
     {
-      "id": 3535,
+      "id": 4061,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-9309",
+      "model": "Fanuc ROBOTICS-7546",
       "code": "F10",
       "name": "Temperature High",
       "description": "Fanuc Temperature High - Technical issue in Fanuc robotics systems",
@@ -113981,11 +113981,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2019",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -114114,10 +114114,10 @@
       }
     },
     {
-      "id": 3539,
+      "id": 4064,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-1968",
+      "model": "Fanuc ROBOTICS-8920",
       "code": "U03",
       "name": "Operation Error",
       "description": "Fanuc Operation Error - Technical issue in Fanuc robotics systems",
@@ -114134,10 +114134,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "15 min",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2021",
+        "yearIntroduced": "2017",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -120156,10 +120156,10 @@
       }
     },
     {
-      "id": 3696,
+      "id": 4036,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-2247",
+      "model": "Crosley WASHER-6022",
       "code": "L03",
       "name": "Door Open",
       "description": "Crosley Door Open - Technical issue in Crosley washer systems",
@@ -120176,10 +120176,10 @@
         "Reset system"
       ],
       "difficulty": "Hard",
-      "estimatedTime": "45 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -120232,10 +120232,10 @@
       }
     },
     {
-      "id": 3891,
+      "id": 4037,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-4955",
+      "model": "Crosley WASHER-3271",
       "code": "P01",
       "name": "Pump Fault",
       "description": "Crosley Pump Fault - Technical issue in Crosley washer systems",
@@ -120252,10 +120252,10 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "2 hours",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2016",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -125020,10 +125020,10 @@
       }
     },
     {
-      "id": 3828,
+      "id": 4045,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-7268",
+      "model": " Panasonic PLC-6883",
       "code": "F04",
       "name": "Overload",
       "description": " Panasonic Overload - Technical issue in  Panasonic plc systems",
@@ -125039,11 +125039,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Hard",
-      "estimatedTime": "2 hours",
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2016",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -125172,10 +125172,10 @@
       }
     },
     {
-      "id": 3835,
+      "id": 4053,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-8080",
+      "model": "DMG MORI CNC-1790",
       "code": "F01",
       "name": "Short Circuit",
       "description": "DMG MORI Short Circuit - Technical issue in DMG MORI cnc systems",
@@ -125191,11 +125191,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "30 min",
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2018",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -127338,10 +127338,10 @@
       }
     },
     {
-      "id": 4011,
+      "id": 4049,
       "brand": " Panasonic",
       "category": "PLC",
-      "model": " Panasonic PLC-6664",
+      "model": " Panasonic PLC-6357",
       "code": "P02",
       "name": "Valve Fault",
       "description": " Panasonic Valve Fault - Technical issue in  Panasonic plc systems",
@@ -127357,11 +127357,11 @@
         "Replace faulty part",
         "Reset system"
       ],
-      "difficulty": "Medium",
-      "estimatedTime": "45 min",
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": " Panasonic Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "FP",
         "features": [
@@ -129276,10 +129276,10 @@
       }
     },
     {
-      "id": 3951,
+      "id": 4052,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-3880",
+      "model": "DMG MORI CNC-1953",
       "code": "P04",
       "name": "Fan Fault",
       "description": "DMG MORI Fan Fault - Technical issue in DMG MORI cnc systems",
@@ -129296,7 +129296,7 @@
         "Reset system"
       ],
       "difficulty": "Medium",
-      "estimatedTime": "1 hour",
+      "estimatedTime": "2 hours",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
         "yearIntroduced": "2023",
@@ -129314,10 +129314,10 @@
       }
     },
     {
-      "id": 3952,
+      "id": 4055,
       "brand": "DMG MORI",
       "category": "CNC",
-      "model": "DMG MORI CNC-5086",
+      "model": "DMG MORI CNC-1432",
       "code": "F10",
       "name": "Temperature High",
       "description": "DMG MORI Temperature High - Technical issue in DMG MORI cnc systems",
@@ -129334,10 +129334,10 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "30 min",
+      "estimatedTime": "15 min",
       "productInfo": {
         "manufacturer": "DMG MORI Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2023",
         "warranty": "1 year",
         "series": "NLX, DMG",
         "features": [
@@ -130340,10 +130340,10 @@
       }
     },
     {
-      "id": 3986,
+      "id": 4057,
       "brand": "Fanuc",
       "category": "Robotics",
-      "model": "Fanuc ROBOTICS-7454",
+      "model": "Fanuc ROBOTICS-5124",
       "code": "F06",
       "name": "Speed Error",
       "description": "Fanuc Speed Error - Technical issue in Fanuc robotics systems",
@@ -130363,7 +130363,7 @@
       "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Fanuc Corporation",
-        "yearIntroduced": "2019",
+        "yearIntroduced": "2021",
         "warranty": "1 year",
         "series": "M-20iA",
         "features": [
@@ -130978,51 +130978,13 @@
       ]
     },
     {
-      "id": 3997,
+      "id": 4032,
       "brand": "Crosley",
       "category": "Washer",
-      "model": "Crosley WASHER-5127",
+      "model": "Crosley WASHER-2616",
       "code": "C01",
       "name": "Calibration Error",
       "description": "Crosley Calibration Error - Technical issue in Crosley washer systems",
-      "causes": [
-        "Crosley component failure",
-        "Electrical connection issue",
-        "Environmental factors",
-        "Component aging"
-      ],
-      "solutions": [
-        "Check connections",
-        "Inspect components",
-        "Replace faulty part",
-        "Reset system"
-      ],
-      "difficulty": "Medium",
-      "estimatedTime": "2 hours",
-      "productInfo": {
-        "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2022",
-        "warranty": "1 year",
-        "series": "Portable",
-        "features": [
-          "Compact"
-        ],
-        "commonIssues": [
-          "Component wear",
-          "Electrical issues",
-          "Programming errors"
-        ],
-        "voltage": "120V/240V"
-      }
-    },
-    {
-      "id": 3999,
-      "brand": "Crosley",
-      "category": "Washer",
-      "model": "Crosley WASHER-4025",
-      "code": "U03",
-      "name": "Operation Error",
-      "description": "Crosley Operation Error - Technical issue in Crosley washer systems",
       "causes": [
         "Crosley component failure",
         "Electrical connection issue",
@@ -131039,7 +131001,45 @@
       "estimatedTime": "1 hour",
       "productInfo": {
         "manufacturer": "Crosley Corporation",
-        "yearIntroduced": "2024",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4034,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-2471",
+      "code": "U03",
+      "name": "Operation Error",
+      "description": "Crosley Operation Error - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2015",
         "warranty": "1 year",
         "series": "Portable",
         "features": [
@@ -131130,10 +131130,10 @@
       }
     },
     {
-      "id": 4006,
+      "id": 4041,
       "brand": "Goodman",
       "category": "HVAC",
-      "model": "Goodman HVAC-3709",
+      "model": "Goodman HVAC-2633",
       "code": "F11",
       "name": "Temperature Low",
       "description": "Goodman Temperature Low - Technical issue in Goodman hvac systems",
@@ -131150,7 +131150,7 @@
         "Reset system"
       ],
       "difficulty": "Easy",
-      "estimatedTime": "45 min",
+      "estimatedTime": "30 min",
       "productInfo": {
         "manufacturer": "Goodman Corporation",
         "yearIntroduced": "2021",
@@ -132306,6 +132306,652 @@
         ],
         "voltage": "24V DC"
       }
+    },
+    {
+      "id": 4030,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-7990",
+      "code": "E04",
+      "name": "Motor Failure",
+      "description": "Crosley Motor Failure - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4031,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-8717",
+      "code": "P02",
+      "name": "Valve Fault",
+      "description": "Crosley Valve Fault - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2016",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4033,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-5324",
+      "code": "U01",
+      "name": "User Error",
+      "description": "Crosley User Error - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4035,
+      "brand": "Crosley",
+      "category": "Washer",
+      "model": "Crosley WASHER-9743",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "Crosley Setup Error - Technical issue in Crosley washer systems",
+      "causes": [
+        "Crosley component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Crosley Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "Portable",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4038,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-1363",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": "Goodman Temperature High - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4039,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-4644",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": "Goodman Pump Fault - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2018",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4044,
+      "brand": "Goodman",
+      "category": "HVAC",
+      "model": "Goodman HVAC-2938",
+      "code": "E07",
+      "name": "Pressure Fault",
+      "description": "Goodman Pressure Fault - Technical issue in Goodman hvac systems",
+      "causes": [
+        "Goodman component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Goodman Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "GMSS",
+        "features": [
+          "Two-Stage"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4046,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-7523",
+      "code": "F08",
+      "name": "Encoder Fault",
+      "description": " Panasonic Encoder Fault - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "45 min",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2017",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 4047,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-5126",
+      "code": "F10",
+      "name": "Temperature High",
+      "description": " Panasonic Temperature High - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Easy",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 4048,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-2696",
+      "code": "E08",
+      "name": "Flow Error",
+      "description": " Panasonic Flow Error - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 4050,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-1617",
+      "code": "F05",
+      "name": "Overheat",
+      "description": " Panasonic Overheat - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 4051,
+      "brand": " Panasonic",
+      "category": "PLC",
+      "model": " Panasonic PLC-7575",
+      "code": "P03",
+      "name": "Compressor Fault",
+      "description": " Panasonic Compressor Fault - Technical issue in  Panasonic plc systems",
+      "causes": [
+        " Panasonic component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": " Panasonic Corporation",
+        "yearIntroduced": "2019",
+        "warranty": "1 year",
+        "series": "FP",
+        "features": [
+          "Compact"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "24V DC"
+      }
+    },
+    {
+      "id": 4054,
+      "brand": "DMG MORI",
+      "category": "CNC",
+      "model": "DMG MORI CNC-4840",
+      "code": "F11",
+      "name": "Temperature Low",
+      "description": "DMG MORI Temperature Low - Technical issue in DMG MORI cnc systems",
+      "causes": [
+        "DMG MORI component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "30 min",
+      "productInfo": {
+        "manufacturer": "DMG MORI Corporation",
+        "yearIntroduced": "2022",
+        "warranty": "1 year",
+        "series": "NLX, DMG",
+        "features": [
+          "Universal"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4058,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-2376",
+      "code": "U02",
+      "name": "Setup Error",
+      "description": "Fanuc Setup Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "15 min",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2024",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4059,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1645",
+      "code": "U01",
+      "name": "User Error",
+      "description": "Fanuc User Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "2 hours",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2023",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4062,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-4195",
+      "code": "P01",
+      "name": "Pump Fault",
+      "description": "Fanuc Pump Fault - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2020",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
+    },
+    {
+      "id": 4063,
+      "brand": "Fanuc",
+      "category": "Robotics",
+      "model": "Fanuc ROBOTICS-1486",
+      "code": "E02",
+      "name": "Control Board Error",
+      "description": "Fanuc Control Board Error - Technical issue in Fanuc robotics systems",
+      "causes": [
+        "Fanuc component failure",
+        "Electrical connection issue",
+        "Environmental factors",
+        "Component aging"
+      ],
+      "solutions": [
+        "Check connections",
+        "Inspect components",
+        "Replace faulty part",
+        "Reset system"
+      ],
+      "difficulty": "Hard",
+      "estimatedTime": "1 hour",
+      "productInfo": {
+        "manufacturer": "Fanuc Corporation",
+        "yearIntroduced": "2015",
+        "warranty": "1 year",
+        "series": "M-20iA",
+        "features": [
+          "Cobot"
+        ],
+        "commonIssues": [
+          "Component wear",
+          "Electrical issues",
+          "Programming errors"
+        ],
+        "voltage": "120V/240V"
+      }
     }
   ],
   "brands": [
@@ -132432,9 +133078,9 @@
     "Robotics"
   ],
   "metadata": {
-    "totalCodes": 4029,
-    "lastUpdated": "2026-04-10",
+    "totalCodes": 4046,
+    "lastUpdated": "2026-04-11",
     "version": "4.0",
-    "dailyGenerated": 37
+    "dailyGenerated": 35
   }
 }
