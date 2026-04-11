@@ -10,7 +10,7 @@ export default function Page() {
       <p>Error code E7 troubleshooting for Hitachi Dishwasher.</p>
       <section>
         <h2>What It Means</h2>
-        <p>Error code E7 indicates a fault in the Hitachi Dishwasher system.</p>
+        <p>Error code E7 indicates a fault in the " + titles[b] + " " + titles[cat] + " system.</p>
       </section>
       <section>
         <h2>How to Fix</h2>
@@ -21,6 +21,15 @@ export default function Page() {
           <li>Restart the appliance</li>
           <li>Call a professional if the error persists</li>
         </ol>
+      </section>
+      <section>
+        <h2>Common Causes</h2>
+        <ul>
+          <li>Clogged filters or drain pump</li>
+          <li>Faulty sensors or wiring</li>
+          <li>Water supply issues</li>
+          <li>Control board malfunction</li>
+        </ul>
       </section>
     </div>
   )
