@@ -2,7 +2,8 @@ import Link from 'next/link'
 
 export const metadata = {
   title: 'Privacy Policy - ErrorCodeHub',
-  description: 'Privacy Policy for ErrorCodeHub - Appliance and Industrial Error Code Database'
+  description: 'Privacy Policy for ErrorCodeHub - Appliance and Industrial Error Code Database',
+  alternates: { canonical: '/privacy' },
 }
 
 export default function PrivacyPage() {

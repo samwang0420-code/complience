@@ -2,7 +2,8 @@ import Link from 'next/link'
 
 export const metadata = {
   title: 'Contact Us - ErrorCodeHub',
-  description: 'Contact ErrorCodeHub - Appliance and Industrial Error Code Database'
+  description: 'Contact ErrorCodeHub - Appliance and Industrial Error Code Database',
+  alternates: { canonical: '/contact' },
 }
 
 export default function ContactPage() {

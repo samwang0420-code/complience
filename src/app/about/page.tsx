@@ -3,6 +3,9 @@ import { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'About ErrorCodeHub - Our Mission & Data Sources',
   description: 'Learn about ErrorCodeHub\'s mission to provide accurate, trustworthy error code information. Our data comes from manufacturer manuals and certified technicians.',
+  alternates: {
+    canonical: '/about',
+  },
 }
 
 export default function AboutPage() {
