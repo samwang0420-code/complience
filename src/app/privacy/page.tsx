@@ -9,6 +9,7 @@ export const metadata = {
 export default function PrivacyPage() {
   return (
     <div style={{ minHeight: '100vh', background: '#0f172a', padding: '40px 20px' }}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Organization", "name": "ErrorCodeHub", "url": "https://uscomplianceguard.com/", "description": "Largest free error code database for appliances, cars & EVs — sourced from official manuals and certified technicians." }) }} />
       <header style={{ maxWidth: '800px', margin: '0 auto 40px' }}>
         <Link href="/" style={{ color: '#6366f1', textDecoration: 'none', fontSize: '0.9rem' }}>
           ← Back to Home

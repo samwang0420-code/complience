@@ -9,8 +9,9 @@ export const metadata: Metadata = {
 }
 
 export default function AboutPage() {
-  return (
+return (
     <div style={{ maxWidth: '900px', margin: '0 auto', padding: '40px 20px' }}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Organization", "name": "ErrorCodeHub", "url": "https://uscomplianceguard.com/", "description": "Largest free error code database for appliances, cars & EVs — sourced from official manuals and certified technicians." }) }} />
       <h1 style={{ fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '20px' }}>
         About ErrorCodeHub
       </h1>

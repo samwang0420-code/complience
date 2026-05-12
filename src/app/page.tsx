@@ -29,7 +29,37 @@ export const metadata: Metadata = {
       'max-image-preview': 'large',
       'max-snippet': -1,
     },
-  }
+  },
+}
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': 'https://uscomplianceguard.com/#website',
+      url: 'https://uscomplianceguard.com/',
+      name: 'ErrorCodeHub',
+      description: `Search ${errorCodes.errorCodes.length.toLocaleString()}+ error codes for appliances, automotive & electric vehicles with detailed solutions`,
+      publisher: { '@id': 'https://uscomplianceguard.com/#organization' },
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: {
+          '@type': 'EntryPoint',
+          urlTemplate: 'https://uscomplianceguard.com/search?q={search_term_string}',
+        },
+        'query-input': 'required name=search_term_string',
+      },
+    },
+    {
+      '@type': 'Organization',
+      '@id': 'https://uscomplianceguard.com/#organization',
+      name: 'ErrorCodeHub',
+      url: 'https://uscomplianceguard.com/',
+      description: 'Largest free error code database for appliances, cars & EVs — sourced from official manuals and certified technicians.',
+      sameAs: [],
+    },
+  ],
 }
 
 export default function Home() {
@@ -39,6 +69,10 @@ export default function Home() {
 
   return (
     <div style={{ minHeight: '100vh', background: '#0f172a' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <header style={{ textAlign: 'center', padding: '60px 20px', background: 'linear-gradient(180deg, #1e293b 0%, #0f172a 100%)' }}>
         <div style={{ display: 'inline-block', background: '#dc2626', color: 'white', padding: '4px 12px', borderRadius: '6px', fontSize: '0.85rem', marginBottom: '16px' }}>
           🔧 {errorCodes.errorCodes.length.toLocaleString()}+ Error Codes • Updated Daily
