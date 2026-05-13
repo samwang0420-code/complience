@@ -3,10 +3,16 @@ import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export async function generateStaticParams() {
-  return errorCodes.errorCodes.map((item: any) => ({
+  // Pre-render only a sample of error codes to limit build memory usage
+  // Blog pages for unrendered slugs will be generated on-demand (dynamicParams: true)
+  const sample = errorCodes.errorCodes.filter((_: any, i: number) => i % 50 === 0)
+  return sample.map((item: any) => ({
     slug: `${item.brand.toLowerCase()}-${item.category.toLowerCase()}-${item.code.toLowerCase()}`
   }))
 }
+
+export const dynamicParams = true
+export const dynamic = 'force-static'
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const item = findErrorCode(params.slug)

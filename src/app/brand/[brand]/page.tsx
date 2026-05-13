@@ -3,11 +3,15 @@ import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export async function generateStaticParams() {
+  // Pre-render only top brands to limit build memory usage
   const brands = [...new Set(errorCodes.errorCodes.map((item: any) => item.brand))]
-  return brands.map((brand: any) => ({
+  return brands.slice(0, 30).map((brand: any) => ({
     brand: brand.toLowerCase().replace(/ /g, '-')
   }))
 }
+
+export const dynamicParams = true
+export const dynamic = 'force-static'
 
 export async function generateMetadata({ params }: { params: { brand: string } }): Promise<Metadata> {
   const brand = params.brand.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())

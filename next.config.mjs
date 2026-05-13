@@ -11,13 +11,11 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  // Performance optimizations
   swcMinify: true,
-  compress: true,
+  compress: false,
   poweredByHeader: false,
   generateEtags: false,
   experimental: {
-    optimizeCss: true,
     scrollRestoration: true,
   },
 };

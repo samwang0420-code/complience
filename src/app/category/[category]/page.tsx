@@ -3,7 +3,8 @@ import { Metadata } from 'next'
 import errorCodes from '@/data/error-codes/database.json'
 
 export async function generateStaticParams() {
-  return errorCodes.categories.map((cat: string) => ({
+  // Pre-render only first 6 categories to limit build memory usage
+  return errorCodes.categories.slice(0, 6).map((cat: string) => ({
     category: cat.toLowerCase()
   }))
 }
