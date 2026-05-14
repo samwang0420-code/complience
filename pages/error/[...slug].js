@@ -2,7 +2,7 @@ import { useRouter } from 'next/router'
 import fs from 'fs'
 import path from 'path'
 
-const ERROR_SRC_DIR = path.join(process.cwd(), 'src/app/error')
+const ERROR_SRC_DIR = path.join(process.cwd(), 'src/app/errors')
 
 // Brand/category display names
 const BRAND_NAMES = {
