@@ -8,7 +8,7 @@ const codes = ['E1', 'E2', 'E3', 'E4', 'E5', 'OE', 'IE', 'DE', 'LE', 'UE', 'TE',
 const brandTitles = {'hisense':'Hisense','lg':'LG','samsung':'Samsung','whirlpool':'Whirlpool','ge':'GE','maytag':'Maytag','kenmore':'Kenmore','bosch':'Bosch','frigidaire':'Frigidaire','electrolux':'Electrolux','amana':'Amana','kitchenaid':'KitchenAid','miele':'Miele','siemens':'Siemens','haier':'Haier','panasonic':'Panasonic','sharp':'Sharp','toshiba':'Toshiba','zanussi':'Zanussi','aeg':'AEG','daewoo':'Daewoo','hitachi':'Hitachi'};
 const categoryTitles = {'washer':'Washer','dryer':'Dryer','dishwasher':'Dishwasher','refrigerator':'Refrigerator','oven':'Oven','microwave':'Microwave'};
 
-const outputBase = 'src/app/error';
+const outputBase = 'src/app/errors';
 
 let count = 0;
 brands.forEach(brand => {
