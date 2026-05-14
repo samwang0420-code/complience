@@ -15,7 +15,7 @@ let count = 0;
 for (const b of brands) {
   for (const cat of cats) {
     for (const code of codes) {
-      const dir = 'src/app/error/' + b + '/' + cat + '/' + code;
+      const dir = 'src/app/errors/' + b + '/' + cat + '/' + code;
       fs.mkdirSync(dir, {recursive: true});
       const content = [
         \"export const metadata = {\",
