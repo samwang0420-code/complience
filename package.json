@@ -12,14 +12,13 @@
     "critters": "^0.0.20",
     "googleapis": "^130.0.0",
     "lucide-react": "^0.300.0",
-    "next": "14.3.0",
+    "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",
     "react-markdown": "^10.0.0",
     "remark-gfm": "^4.0.0"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.13.16",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
